@@ -6,6 +6,6 @@ Etsy/Gelato-Produkt. Aktueller Produktionsstand: [production/PROGRESS.md](produc
 - [Rätselkonzept](month-puzzles.md)
 - [Übernommene Fehlerlehren](production/LESSONS-LEARNED.md)
 - [Werkzeuge und Verwendung](tools/README.md)
-- Aktueller Arbeitsmaster: `output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v04.pdf`
+- Aktueller Arbeitsmaster: `output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v07.pdf`
 
-Arbeitsstand mit offenen Illustrationskorrekturen, Nutzerreview und Gelato-Druckprüfung.
+Arbeitsstand mit drei Bildkorrekturentwürfen, offenem Nutzerreview und Gelato-Druckprüfung.

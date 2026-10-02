@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320pt" height="290pt" viewBox="0 0 320 290">
+<polygon points="0,0 320,0 320,290 0,290" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+<text x="160" y="18" fill="#e48a4d" font-family="Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle">Pumpkin Pairs</text>
+<text x="160" y="34" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="8.6" text-anchor="middle">Find the 5 matching pairs. Which 2 pumpkins are left without a</text>
+<text x="160" y="45" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="8.6" text-anchor="middle">partner?</text>
+<ellipse cx="43" cy="88" rx="20" ry="19" fill="#f4c17d" stroke="#24465a" stroke-width="1"/>
+<line x1="43" y1="69" x2="45" y2="62" stroke="#79a984" stroke-width="3"/>
+<polygon points="32,87 36,81 40,87" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="46,87 50,81 54,87" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<line x1="32" y1="95" x2="54" y2="95" stroke="#24465a" stroke-width="2"/>
+<polygon points="33.0,95 35.0,95 35.0,98 33.0,98" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<text x="43" y="119" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">A</text>
+<ellipse cx="121" cy="88" rx="20" ry="19" fill="#f4c17d" stroke="#24465a" stroke-width="1"/>
+<line x1="121" y1="69" x2="123" y2="62" stroke="#79a984" stroke-width="3"/>
+<ellipse cx="114" cy="84" rx="3" ry="3" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<ellipse cx="128" cy="84" rx="3" ry="3" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<line x1="110" y1="95" x2="132" y2="95" stroke="#24465a" stroke-width="2"/>
+<polygon points="111.0,95 113.0,95 113.0,98 111.0,98" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="131.0,95 133.0,95 133.0,98 131.0,98" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<text x="121" y="119" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">B</text>
+<ellipse cx="199" cy="88" rx="20" ry="19" fill="#f4c17d" stroke="#24465a" stroke-width="1"/>
+<line x1="199" y1="69" x2="201" y2="62" stroke="#79a984" stroke-width="3"/>
+<polygon points="188,87 192,81 196,87" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="202,87 206,81 210,87" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<line x1="188" y1="95" x2="210" y2="95" stroke="#24465a" stroke-width="2"/>
+<polygon points="189.0,95 191.0,95 191.0,98 189.0,98" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="199.0,95 201.0,95 201.0,98 199.0,98" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="209.0,95 211.0,95 211.0,98 209.0,98" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<text x="199" y="119" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">C</text>
+<ellipse cx="277" cy="88" rx="20" ry="19" fill="#f4c17d" stroke="#24465a" stroke-width="1"/>
+<line x1="277" y1="69" x2="279" y2="62" stroke="#79a984" stroke-width="3"/>
+<ellipse cx="270" cy="84" rx="3" ry="3" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<ellipse cx="284" cy="84" rx="3" ry="3" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<line x1="266" y1="95" x2="288" y2="95" stroke="#24465a" stroke-width="2"/>
+<polygon points="267.0,95 269.0,95 269.0,98 267.0,98" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="271.0,95 273.0,95 273.0,98 271.0,98" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="275.0,95 277.0,95 277.0,98 275.0,98" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="279.0,95 281.0,95 281.0,98 279.0,98" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="283.0,95 285.0,95 285.0,98 283.0,98" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="287.0,95 289.0,95 289.0,98 287.0,98" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="280,68 290,62 287,70" fill="#79a984" stroke="#24465a" stroke-width="1"/>
+<text x="277" y="119" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">D</text>
+<ellipse cx="43" cy="168" rx="20" ry="19" fill="#f4c17d" stroke="#24465a" stroke-width="1"/>
+<line x1="43" y1="149" x2="45" y2="142" stroke="#79a984" stroke-width="3"/>
+<ellipse cx="36" cy="164" rx="3" ry="3" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<ellipse cx="50" cy="164" rx="3" ry="3" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<line x1="32" y1="175" x2="54" y2="175" stroke="#24465a" stroke-width="2"/>
+<polygon points="33.0,175 35.0,175 35.0,178 33.0,178" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="39.666666666666664,175 41.666666666666664,175 41.666666666666664,178 39.666666666666664,178" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="46.333333333333336,175 48.333333333333336,175 48.333333333333336,178 46.333333333333336,178" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="53.0,175 55.0,175 55.0,178 53.0,178" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<text x="43" y="199" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">E</text>
+<ellipse cx="121" cy="168" rx="20" ry="19" fill="#f4c17d" stroke="#24465a" stroke-width="1"/>
+<line x1="121" y1="149" x2="123" y2="142" stroke="#79a984" stroke-width="3"/>
+<ellipse cx="114" cy="164" rx="3" ry="3" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<ellipse cx="128" cy="164" rx="3" ry="3" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<line x1="110" y1="175" x2="132" y2="175" stroke="#24465a" stroke-width="2"/>
+<polygon points="111.0,175 113.0,175 113.0,178 111.0,178" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="131.0,175 133.0,175 133.0,178 131.0,178" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<text x="121" y="199" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">F</text>
+<ellipse cx="199" cy="168" rx="20" ry="19" fill="#f4c17d" stroke="#24465a" stroke-width="1"/>
+<line x1="199" y1="149" x2="201" y2="142" stroke="#79a984" stroke-width="3"/>
+<polygon points="188,167 192,161 196,167" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="202,167 206,161 210,167" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<line x1="188" y1="175" x2="210" y2="175" stroke="#24465a" stroke-width="2"/>
+<polygon points="189.0,175 191.0,175 191.0,178 189.0,178" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="194.0,175 196.0,175 196.0,178 194.0,178" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="199.0,175 201.0,175 201.0,178 199.0,178" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="204.0,175 206.0,175 206.0,178 204.0,178" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="209.0,175 211.0,175 211.0,178 209.0,178" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<text x="199" y="199" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">G</text>
+<ellipse cx="277" cy="168" rx="20" ry="19" fill="#f4c17d" stroke="#24465a" stroke-width="1"/>
+<line x1="277" y1="149" x2="279" y2="142" stroke="#79a984" stroke-width="3"/>
+<polygon points="266,167 270,161 274,167" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="280,167 284,161 288,167" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<line x1="266" y1="175" x2="288" y2="175" stroke="#24465a" stroke-width="2"/>
+<polygon points="267.0,175 269.0,175 269.0,178 267.0,178" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<text x="277" y="199" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">H</text>
+<ellipse cx="43" cy="248" rx="20" ry="19" fill="#f4c17d" stroke="#24465a" stroke-width="1"/>
+<line x1="43" y1="229" x2="45" y2="222" stroke="#79a984" stroke-width="3"/>
+<polygon points="32,247 36,241 40,247" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="46,247 50,241 54,247" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<line x1="32" y1="255" x2="54" y2="255" stroke="#24465a" stroke-width="2"/>
+<polygon points="33.0,255 35.0,255 35.0,258 33.0,258" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="38.0,255 40.0,255 40.0,258 38.0,258" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="43.0,255 45.0,255 45.0,258 43.0,258" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="48.0,255 50.0,255 50.0,258 48.0,258" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="53.0,255 55.0,255 55.0,258 53.0,258" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<text x="43" y="279" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">I</text>
+<ellipse cx="121" cy="248" rx="20" ry="19" fill="#f4c17d" stroke="#24465a" stroke-width="1"/>
+<line x1="121" y1="229" x2="123" y2="222" stroke="#79a984" stroke-width="3"/>
+<polygon points="110,247 114,241 118,247" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="124,247 128,241 132,247" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<line x1="110" y1="255" x2="132" y2="255" stroke="#24465a" stroke-width="2"/>
+<polygon points="111.0,255 113.0,255 113.0,258 111.0,258" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="121.0,255 123.0,255 123.0,258 121.0,258" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="131.0,255 133.0,255 133.0,258 131.0,258" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<text x="121" y="279" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">J</text>
+<ellipse cx="199" cy="248" rx="20" ry="19" fill="#f4c17d" stroke="#24465a" stroke-width="1"/>
+<line x1="199" y1="229" x2="201" y2="222" stroke="#79a984" stroke-width="3"/>
+<polygon points="188,247 192,241 196,247" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="202,247 206,241 210,247" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<line x1="188" y1="255" x2="210" y2="255" stroke="#24465a" stroke-width="2"/>
+<polygon points="189.0,255 191.0,255 191.0,258 189.0,258" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="192.33333333333334,255 194.33333333333334,255 194.33333333333334,258 192.33333333333334,258" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="195.66666666666666,255 197.66666666666666,255 197.66666666666666,258 195.66666666666666,258" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="199.0,255 201.0,255 201.0,258 199.0,258" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="202.33333333333334,255 204.33333333333334,255 204.33333333333334,258 202.33333333333334,258" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="205.66666666666666,255 207.66666666666666,255 207.66666666666666,258 205.66666666666666,258" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="209.0,255 211.0,255 211.0,258 209.0,258" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="202,228 212,222 209,230" fill="#79a984" stroke="#24465a" stroke-width="1"/>
+<text x="199" y="279" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">K</text>
+<ellipse cx="277" cy="248" rx="20" ry="19" fill="#f4c17d" stroke="#24465a" stroke-width="1"/>
+<line x1="277" y1="229" x2="279" y2="222" stroke="#79a984" stroke-width="3"/>
+<ellipse cx="270" cy="244" rx="3" ry="3" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<ellipse cx="284" cy="244" rx="3" ry="3" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<line x1="266" y1="255" x2="288" y2="255" stroke="#24465a" stroke-width="2"/>
+<polygon points="267.0,255 269.0,255 269.0,258 267.0,258" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="273.6666666666667,255 275.6666666666667,255 275.6666666666667,258 273.6666666666667,258" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="280.3333333333333,255 282.3333333333333,255 282.3333333333333,258 280.3333333333333,258" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="287.0,255 289.0,255 289.0,258 287.0,258" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<text x="277" y="279" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">L</text>
+</svg>

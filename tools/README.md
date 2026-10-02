@@ -10,6 +10,8 @@ Aktiv:
 - `check-calendar-master.py production/puzzles/<Version>`: prüft zwölf Monate, echte Wochentage 2027, Seitengrößen, Titel, Aufgaben und unveränderte übrige Texte.
 - `assemble-calendar-master.py --lower <registrierte-untere-PDF> --output <neue-PDF>`: ersetzt ausschließlich die zwölf unteren Monatsseiten der registrierten 26-Seiten-Basis. Die übrigen 14 Seiten bleiben erhalten; Quell- und Seitenprüfsummen werden geprüft.
 
+Nachgereichter Kalenderstand: Der Rätsel-Builder akzeptiert `--source <registrierte-Komplettfassung>` und erhält deren Texte, konkrete Bao-Aufgaben und Sterntracker. Saisonfarben stammen aus der Vorlage; die Jahreszahl wird mit Abstand zum Monatsnamen gesetzt. Der Zusammenbau unterstützt `--base <registrierte-Komplettfassung>` und wiederholtes `--month-image MONAT=registrierter/Pfad.png` für Februar/April/Juni. Bildplatzierung bleibt bestehen; die eingebetteten Korrekturpixel werden exakt geprüft.
+
 `reference-halloween/` enthält alle Python-/Swift-Skripte und die ursprüngliche Werkzeugübersicht als nachvollziehbare Referenz. Keines dieser historischen Skripte wurde ausgeführt. Insbesondere KDP-Assembler, Cleanup-Skripte, Cover-Exporte und versionsgebundene Reparaturen nicht direkt starten. Der Rätsel-Builder zeigt nutzbare Prinzipien (exakte Duplikate, gemeinsame Lösungsgeometrie, deterministische Konstruktion), enthält aber Halloween-Aufgaben, deutsche Texte und Buchmaße.
 
 `production/tool-import-manifest.json` dokumentiert Originalpfade und Prüfsummen. Wiederkehrende Abläufe parametrisieren; keine neue Skriptkopie allein für einen anderen Ausgabeordner. Bestandsdateien nie zur Vorbereitung löschen.

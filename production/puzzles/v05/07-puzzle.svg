@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320pt" height="290pt" viewBox="0 0 320 290">
+<polygon points="0,0 320,0 320,290 0,290" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+<text x="160" y="18" fill="#f0b65a" font-family="Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle">Which Shadow Belongs to the Castle?</text>
+<text x="160" y="34" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="8.6" text-anchor="middle">Look carefully! Which shadow matches the sandcastle exactly?</text>
+<polygon points="109,133 109,88 117,88 117,78 125,78 125,88 133,88 133,78 141,78 141,88 149,88 149,103 169,103 169,88 177,88 177,78 185,78 185,88 193,88 193,78 201,78 201,88 209,88 209,133" fill="#e9c68b" stroke="#24465a" stroke-width="1"/>
+<polygon points="128,60 130,60 130,80 128,80" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="130,60 145,64 130,69" fill="#e891a2" stroke="#24465a" stroke-width="1"/>
+<polygon points="153,113 166,113 166,133 153,133" fill="#ba935f" stroke="#24465a" stroke-width="1"/>
+<text x="160" y="151" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">The sandcastle</text>
+<polygon points="17.0,217.8 17.0,179.64 22.759999999999998,179.64 22.759999999999998,172.44 28.52,172.44 28.52,179.64 34.28,179.64 34.28,172.44 40.04,172.44 40.04,179.64 45.8,185.4 45.8,196.2 60.199999999999996,196.2 60.199999999999996,185.4 65.96000000000001,185.4 65.96000000000001,178.2 71.72,178.2 71.72,185.4 77.47999999999999,185.4 77.47999999999999,178.2 83.24,178.2 83.24,185.4 89.0,185.4 89.0,217.8" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="30.68,165.24 32.12,165.24 32.12,179.64000000000001 30.68,179.64000000000001" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="32.12,165.24 42.92,168.12 32.12,171.72" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<text x="55" y="226" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">A</text>
+<polygon points="175.0,217.8 175.0,185.4 180.76,185.4 180.76,178.2 186.52,178.2 186.52,185.4 192.28,185.4 192.28,178.2 198.04,178.2 198.04,185.4 203.8,185.4 203.8,196.2 218.2,196.2 218.2,194.04 223.96,194.04 223.96,186.84 229.72,186.84 229.72,194.04 235.48,194.04 235.48,186.84 241.24,186.84 241.24,194.04 247.0,194.04 247.0,217.8" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="188.68,165.24 190.12,165.24 190.12,179.64000000000001 188.68,179.64000000000001" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="190.12,165.24 200.92,168.12 190.12,171.72" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<text x="213" y="226" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">B</text>
+<polygon points="17.0,274.8 17.0,242.4 22.759999999999998,242.4 22.759999999999998,235.2 28.52,235.2 28.52,242.4 34.28,242.4 34.28,235.2 40.04,235.2 40.04,242.4 45.8,242.4 45.8,253.2 60.199999999999996,253.2 60.199999999999996,242.4 65.96000000000001,242.4 65.96000000000001,235.2 71.72,235.2 71.72,242.4 77.47999999999999,242.4 77.47999999999999,235.2 83.24,235.2 83.24,242.4 89.0,242.4 89.0,274.8" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="30.68,222.24 32.12,222.24 32.12,236.64000000000001 30.68,236.64000000000001" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="32.12,222.24 42.92,225.12 32.12,228.72" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<text x="55" y="283" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">C</text>
+<polygon points="175.0,274.8 175.0,242.4 180.76,242.4 180.76,235.2 186.52,235.2 186.52,242.4 192.28,242.4 192.28,235.2 198.04,235.2 198.04,242.4 203.8,242.4 203.8,253.2 218.2,253.2 218.2,242.4 223.96,242.4 223.96,235.2 229.72,235.2 247.0,253.2 247.0,274.8" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="188.68,222.24 190.12,222.24 190.12,236.64000000000001 188.68,236.64000000000001" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<polygon points="190.12,222.24 200.92,225.12 190.12,228.72" fill="#24465a" stroke="#24465a" stroke-width="1"/>
+<text x="213" y="283" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">D</text>
+</svg>

@@ -1,0 +1,8 @@
+{
+  "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+  "source_sha256": "127549545f169456743a346accb2db341c1854af6d762907b1798de1dd91e16d",
+  "page": 12,
+  "output": "production/month-images/sources-recovered/06-from-recovered-master.png",
+  "sha256": "a8b152e989522db1eed3d2770ba5a9072eed74ee774964158823024b998b7215",
+  "operation": "lossless embedded-image extraction; no editing"
+}

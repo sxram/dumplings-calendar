@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-02",
+  "master": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v07.pdf",
+  "sha256": "8dd9e004e487c64e6b1c740e3cc1fcabe8eea7110079c4f6dfa9f30f55d946d6",
+  "page_count": 26,
+  "visual_review": "Upper pages and covers reviewed from v06 rendering; their v07 resources and content are unchanged. All 12 final v07 lower pages reviewed.",
+  "calendar_positions": "365 passed",
+  "trackers": "1/12 through 12/12 passed",
+  "december_pixels": "exactly identical to recovered approved PNG",
+  "corrected_image_pixels": "exact embedding verified by assembler",
+  "open": [
+    "User design approval",
+    "Imprint",
+    "Gelato template, binding safe area, bleed, effective resolution and print checks"
+  ],
+  "source_artwork_note": "September upper illustration has a sign at its upper edge with partial text; inherited source, retained without edits."
+}

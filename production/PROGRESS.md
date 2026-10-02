@@ -1,5 +1,22 @@
 # Kalenderstand — 02.10.2026
 
+## Aktueller Stand: Arbeitsmaster v07
+
+`output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v07.pdf` ist die aktuelle 26-seitige Fassung. Quelle ist der nachgereichte Chat-Master. Frühere Abschnitte weiter unten dokumentieren die Historie.
+
+- Februar: Mochi mit Wintermantel und Schal, Uhr visuell auf 20:51 korrigiert. Freigegebener Kranz visuell erhalten. April/Juni: falsche Pompon-Schwänze entfernt; lokale Hintergründe rekonstruiert. Drei Korrekturentwürfe, Nutzerfreigabe offen. Bilder und Prompts: `month-images/CORRECTIONS.md`.
+- Dezember unverändert; eingebettete Bildpixel stimmen exakt mit dem nachgereichten freigegebenen PNG überein.
+- Zwölf deterministische Rätsel als editierbare SVGs in die vorhandenen unteren Vorlagen eingesetzt, saisonale Farben übernommen. Doppelte Dezember-Rätselbeschriftung entfernt.
+- Gefundene Storytexte, konkrete Bao-Aufgaben, Challenges und Fakten unverändert übernommen. Kopfzeilen entzerrt: 2027 steht mit Abstand zum Monatsnamen.
+- Alle 365 Wochentagspositionen, Sterntracker 1/12 bis 12/12, Titel, Aufgaben, übrige Texte, Seitenmaße und Quellenprüfsummen geprüft.
+- Gesamtausgabe visuell geprüft; nach der Kopfzeilenkorrektur alle zwölf endgültigen unteren Seiten erneut geprüft. Originale und frühere Ausgaben erhalten.
+- Offen: Nutzerreview der Bilder und einfachen Vektorrätsel, Impressum und konkrete Gelato-Produktprüfung. Die obere Septemberquelle enthält am Rand ein Schild mit teilweise abgeschnittenem Text; unverändert übernommen und im Review dokumentiert.
+
+- Neues To-do: Frontseite inhaltlich abgleichen und die zusammenhängende Jahresgeschichte in zwölf Monatskapiteln deutlich ankündigen. Details: [TODO.md](../TODO.md).
+
+## Historische Produktionsnotizen
+
+
 ## Erledigt
 
 - 46 historische Python-/Swift-Werkzeuge samt Werkzeugübersicht aus dem Halloween-Projekt kopiert, byteidentisch geprüft und Herkunft dokumentiert. Historische Builder nicht ausgeführt.
@@ -25,3 +42,7 @@ Quelle und Seitenzuordnung stehen im gleichnamigen Manifest. Die eingebauten Mon
 - Dezember: zuletzt freigegebene Monatsillustration ist lokal nicht eindeutig belegt. Bestehende Komplettfassung unverändert übernommen; `12_not_correct.png` ausdrücklich nicht verwendet.
 - Impressum und konkrete Gelato-Produktvorlage samt Bindung, Sicherheitsbereichen, Beschnitt und effektiver Auflösung.
 - Keine Druckfreigabe, kein Etsy-Upload, keine Veröffentlichung.
+
+## Nachgereichter Chatstand
+
+Am 02.10.2026 sind ein weiterer historischer Master, die freigegebene Dezemberillustration und präzisierte Korrekturvorgaben eingetroffen. V04 ist noch nicht damit abgeglichen. Die bisher als offen geführte Dezemberzuordnung ist gelöst. Details und nächste Quellenbasis: `RECOVERED-UPDATE-2026-10-02.md`. Die älteren Offenpunkte oben dokumentieren den Stand vor diesem Fund.

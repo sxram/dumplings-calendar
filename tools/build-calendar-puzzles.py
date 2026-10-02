@@ -289,29 +289,47 @@ def build(n):
  return s,answer,proof
 
 def main():
- p=argparse.ArgumentParser();p.add_argument('--output',required=True);args=p.parse_args();out=(ROOT/args.output).resolve()
+ p=argparse.ArgumentParser();p.add_argument('--output',required=True);p.add_argument('--source',default='giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf');args=p.parse_args();out=(ROOT/args.output).resolve()
  assert out.is_relative_to(ROOT);out.mkdir(parents=True,exist_ok=False)
- reg=json.loads((ROOT/'production/assets.json').read_text());rel='giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf';src=ROOT/rel
+ reg=json.loads((ROOT/'production/assets.json').read_text());rel=args.source;src=ROOT/rel
  assert hashlib.sha256(src.read_bytes()).hexdigest()==reg['assets'][rel]['sha256']
  reference='characters/reference-images/01-character-reference-v02-accessories.png'
  assert hashlib.sha256((ROOT/reference).read_bytes()).hexdigest()==reg['assets'][reference]['sha256']
- reader=PdfReader(src);assert len(reader.pages)==12
+ reader=PdfReader(src);recovered=len(reader.pages)==26;assert len(reader.pages) in [12,26]
+ source_pages=[reader.pages[2+i*2] for i in range(12)] if recovered else reader.pages
  writer=PdfWriter();records=[]
- for n,page in enumerate(reader.pages,1):
-  s,answer,proof=build(n);(out/f'{n:02}-puzzle.svg').write_text(s.svg());(out/f'{n:02}-drawing.json').write_text(json.dumps(s.ops,ensure_ascii=False,indent=2)+'\n')
+ for n,page in enumerate(source_pages,1):
+  s,answer,proof=build(n)
   raw=page.get_contents().get_data()
-  begins=list(re.finditer(rb'1 1 1 rg\n[^\n]+ RG\n\.8 w\nn\n502 88 m\n',raw))
-  ends=list(re.finditer(rb'[^\n]+ rg\n[^\n]+ RG\n\.8 w\nn\n501 15 m\n',raw))
+  if recovered:
+   year_pattern=rb'BT 1 0 0 1 (164|185|206|227) 557\.2756 Tm (/F2\+0 25 Tf 30 TL \([2027]\) Tj T\* ET)'
+   raw,count=re.subn(year_pattern,lambda m:b'BT 1 0 0 1 '+str(int(m.group(1))+41).encode()+b' 557.2756 Tm '+m.group(2),raw)
+   assert count==4,(n,'year header layout changed')
+  if recovered:
+   if n==12:
+    assert raw.count(b'\nQ\n\nq\n')==1
+    raw=raw.split(b'\nQ\n\nq\n')[0]+b'\nQ\n'
+   begins=list(re.finditer(rb'1 1 1 rg\n([^\n]+) RG\n1 w\nn\n491 100 m\n',raw))
+   ends=list(re.finditer(rb'[^\n]+ rg\n[^\n]+ RG\n1 w\nn\n25 14 m\n',raw))
+  else:
+   begins=list(re.finditer(rb'1 1 1 rg\n([^\n]+) RG\n\.8 w\nn\n502 88 m\n',raw))
+   ends=list(re.finditer(rb'[^\n]+ rg\n[^\n]+ RG\n\.8 w\nn\n501 15 m\n',raw))
   assert len(begins)==1 and len(ends)==1,(n,'source layout changed')
   a=begins[0].start();b=ends[0].start();assert a<b;removed=raw[a:b]
+  rgb=[float(v) for v in begins[0].group(1).split()];season='#'+''.join(f'{round(v*255):02x}' for v in rgb)
+  season_ink='#'+''.join(f'{round(v*255*.60):02x}' for v in rgb)
+  s.ops=[(k,tuple(season_ink if v==BLUE else v for v in args)) for k,args in s.ops]
+  (out/f'{n:02}-puzzle.svg').write_text(s.svg());(out/f'{n:02}-drawing.json').write_text(json.dumps(s.ops,ensure_ascii=False,indent=2)+'\n')
   new=raw[:a]+raw[b:];new=new.replace(b'BT /F1 8.5 Tf 10.2 TL ET',b'.141176 .27451 .352941 rg\nBT /F1 8.5 Tf 10.2 TL ET');stream=DecodedStreamObject();stream.set_data(new);page[NameObject('/Contents')]=stream
   mem=io.BytesIO();c=canvas.Canvas(mem,pagesize=(float(page.mediabox.width),float(page.mediabox.height)))
-  c.setFillColor(HexColor('#ffffff'));c.setStrokeColor(HexColor('#86c9ed'));c.setLineWidth(.8);c.roundRect(492,88,335.89,305.2756,10,fill=1,stroke=1)
-  s.render(c,500,94,1);c.save();mem.seek(0);page.merge_page(PdfReader(mem).pages[0]);writer.add_page(page)
+  c.setFillColor(HexColor('#ffffff'));c.setStrokeColor(HexColor(season));c.setLineWidth(.8)
+  if recovered:c.roundRect(479,100,348.89,315.2756,12,fill=1,stroke=1);s.render(c,493,110,1)
+  else:c.roundRect(492,88,335.89,305.2756,10,fill=1,stroke=1);s.render(c,500,94,1)
+  c.save();mem.seek(0);page.merge_page(PdfReader(mem).pages[0]);writer.add_page(page)
   records.append({'month':n,'title':TITLES[n-1],'instruction':TASKS[n-1],'answer':answer,'construction':proof,'removed_old_puzzle_sha256':hashlib.sha256(removed).hexdigest(),'retained_source_operations_sha256':hashlib.sha256(new).hexdigest()})
  writer.add_metadata({'/Title':'Giggle Dumplings 2027 - ARBEITSMASTER - lower pages '+out.name,'/Subject':'Working master. Gelato print checks and user review pending.'})
  target=out/f'giggle-dumplings-2027-lower-pages-ARBEITSMASTER-{out.name}.pdf'
  with target.open('wb') as f:writer.write(f)
- (out/'manifest.json').write_text(json.dumps({'source':rel,'source_sha256':reg['assets'][rel]['sha256'],'status':'working_master','user_review':'pending','gelato_print_review':'pending','months':records},indent=2,ensure_ascii=False)+'\n')
+ (out/'manifest.json').write_text(json.dumps({'source':rel,'source_sha256':reg['assets'][rel]['sha256'],'source_layout':'recovered_26_page' if recovered else 'illustrated_lower_12_page','status':'working_master','user_review':'pending','gelato_print_review':'pending','months':records},indent=2,ensure_ascii=False)+'\n')
  print('12 SVGs + shared drawing data + working master created; logical checks passed.')
 if __name__=='__main__':main()

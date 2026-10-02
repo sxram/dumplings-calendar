@@ -1181,442 +1181,442 @@
       "path": "production/puzzles/v03/01-drawing.json",
       "sha256": "219adb7bd76838383fbd0dcc22227f096735a7a43dcbf9c7c5e79c2d96b1fd7d",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/01-puzzle.svg": {
       "path": "production/puzzles/v03/01-puzzle.svg",
       "sha256": "dfc90621ea2faa37b1d7b7c63a44dbfddda62c91fa1f01db957106506ebf1551",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/02-drawing.json": {
       "path": "production/puzzles/v03/02-drawing.json",
       "sha256": "3a5868ed762a9863f8cbd4cca4447773344e4d9e0a0ee7b54cd1d886aafbba36",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/02-puzzle.svg": {
       "path": "production/puzzles/v03/02-puzzle.svg",
       "sha256": "e5a3acca35ddc596c45ca6bc1d16bf304a36953369271f3c124d54bf4bc652f8",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/03-drawing.json": {
       "path": "production/puzzles/v03/03-drawing.json",
       "sha256": "ec57ce86013e430f8c8efb86abf3f1523fb27e433c53fb43ffbce93988bab773",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/03-puzzle.svg": {
       "path": "production/puzzles/v03/03-puzzle.svg",
       "sha256": "1e734fb4368fde79438f9d1d80b86d660b69d364bc9095a334ef82aa70373131",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/04-drawing.json": {
       "path": "production/puzzles/v03/04-drawing.json",
       "sha256": "3563e60bd6f3b6c1ea17ab8608f40d8f335e625add02ca545dafea2e7944f653",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/04-puzzle.svg": {
       "path": "production/puzzles/v03/04-puzzle.svg",
       "sha256": "c681dfa83e79312f85784b7135f204cf286aa7d0aa5d53d3dc08503dc2975c46",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/05-drawing.json": {
       "path": "production/puzzles/v03/05-drawing.json",
       "sha256": "d64ea90dfaf689ed8539c7864787f33fb85c2b049c4f792cbd309d2b36c38d58",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/05-puzzle.svg": {
       "path": "production/puzzles/v03/05-puzzle.svg",
       "sha256": "94d57c42f9f7ef0d8b2bbdb070e4f93679ab185d67d0d36e77df6ed89542d005",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/06-drawing.json": {
       "path": "production/puzzles/v03/06-drawing.json",
       "sha256": "3cbc39e8d6e5361f700539a77f85f8bc9411ee408a5922aae9cb7dd65f902832",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/06-puzzle.svg": {
       "path": "production/puzzles/v03/06-puzzle.svg",
       "sha256": "b82e48db233240ef5698e8caf6b9788ee324d04957d94430bc43ef637ff2bd3e",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/07-drawing.json": {
       "path": "production/puzzles/v03/07-drawing.json",
       "sha256": "4700375cc4a42d9a9b3a1a5bdb0b0a9e34a1663792bcfb7a818403cad88fa674",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/07-puzzle.svg": {
       "path": "production/puzzles/v03/07-puzzle.svg",
       "sha256": "310349011a4e292ff41d1ffbcba29344ca30cd16b8fc25701ecf0ee161283e1f",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/08-drawing.json": {
       "path": "production/puzzles/v03/08-drawing.json",
       "sha256": "d075b7a84c6eae527d1917e86ad2192e19c7a515321acadd03a0412c688af562",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/08-puzzle.svg": {
       "path": "production/puzzles/v03/08-puzzle.svg",
       "sha256": "ecded5ae0c8a9eda7cb6ef1be93ed56fe147491b6d7c444b8e0b40eb1f37fde1",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/09-drawing.json": {
       "path": "production/puzzles/v03/09-drawing.json",
       "sha256": "d6f0a67081a9d9fb7797d58d13c12eaab82bfd2a17bf4cf650adb5df80b7de51",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/09-puzzle.svg": {
       "path": "production/puzzles/v03/09-puzzle.svg",
       "sha256": "6d25bfa226be35d3b71cb1cbc8e59c7e262893f912fa682e7eb90c3bf10d1773",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/10-drawing.json": {
       "path": "production/puzzles/v03/10-drawing.json",
       "sha256": "5b12419712a30cff25388d8f2c910831888a4175904170bc2efebb474ce899d3",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/10-puzzle.svg": {
       "path": "production/puzzles/v03/10-puzzle.svg",
       "sha256": "ad2f456e64faeac31cece65dd0bccd455837dabd61a3ba38f8a64b7ba9f68bbf",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/11-drawing.json": {
       "path": "production/puzzles/v03/11-drawing.json",
       "sha256": "bcef650657e04a6e5c7267280680aa05191b296f106e995b393117aafa51bc41",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/11-puzzle.svg": {
       "path": "production/puzzles/v03/11-puzzle.svg",
       "sha256": "7c0d9f40e5f2e3b521c500ac9b4ddfd00043f1c1e4b014d691e60c532469458d",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/12-drawing.json": {
       "path": "production/puzzles/v03/12-drawing.json",
       "sha256": "3961ed04fa5f10d3ce5383c66d966eca73ba43050e7f98269118587b58899a7d",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/12-puzzle.svg": {
       "path": "production/puzzles/v03/12-puzzle.svg",
       "sha256": "511229c4578f63b6ae6b0d1658296f01c9e3ab9a6e227506f447a95e51b3fde3",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/checks.json": {
       "path": "production/puzzles/v03/checks.json",
       "sha256": "0f809f54a851d91b3a16739718b1d774018b4afc45162a0a0f29b3451442a642",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v03/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v03.pdf": {
       "path": "production/puzzles/v03/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v03.pdf",
       "sha256": "c1b5b736930a58700b17d2f099c6a16a56fc5a2f0a5bbb823cb970be31d9975a",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "page_count": 12,
       "page_sizes_pt": [
@@ -1632,34 +1632,34 @@
       "path": "production/puzzles/v03/manifest.json",
       "sha256": "bddb526b9e0d4f4c36edce3abddc54518b053418d8ef1e65c3330c86e9434885",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
       "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       }
     },
     "production/puzzles/v04/01-drawing.json": {
       "path": "production/puzzles/v04/01-drawing.json",
       "sha256": "219adb7bd76838383fbd0dcc22227f096735a7a43dcbf9c7c5e79c2d96b1fd7d",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -1667,17 +1667,17 @@
       "path": "production/puzzles/v04/01-puzzle.svg",
       "sha256": "dfc90621ea2faa37b1d7b7c63a44dbfddda62c91fa1f01db957106506ebf1551",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -1685,17 +1685,17 @@
       "path": "production/puzzles/v04/02-drawing.json",
       "sha256": "3a5868ed762a9863f8cbd4cca4447773344e4d9e0a0ee7b54cd1d886aafbba36",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -1703,17 +1703,17 @@
       "path": "production/puzzles/v04/02-puzzle.svg",
       "sha256": "e5a3acca35ddc596c45ca6bc1d16bf304a36953369271f3c124d54bf4bc652f8",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -1721,17 +1721,17 @@
       "path": "production/puzzles/v04/03-drawing.json",
       "sha256": "ec57ce86013e430f8c8efb86abf3f1523fb27e433c53fb43ffbce93988bab773",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -1739,17 +1739,17 @@
       "path": "production/puzzles/v04/03-puzzle.svg",
       "sha256": "1e734fb4368fde79438f9d1d80b86d660b69d364bc9095a334ef82aa70373131",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -1757,17 +1757,17 @@
       "path": "production/puzzles/v04/04-drawing.json",
       "sha256": "3563e60bd6f3b6c1ea17ab8608f40d8f335e625add02ca545dafea2e7944f653",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -1775,17 +1775,17 @@
       "path": "production/puzzles/v04/04-puzzle.svg",
       "sha256": "c681dfa83e79312f85784b7135f204cf286aa7d0aa5d53d3dc08503dc2975c46",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -1793,17 +1793,17 @@
       "path": "production/puzzles/v04/05-drawing.json",
       "sha256": "d64ea90dfaf689ed8539c7864787f33fb85c2b049c4f792cbd309d2b36c38d58",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -1811,17 +1811,17 @@
       "path": "production/puzzles/v04/05-puzzle.svg",
       "sha256": "94d57c42f9f7ef0d8b2bbdb070e4f93679ab185d67d0d36e77df6ed89542d005",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -1829,17 +1829,17 @@
       "path": "production/puzzles/v04/06-drawing.json",
       "sha256": "e9d75871710386b3ddc62c620f72d472e96574199f9bc68290df11899b333e6e",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -1847,17 +1847,17 @@
       "path": "production/puzzles/v04/06-puzzle.svg",
       "sha256": "40d49c3b1cb5e25acbaa60164e14f9c266241ccb14b0b49a5ff46b7db92cb4bc",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -1865,17 +1865,17 @@
       "path": "production/puzzles/v04/07-drawing.json",
       "sha256": "4700375cc4a42d9a9b3a1a5bdb0b0a9e34a1663792bcfb7a818403cad88fa674",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -1883,17 +1883,17 @@
       "path": "production/puzzles/v04/07-puzzle.svg",
       "sha256": "310349011a4e292ff41d1ffbcba29344ca30cd16b8fc25701ecf0ee161283e1f",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -1901,17 +1901,17 @@
       "path": "production/puzzles/v04/08-drawing.json",
       "sha256": "3d3ddfe7036bbfab3de471ebf793d306827f107230408c4fc1518e32374a795e",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -1919,17 +1919,17 @@
       "path": "production/puzzles/v04/08-puzzle.svg",
       "sha256": "72613a17121f7e348c48105f776a082f564e6ed479aeec33390b29a36fa66cc9",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -1937,17 +1937,17 @@
       "path": "production/puzzles/v04/09-drawing.json",
       "sha256": "d6f0a67081a9d9fb7797d58d13c12eaab82bfd2a17bf4cf650adb5df80b7de51",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -1955,17 +1955,17 @@
       "path": "production/puzzles/v04/09-puzzle.svg",
       "sha256": "6d25bfa226be35d3b71cb1cbc8e59c7e262893f912fa682e7eb90c3bf10d1773",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -1973,17 +1973,17 @@
       "path": "production/puzzles/v04/10-drawing.json",
       "sha256": "5b12419712a30cff25388d8f2c910831888a4175904170bc2efebb474ce899d3",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -1991,17 +1991,17 @@
       "path": "production/puzzles/v04/10-puzzle.svg",
       "sha256": "ad2f456e64faeac31cece65dd0bccd455837dabd61a3ba38f8a64b7ba9f68bbf",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -2009,17 +2009,17 @@
       "path": "production/puzzles/v04/11-drawing.json",
       "sha256": "bcef650657e04a6e5c7267280680aa05191b296f106e995b393117aafa51bc41",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -2027,17 +2027,17 @@
       "path": "production/puzzles/v04/11-puzzle.svg",
       "sha256": "7c0d9f40e5f2e3b521c500ac9b4ddfd00043f1c1e4b014d691e60c532469458d",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -2045,17 +2045,17 @@
       "path": "production/puzzles/v04/12-drawing.json",
       "sha256": "3961ed04fa5f10d3ce5383c66d966eca73ba43050e7f98269118587b58899a7d",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -2063,17 +2063,17 @@
       "path": "production/puzzles/v04/12-puzzle.svg",
       "sha256": "511229c4578f63b6ae6b0d1658296f01c9e3ab9a6e227506f447a95e51b3fde3",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -2081,17 +2081,17 @@
       "path": "production/puzzles/v04/checks.json",
       "sha256": "2912c765e00d499bbd22de4ff590a911b73a385618f1d69cd4696f202bbcc84e",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -2099,17 +2099,17 @@
       "path": "production/puzzles/v04/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v04.pdf",
       "sha256": "75d963996d59bbc2263af1ca7cdb1a5291d868ad7c46af243bd2a5600d71850d",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "page_count": 12,
       "page_sizes_pt": [
@@ -2126,17 +2126,17 @@
       "path": "production/puzzles/v04/manifest.json",
       "sha256": "7a197dfb4add793125fb122133749224b7b9c4c2ada3c13828f241be93832379",
       "role": "derived",
-      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
-      "design_status": "review_pending",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
         "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
       },
       "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
     },
@@ -2144,42 +2144,34 @@
       "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v04.manifest.json",
       "sha256": "1f333ef4c11f3d2a8a5588eb264ce3ece1ddd74973738f07a4059b6bd69d719c",
       "role": "derived",
-      "usage": "Seiten- und Quellenmanifest des aktuellen Gesamt-Arbeitsmasters",
-      "design_status": "review_pending",
+      "usage": "Gesamt-Arbeitsmaster / Seitenmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf",
-        "Vereinbarte Quelle 02_corrected.png lokal nicht vorhanden; Winterkleidung und Uhr exakt 20:51 offen.",
-        "Sunnys Puschelschwanz offen; 04.png erhalten.",
-        "Mochis Puschelschwanz offen; 06.png erhalten.",
-        "Zuletzt freigegebene Dezember-Version muss einer lokalen Datei zugeordnet werden; 12_not_correct.png gesperrt."
+        "Nutzerreview der Bildkorrekturen und Rätselgestaltung offen",
+        "Impressum und Gelato-Templateprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
-        "source": "giggle_dumplings_2027_complete_calendar_with_back-drafts.pdf + registered lower master v04",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "source": "historical sources",
+        "note": "Registrierter Zusammenbau mit Quellen- und Seitenprüfsummen."
       }
     },
     "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v04.pdf": {
       "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v04.pdf",
       "sha256": "c8c0e45ef8b33ee72dc05c8d5c9285ec105923e482d940caab8c5b0df8a66472",
       "role": "derived",
-      "usage": "Aktueller Gesamt-Arbeitsmaster, 26 Seiten",
-      "design_status": "review_pending",
+      "usage": "Gesamt-Arbeitsmaster / Seitenmanifest",
+      "design_status": "superseded",
       "print_status": "not_released",
       "issues": [
-        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf",
-        "Vereinbarte Quelle 02_corrected.png lokal nicht vorhanden; Winterkleidung und Uhr exakt 20:51 offen.",
-        "Sunnys Puschelschwanz offen; 04.png erhalten.",
-        "Mochis Puschelschwanz offen; 06.png erhalten.",
-        "Zuletzt freigegebene Dezember-Version muss einer lokalen Datei zugeordnet werden; 12_not_correct.png gesperrt."
+        "Nutzerreview der Bildkorrekturen und Rätselgestaltung offen",
+        "Impressum und Gelato-Templateprüfung offen"
       ],
       "origin": {
         "project": "dumplings-calendar",
-        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
-        "source": "giggle_dumplings_2027_complete_calendar_with_back-drafts.pdf + registered lower master v04",
-        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+        "source": "historical sources",
+        "note": "Registrierter Zusammenbau mit Quellen- und Seitenprüfsummen."
       },
       "page_count": 26,
       "page_sizes_pt": [
@@ -2190,20 +2182,1817 @@
           595.276
         ]
       ]
+    },
+    "update_26-10-02/calender-image-12.png": {
+      "path": "update_26-10-02/calender-image-12.png",
+      "sha256": "10f2af3b55d76706af9d3cdb56f65374592fdf3d40f4b0facb2e288361ae43f7",
+      "role": "source",
+      "usage": "Freigegebene Dezemberillustration laut nachgereichter Chatnotiz; auf Seite 24 des gefundenen Masters nachgewiesen",
+      "design_status": "approved_per_recovered_notes",
+      "print_status": "not_released",
+      "issues": [
+        "Gestaltungsfreigabe aus Chatnotiz; technische Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vom Nutzer aus dem bisherigen Chat nachgereicht am 02.10.2026."
+      },
+      "pixels": [
+        1374,
+        1145
+      ],
+      "color_mode": "RGB"
+    },
+    "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf": {
+      "path": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+      "sha256": "127549545f169456743a346accb2db341c1854af6d762907b1798de1dd91e16d",
+      "role": "source",
+      "usage": "Nachgereichter Chat-Master als neue Quellenbasis, 26 Seiten",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Vorhandene Rätsel müssen durch deterministische Komponenten ersetzt werden",
+        "Dezember-Unterseite enthält doppelte Beschriftungen",
+        "Bildkorrekturen Februar/April/Juni, Impressum und Gelato-Prüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vom Nutzer aus dem bisherigen Chat nachgereicht am 02.10.2026."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "update_26-10-02/todos-corrections.md": {
+      "path": "update_26-10-02/todos-corrections.md",
+      "sha256": "d69b7739d3ea638e69201784339c7184b4243736eb6474c6a459665fb76ba58d",
+      "role": "source",
+      "usage": "Nachgereichte Chat-Korrekturliste, inhaltliche Produktionsvorgaben",
+      "design_status": "source_document",
+      "print_status": "not_applicable",
+      "issues": [],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vom Nutzer aus dem bisherigen Chat nachgereicht am 02.10.2026."
+      }
+    },
+    "production/month-images/sources-recovered/02-from-recovered-master.png": {
+      "path": "production/month-images/sources-recovered/02-from-recovered-master.png",
+      "sha256": "b1c7e2eb0ee49a520a66e6f8317813becea8d730bb9732d3e633038f610db27b",
+      "role": "source",
+      "usage": "Verlustfrei extrahierte Monatsbildquelle / Extraktionsmanifest",
+      "design_status": "correction_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Mochis Winterkleidung und Uhr 20:51 offen; freigegebenen Kranz beibehalten"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Verlustfreie Bildextraktion; Original unverändert."
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "production/month-images/sources-recovered/manifest.json": {
+      "path": "production/month-images/sources-recovered/manifest.json",
+      "sha256": "07d205c86a608c7e16b314030cda03f50eb5f3cae10e18ba16de0ab7f41b4ce1",
+      "role": "source",
+      "usage": "Verlustfrei extrahierte Monatsbildquelle / Extraktionsmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Verlustfreie Bildextraktion; Original unverändert."
+      }
+    },
+    "production/month-images/drafts/february-v01/02-winter-clock-draft.png": {
+      "path": "production/month-images/drafts/february-v01/02-winter-clock-draft.png",
+      "sha256": "e49fa46340c442f767fcf056319f2f3538b8d65d86df04a2f7647e65c718c52d",
+      "role": "derived",
+      "usage": "Gezielter Monatsbild-Korrekturentwurf",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe offen; Erhalt der Szene visuell geprüft, keine Pixelidentität behauptet",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "tool": "built-in image_gen",
+        "note": "Lokaler präziser Bildedit; Prompts in production/month-images/CORRECTIONS.md."
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "production/month-images/drafts/february-v01/02-winter-clock-v02.png": {
+      "path": "production/month-images/drafts/february-v01/02-winter-clock-v02.png",
+      "sha256": "9397d7a7e575b5678bb5e729e3cdaeb008cbd24ad6363366eee6a07fb23d0461",
+      "role": "derived",
+      "usage": "Gezielter Monatsbild-Korrekturentwurf",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe offen; Erhalt der Szene visuell geprüft, keine Pixelidentität behauptet",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "tool": "built-in image_gen",
+        "note": "Lokaler präziser Bildedit; Prompts in production/month-images/CORRECTIONS.md."
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "production/month-images/sources-recovered/04-from-recovered-master.png": {
+      "path": "production/month-images/sources-recovered/04-from-recovered-master.png",
+      "sha256": "78648b1041dae081c551e9f8e24a8ded433e4766d630a14a216994a751131b4f",
+      "role": "source",
+      "usage": "Verlustfrei extrahierte Monatsbildquelle / Extraktionsmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Verlustfreie Bildextraktion; Original unverändert."
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "production/month-images/sources-recovered/04-source-manifest.json": {
+      "path": "production/month-images/sources-recovered/04-source-manifest.json",
+      "sha256": "92e8e2e544a3e53b4e66f0959ae7b609addbb617ce8bcad733d27a66512e14b9",
+      "role": "source",
+      "usage": "Verlustfrei extrahierte Monatsbildquelle / Extraktionsmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Verlustfreie Bildextraktion; Original unverändert."
+      }
+    },
+    "production/month-images/sources-recovered/06-from-recovered-master.png": {
+      "path": "production/month-images/sources-recovered/06-from-recovered-master.png",
+      "sha256": "a8b152e989522db1eed3d2770ba5a9072eed74ee774964158823024b998b7215",
+      "role": "source",
+      "usage": "Verlustfrei extrahierte Monatsbildquelle / Extraktionsmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Verlustfreie Bildextraktion; Original unverändert."
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "production/month-images/sources-recovered/06-source-manifest.json": {
+      "path": "production/month-images/sources-recovered/06-source-manifest.json",
+      "sha256": "30d840640e071ec212d45d3f99cc97b553c0c330c8bfe7124da538b92975a309",
+      "role": "source",
+      "usage": "Verlustfrei extrahierte Monatsbildquelle / Extraktionsmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Verlustfreie Bildextraktion; Original unverändert."
+      }
+    },
+    "production/month-images/drafts/april-v01/04-no-pompon-tail-v01.png": {
+      "path": "production/month-images/drafts/april-v01/04-no-pompon-tail-v01.png",
+      "sha256": "fab38c887571ffaa0c5ab682a812de48d283f856740bb0f1b94ff48740f8b26e",
+      "role": "derived",
+      "usage": "Gezielter Monatsbild-Korrekturentwurf",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe offen; Erhalt der Szene visuell geprüft, keine Pixelidentität behauptet",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "tool": "built-in image_gen",
+        "note": "Lokaler präziser Bildedit; Prompts in production/month-images/CORRECTIONS.md."
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "production/month-images/drafts/february-v01/02-winter-clock-v03.png": {
+      "path": "production/month-images/drafts/february-v01/02-winter-clock-v03.png",
+      "sha256": "9f4a4419506f992babc8a4b4cd61bb8f30d4950ccde3a3271109d148f99f5a35",
+      "role": "derived",
+      "usage": "Gezielter Monatsbild-Korrekturentwurf",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe offen; Erhalt der Szene visuell geprüft, keine Pixelidentität behauptet",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "tool": "built-in image_gen",
+        "note": "Lokaler präziser Bildedit; Prompts in production/month-images/CORRECTIONS.md."
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "production/month-images/drafts/june-v01/06-no-pompon-tail-v01.png": {
+      "path": "production/month-images/drafts/june-v01/06-no-pompon-tail-v01.png",
+      "sha256": "57c22a1872cb5aca1b48e3a1f3d44705aa9f95f384f51e9b201bdfc81e15459c",
+      "role": "derived",
+      "usage": "Gezielter Monatsbild-Korrekturentwurf",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe offen; Erhalt der Szene visuell geprüft, keine Pixelidentität behauptet",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "tool": "built-in image_gen",
+        "note": "Lokaler präziser Bildedit; Prompts in production/month-images/CORRECTIONS.md."
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "production/puzzles/v05/01-drawing.json": {
+      "path": "production/puzzles/v05/01-drawing.json",
+      "sha256": "07e677774ba666072bbc4f5a5d2bbf26a1f991e4ec844386e78cf73d9294169c",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/01-puzzle.svg": {
+      "path": "production/puzzles/v05/01-puzzle.svg",
+      "sha256": "f9d467b167e906d9e7ef96e21f8a497a268737eee654f2ea818533352429c788",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/02-drawing.json": {
+      "path": "production/puzzles/v05/02-drawing.json",
+      "sha256": "295e32fa641652691cd8255bd2c0b18e507a4d0d9fbb063d6f6c49b817548637",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/02-puzzle.svg": {
+      "path": "production/puzzles/v05/02-puzzle.svg",
+      "sha256": "649ca03c2877c9bb617e54ce25a508927d9ae3f142eb9996a739160e2326b5dd",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/03-drawing.json": {
+      "path": "production/puzzles/v05/03-drawing.json",
+      "sha256": "05142663856a82203b510db676042b05b6727cfc29ecc61a579d43a7265b52b3",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/03-puzzle.svg": {
+      "path": "production/puzzles/v05/03-puzzle.svg",
+      "sha256": "8fbc99698b3582d1c1c9ef773b9da7a7f6b42ccbcfab0438c2f178cfa1d7264c",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/04-drawing.json": {
+      "path": "production/puzzles/v05/04-drawing.json",
+      "sha256": "c29abafbf35313dc5424fdbea81fdfa37595862d17a86e0b6e53bd150c1aba5a",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/04-puzzle.svg": {
+      "path": "production/puzzles/v05/04-puzzle.svg",
+      "sha256": "3af1f6214f9f271264bd91e30154ff6c86c7ecaebaffef251810aebb20b3d95a",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/05-drawing.json": {
+      "path": "production/puzzles/v05/05-drawing.json",
+      "sha256": "fc0b156a5d5716d1ebef8fa16cf49ba800cf7fc36ae9a648f1ec811d43da03eb",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/05-puzzle.svg": {
+      "path": "production/puzzles/v05/05-puzzle.svg",
+      "sha256": "a1c4d5441aea26e4a468fb3d890210cd3326acea1fe102fbd2a2342f4c1934c8",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/06-drawing.json": {
+      "path": "production/puzzles/v05/06-drawing.json",
+      "sha256": "35558b766bfc92fe70e445be9028ea778a263c6a67bb951f1dae579c2cd57115",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/06-puzzle.svg": {
+      "path": "production/puzzles/v05/06-puzzle.svg",
+      "sha256": "5e40d8f29c15d0444aa7e757e077740cc7ad76aabf0491efef04a64ac36c6e35",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/07-drawing.json": {
+      "path": "production/puzzles/v05/07-drawing.json",
+      "sha256": "359dcf5874d6dbb2fedeccf3279baff7a5101238f22d5e78bb3ef031d275a7d0",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/07-puzzle.svg": {
+      "path": "production/puzzles/v05/07-puzzle.svg",
+      "sha256": "40ce0475d8c6217be4687b6132131bcb090f31ee8c4ab2672cb74c86ca266dfe",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/08-drawing.json": {
+      "path": "production/puzzles/v05/08-drawing.json",
+      "sha256": "6a54d0a7065fa6663ab0273a2f405928b79998f26b7451a87c5d501f74d28ba0",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/08-puzzle.svg": {
+      "path": "production/puzzles/v05/08-puzzle.svg",
+      "sha256": "1d3e8382bf1e33a243f4497627dc6640b6ba821925950978b9836bcd0a158c84",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/09-drawing.json": {
+      "path": "production/puzzles/v05/09-drawing.json",
+      "sha256": "ef6d3c9641550573b348435ac78fe0fd273cd9e26b3a72d6bba368fd7fb3ae6a",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/09-puzzle.svg": {
+      "path": "production/puzzles/v05/09-puzzle.svg",
+      "sha256": "3ae91f3c9fd47817df7638acdcc6b39149f4741c0aed835d863a90cd2fdce918",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/10-drawing.json": {
+      "path": "production/puzzles/v05/10-drawing.json",
+      "sha256": "8bd270871e39eab60ddfe4dc49b35d9349cc7e8166e7f2eeeda8920f4effb92c",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/10-puzzle.svg": {
+      "path": "production/puzzles/v05/10-puzzle.svg",
+      "sha256": "e95c96e111171f737c72abb227fb5bfc4e49ab5e965aa82ada98fb8a46ef1319",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/11-drawing.json": {
+      "path": "production/puzzles/v05/11-drawing.json",
+      "sha256": "040c9cd1c60f0ff94d1eb255ecdf5e5bcb07a1dc73abe6f6dd80f755c4a5119d",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/11-puzzle.svg": {
+      "path": "production/puzzles/v05/11-puzzle.svg",
+      "sha256": "02aabfe19a991b058bb03fa9efe84ced2dc95bf5440143568db2ba526c8cc3c2",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/12-drawing.json": {
+      "path": "production/puzzles/v05/12-drawing.json",
+      "sha256": "781f948b345ad9e1e38637c60894b49f67bba5832487bd3346083a71a9e7ebd9",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/12-puzzle.svg": {
+      "path": "production/puzzles/v05/12-puzzle.svg",
+      "sha256": "3e4182dd534c729945604b14fb02c310e3ea40d140045ba211322bc853c99193",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/checks.json": {
+      "path": "production/puzzles/v05/checks.json",
+      "sha256": "db54f2a37afb3b823cb7d459e0834109adb7733879f57a89819dc4f8f194d380",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v05/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v05.pdf": {
+      "path": "production/puzzles/v05/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v05.pdf",
+      "sha256": "fc819d042d39280c6864002194b3802120f7a8d03d9021be41893cd89387e21f",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      },
+      "page_count": 12,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "production/puzzles/v05/manifest.json": {
+      "path": "production/puzzles/v05/manifest.json",
+      "sha256": "14d66f1c161ee2ea99d2e0e11c7f69d3c68f418ba9b2e8545807d4620417ab6d",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/01-drawing.json": {
+      "path": "production/puzzles/v06/01-drawing.json",
+      "sha256": "0e793d93b036e80e9aa36b6754935abd6f5b38e65c749f1c03c4a444e88bcb5e",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/01-puzzle.svg": {
+      "path": "production/puzzles/v06/01-puzzle.svg",
+      "sha256": "1f69ff7e1663360da82a2ff05ee14f196a04a99fc01491d78a1eda539b0692a6",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/02-drawing.json": {
+      "path": "production/puzzles/v06/02-drawing.json",
+      "sha256": "6caf551cc49a17a662c91f21d9a8d4a35bca1d6d528cd98edf028b43256cd979",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/02-puzzle.svg": {
+      "path": "production/puzzles/v06/02-puzzle.svg",
+      "sha256": "2de81574feff80eb9275caeaf80b21dd44b06ebe395aa45372b072f172047538",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/03-drawing.json": {
+      "path": "production/puzzles/v06/03-drawing.json",
+      "sha256": "022819951b3580ada2a027fb92149269401b373716124372e1a3c7ae18f4b476",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/03-puzzle.svg": {
+      "path": "production/puzzles/v06/03-puzzle.svg",
+      "sha256": "7d6b908776960270925f9f80917c37d8f63b730b80b6ccdfa566cc11274734b9",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/04-drawing.json": {
+      "path": "production/puzzles/v06/04-drawing.json",
+      "sha256": "020aaebf953122881c7434595da4e9cb2652a526ee3adf0921a592c280987ca9",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/04-puzzle.svg": {
+      "path": "production/puzzles/v06/04-puzzle.svg",
+      "sha256": "8b96a4682abda63a6b8ffe809be5b4923c044d5ffff10584feae4bf12b17179b",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/05-drawing.json": {
+      "path": "production/puzzles/v06/05-drawing.json",
+      "sha256": "ad0f9a78089c5c8920c3ad80058f35219964cd7c94a4002a81d3543453ccd0a0",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/05-puzzle.svg": {
+      "path": "production/puzzles/v06/05-puzzle.svg",
+      "sha256": "27579ff136e917ea34641cb0cc3b35e3dae07de33801a32bcc26dcf424d01674",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/06-drawing.json": {
+      "path": "production/puzzles/v06/06-drawing.json",
+      "sha256": "2d58caf8bde9900444f1be4b7614c8955bedca9a104a10334df65ddd2b45407c",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/06-puzzle.svg": {
+      "path": "production/puzzles/v06/06-puzzle.svg",
+      "sha256": "d0fde8b0c8b41c472c63f474d0315ad20f16a165f65b66fa5339af75c1d81047",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/07-drawing.json": {
+      "path": "production/puzzles/v06/07-drawing.json",
+      "sha256": "3a4e4c968bc432593d48bcc2948b4f21dcfc439486aa7414c134207a12c98488",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/07-puzzle.svg": {
+      "path": "production/puzzles/v06/07-puzzle.svg",
+      "sha256": "3be0b08763d826c72a1112584a04671798e57af06053c82869627be835fe451c",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/08-drawing.json": {
+      "path": "production/puzzles/v06/08-drawing.json",
+      "sha256": "faf48f30e60757f784f9d2f870f1c26ac244c77e4fe536945d6000fd52b02b82",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/08-puzzle.svg": {
+      "path": "production/puzzles/v06/08-puzzle.svg",
+      "sha256": "d0fbcc2a23c998d31ec863447970e4d86d8874c7698ff5357ba75787ae5611a5",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/09-drawing.json": {
+      "path": "production/puzzles/v06/09-drawing.json",
+      "sha256": "5c3a488d9360115dcae7ba0679827ad85afd0181e245d5c50b11fc4290c595fb",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/09-puzzle.svg": {
+      "path": "production/puzzles/v06/09-puzzle.svg",
+      "sha256": "ba795f85c53533110b923640a216a4d767aefd9f549a0df3a58be52d9ffc287c",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/10-drawing.json": {
+      "path": "production/puzzles/v06/10-drawing.json",
+      "sha256": "14863e9639348eb428bc299f90d490d6b2699728801da8f052688f9edf5f94c8",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/10-puzzle.svg": {
+      "path": "production/puzzles/v06/10-puzzle.svg",
+      "sha256": "88f496cb7e2ce85646b17defd55294586601e80f4648ba6bfe56e9fbad1c6204",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/11-drawing.json": {
+      "path": "production/puzzles/v06/11-drawing.json",
+      "sha256": "7671ba10c561df609e544e041abf729698a833aefe00274688d8bc56ae630d26",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/11-puzzle.svg": {
+      "path": "production/puzzles/v06/11-puzzle.svg",
+      "sha256": "2b2771f14f24eab23d30d54fe876560084e89411191c908945bdac968e21343c",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/12-drawing.json": {
+      "path": "production/puzzles/v06/12-drawing.json",
+      "sha256": "dd30b1486562c8d0fb675b37ca4f73432312c0e97f6bbf5888a88a7f2e551027",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/12-puzzle.svg": {
+      "path": "production/puzzles/v06/12-puzzle.svg",
+      "sha256": "1b5cd4bd37a4c3dc6310c69661705350034899e2239cc32df283503bb4cf1c00",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/checks.json": {
+      "path": "production/puzzles/v06/checks.json",
+      "sha256": "db54f2a37afb3b823cb7d459e0834109adb7733879f57a89819dc4f8f194d380",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v06/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v06.pdf": {
+      "path": "production/puzzles/v06/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v06.pdf",
+      "sha256": "bdf00c6d2afece62058c2a8d99eadfba09192b305b115d2e563d279b3ade5315",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      },
+      "page_count": 12,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "production/puzzles/v06/manifest.json": {
+      "path": "production/puzzles/v06/manifest.json",
+      "sha256": "14d66f1c161ee2ea99d2e0e11c7f69d3c68f418ba9b2e8545807d4620417ab6d",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v06.manifest.json": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v06.manifest.json",
+      "sha256": "838bf70a45e2fafcd417f507e2cef0948924f2a7d4ec5f778debd07f858fc853",
+      "role": "derived",
+      "usage": "Gesamt-Arbeitsmaster / Seitenmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview der Bildkorrekturen und Rätselgestaltung offen",
+        "Impressum und Gelato-Templateprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Registrierter Zusammenbau mit Quellen- und Seitenprüfsummen."
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v06.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v06.pdf",
+      "sha256": "c77d10772af0b8cc7ccc92e87913f61fd823c1483949008bf89b0c5d07ab8922",
+      "role": "derived",
+      "usage": "Gesamt-Arbeitsmaster / Seitenmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview der Bildkorrekturen und Rätselgestaltung offen",
+        "Impressum und Gelato-Templateprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Registrierter Zusammenbau mit Quellen- und Seitenprüfsummen."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "production/puzzles/v07/01-drawing.json": {
+      "path": "production/puzzles/v07/01-drawing.json",
+      "sha256": "0e793d93b036e80e9aa36b6754935abd6f5b38e65c749f1c03c4a444e88bcb5e",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/01-puzzle.svg": {
+      "path": "production/puzzles/v07/01-puzzle.svg",
+      "sha256": "1f69ff7e1663360da82a2ff05ee14f196a04a99fc01491d78a1eda539b0692a6",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/02-drawing.json": {
+      "path": "production/puzzles/v07/02-drawing.json",
+      "sha256": "6caf551cc49a17a662c91f21d9a8d4a35bca1d6d528cd98edf028b43256cd979",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/02-puzzle.svg": {
+      "path": "production/puzzles/v07/02-puzzle.svg",
+      "sha256": "2de81574feff80eb9275caeaf80b21dd44b06ebe395aa45372b072f172047538",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/03-drawing.json": {
+      "path": "production/puzzles/v07/03-drawing.json",
+      "sha256": "022819951b3580ada2a027fb92149269401b373716124372e1a3c7ae18f4b476",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/03-puzzle.svg": {
+      "path": "production/puzzles/v07/03-puzzle.svg",
+      "sha256": "7d6b908776960270925f9f80917c37d8f63b730b80b6ccdfa566cc11274734b9",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/04-drawing.json": {
+      "path": "production/puzzles/v07/04-drawing.json",
+      "sha256": "020aaebf953122881c7434595da4e9cb2652a526ee3adf0921a592c280987ca9",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/04-puzzle.svg": {
+      "path": "production/puzzles/v07/04-puzzle.svg",
+      "sha256": "8b96a4682abda63a6b8ffe809be5b4923c044d5ffff10584feae4bf12b17179b",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/05-drawing.json": {
+      "path": "production/puzzles/v07/05-drawing.json",
+      "sha256": "ad0f9a78089c5c8920c3ad80058f35219964cd7c94a4002a81d3543453ccd0a0",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/05-puzzle.svg": {
+      "path": "production/puzzles/v07/05-puzzle.svg",
+      "sha256": "27579ff136e917ea34641cb0cc3b35e3dae07de33801a32bcc26dcf424d01674",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/06-drawing.json": {
+      "path": "production/puzzles/v07/06-drawing.json",
+      "sha256": "2d58caf8bde9900444f1be4b7614c8955bedca9a104a10334df65ddd2b45407c",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/06-puzzle.svg": {
+      "path": "production/puzzles/v07/06-puzzle.svg",
+      "sha256": "d0fde8b0c8b41c472c63f474d0315ad20f16a165f65b66fa5339af75c1d81047",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/07-drawing.json": {
+      "path": "production/puzzles/v07/07-drawing.json",
+      "sha256": "3a4e4c968bc432593d48bcc2948b4f21dcfc439486aa7414c134207a12c98488",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/07-puzzle.svg": {
+      "path": "production/puzzles/v07/07-puzzle.svg",
+      "sha256": "3be0b08763d826c72a1112584a04671798e57af06053c82869627be835fe451c",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/08-drawing.json": {
+      "path": "production/puzzles/v07/08-drawing.json",
+      "sha256": "faf48f30e60757f784f9d2f870f1c26ac244c77e4fe536945d6000fd52b02b82",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/08-puzzle.svg": {
+      "path": "production/puzzles/v07/08-puzzle.svg",
+      "sha256": "d0fbcc2a23c998d31ec863447970e4d86d8874c7698ff5357ba75787ae5611a5",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/09-drawing.json": {
+      "path": "production/puzzles/v07/09-drawing.json",
+      "sha256": "5c3a488d9360115dcae7ba0679827ad85afd0181e245d5c50b11fc4290c595fb",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/09-puzzle.svg": {
+      "path": "production/puzzles/v07/09-puzzle.svg",
+      "sha256": "ba795f85c53533110b923640a216a4d767aefd9f549a0df3a58be52d9ffc287c",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/10-drawing.json": {
+      "path": "production/puzzles/v07/10-drawing.json",
+      "sha256": "14863e9639348eb428bc299f90d490d6b2699728801da8f052688f9edf5f94c8",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/10-puzzle.svg": {
+      "path": "production/puzzles/v07/10-puzzle.svg",
+      "sha256": "88f496cb7e2ce85646b17defd55294586601e80f4648ba6bfe56e9fbad1c6204",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/11-drawing.json": {
+      "path": "production/puzzles/v07/11-drawing.json",
+      "sha256": "7671ba10c561df609e544e041abf729698a833aefe00274688d8bc56ae630d26",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/11-puzzle.svg": {
+      "path": "production/puzzles/v07/11-puzzle.svg",
+      "sha256": "2b2771f14f24eab23d30d54fe876560084e89411191c908945bdac968e21343c",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/12-drawing.json": {
+      "path": "production/puzzles/v07/12-drawing.json",
+      "sha256": "dd30b1486562c8d0fb675b37ca4f73432312c0e97f6bbf5888a88a7f2e551027",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/12-puzzle.svg": {
+      "path": "production/puzzles/v07/12-puzzle.svg",
+      "sha256": "1b5cd4bd37a4c3dc6310c69661705350034899e2239cc32df283503bb4cf1c00",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/checks.json": {
+      "path": "production/puzzles/v07/checks.json",
+      "sha256": "db54f2a37afb3b823cb7d459e0834109adb7733879f57a89819dc4f8f194d380",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "production/puzzles/v07/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v07.pdf": {
+      "path": "production/puzzles/v07/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v07.pdf",
+      "sha256": "543dbb6e31f6fae9c4b9af0773bb55f0c28ffe85168b58153d777c289846b3a5",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      },
+      "page_count": 12,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "production/puzzles/v07/manifest.json": {
+      "path": "production/puzzles/v07/manifest.json",
+      "sha256": "26d597f9d3db178882bfb0b54288b0d3788863bd54e0ff601ebac53982e81796",
+      "role": "derived",
+      "usage": "Editierbare deterministische Rätselkomponente / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätselgestaltung und Schwierigkeitsgrad: Nutzerreview offen",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Lokaler deterministischer Vektorsatz; keine Rätsel-Bildgenerierung."
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v07.manifest.json": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v07.manifest.json",
+      "sha256": "0d9eba830f1817924eb886cd98267e62810af31a686a9aa6633e5122954b8789",
+      "role": "derived",
+      "usage": "Gesamt-Arbeitsmaster / Seitenmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview der Bildkorrekturen und Rätselgestaltung offen",
+        "Impressum und Gelato-Templateprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Registrierter Zusammenbau mit Quellen- und Seitenprüfsummen."
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v07.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v07.pdf",
+      "sha256": "8dd9e004e487c64e6b1c740e3cc1fcabe8eea7110079c4f6dfa9f30f55d946d6",
+      "role": "derived",
+      "usage": "Gesamt-Arbeitsmaster / Seitenmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview der Bildkorrekturen und Rätselgestaltung offen",
+        "Impressum und Gelato-Templateprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+        "note": "Registrierter Zusammenbau mit Quellen- und Seitenprüfsummen."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "production/review-v07.json": {
+      "path": "production/review-v07.json",
+      "sha256": "0f46308ed6ebd3e3459153b7fc644d698e3bcd7aebcc318269d3d592e35986e5",
+      "role": "derived",
+      "usage": "Prüfprotokoll des aktuellen Arbeitsmasters v07",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview und Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v07.pdf",
+        "note": "Automatische Prüfungen und tatsächlich durchgeführte Sichtprüfung getrennt dokumentiert."
+      }
     }
   },
   "selection": {
-    "current_working_master": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v04.pdf",
-    "current_lower_master": "production/puzzles/v04/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v04.pdf",
-    "source_lower_master": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf"
+    "current_working_master": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v07.pdf",
+    "current_lower_master": "production/puzzles/v07/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v07.pdf",
+    "source_lower_master": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+    "recovered_source_master": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+    "december_illustration": "update_26-10-02/calender-image-12.png",
+    "february_correction_source": "production/month-images/sources-recovered/02-from-recovered-master.png",
+    "february_correction": "production/month-images/drafts/february-v01/02-winter-clock-v03.png",
+    "april_correction": "production/month-images/drafts/april-v01/04-no-pompon-tail-v01.png",
+    "june_correction": "production/month-images/drafts/june-v01/06-no-pompon-tail-v01.png"
   },
   "issues": {
-    "february": "Vereinbarte Quelle 02_corrected.png lokal nicht vorhanden; Winterkleidung und Uhr exakt 20:51 offen.",
-    "april": "Sunnys Puschelschwanz offen; 04.png erhalten.",
-    "june": "Mochis Puschelschwanz offen; 06.png erhalten.",
-    "december": "Zuletzt freigegebene Dezember-Version muss einer lokalen Datei zugeordnet werden; 12_not_correct.png gesperrt.",
+    "february": "Korrekturentwurf mit Winterkleidung und visuell auf 20:51 korrigierter Uhr in v07; Nutzerreview offen.",
+    "april": "Sunnys falscher Pompon-Schwanz im Korrekturentwurf entfernt; Nutzerreview offen.",
+    "june": "Mochis falscher Pompon-Schwanz im Korrekturentwurf entfernt; Nutzerreview offen.",
+    "december": "Dezemberquelle identifiziert und laut Chatnotiz freigegeben: update_26-10-02/calender-image-12.png; keine Bearbeitung.",
     "gelato": "Konkrete Produktvorlage, Bindung, Beschnitt, sichere Ränder, Auflösung und abschließende Druckprüfung offen.",
     "imprint": "Impressum offen.",
-    "master": "Arbeitsmaster v04 mit 12 neuen Vektorrätseln; Nutzerreview, Bildkorrekturen, Impressum und Gelato-Prüfung offen."
+    "master": "V07 führt nachgereichten Master, 3 Bildkorrekturentwürfe und 12 deterministische Rätsel zusammen; Gestaltungsfreigabe, Impressum und Gelato-Prüfung offen."
   }
 }

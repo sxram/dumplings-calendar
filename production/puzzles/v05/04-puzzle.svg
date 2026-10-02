@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320pt" height="290pt" viewBox="0 0 320 290">
+<polygon points="0,0 320,0 320,290 0,290" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+<text x="160" y="18" fill="#f2b35c" font-family="Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle">Find the Matching Eggs!</text>
+<text x="160" y="34" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="8.6" text-anchor="middle">Two eggs are exactly the same. Can you find them?</text>
+<ellipse cx="35" cy="105" rx="17" ry="24" fill="#fff4d8" stroke="#24465a" stroke-width="1"/>
+<line x1="23" y1="96" x2="47" y2="96" stroke="#77a8be" stroke-width="2"/>
+<text x="35" y="145" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">A</text>
+<ellipse cx="97" cy="105" rx="17" ry="24" fill="#fff4d8" stroke="#24465a" stroke-width="1"/>
+<ellipse cx="101.0" cy="95.0" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="98.23606797749979" cy="98.80422606518061" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="93.76393202250021" cy="97.3511410091699" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="93.76393202250021" cy="92.6488589908301" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="98.23606797749979" cy="91.19577393481939" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="97" cy="95" rx="2" ry="2" fill="#efbc40" stroke="#efbc40" stroke-width="1"/>
+<text x="97" y="145" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">B</text>
+<ellipse cx="159" cy="105" rx="17" ry="24" fill="#fff4d8" stroke="#24465a" stroke-width="1"/>
+<ellipse cx="152" cy="96" rx="2.5" ry="2.5" fill="#d28ab1" stroke="#24465a" stroke-width="1"/>
+<ellipse cx="152" cy="110" rx="2.5" ry="2.5" fill="#d28ab1" stroke="#24465a" stroke-width="1"/>
+<ellipse cx="166" cy="96" rx="2.5" ry="2.5" fill="#d28ab1" stroke="#24465a" stroke-width="1"/>
+<ellipse cx="166" cy="110" rx="2.5" ry="2.5" fill="#d28ab1" stroke="#24465a" stroke-width="1"/>
+<text x="159" y="145" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">C</text>
+<ellipse cx="221" cy="105" rx="17" ry="24" fill="#fff4d8" stroke="#24465a" stroke-width="1"/>
+<line x1="209" y1="96" x2="233" y2="96" stroke="#77a8be" stroke-width="2"/>
+<line x1="209" y1="105" x2="233" y2="105" stroke="#77a8be" stroke-width="2"/>
+<text x="221" y="145" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">D</text>
+<ellipse cx="283" cy="105" rx="17" ry="24" fill="#fff4d8" stroke="#24465a" stroke-width="1"/>
+<ellipse cx="287.0" cy="95.0" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="284.2360679774998" cy="98.80422606518061" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="279.7639320225002" cy="97.3511410091699" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="279.7639320225002" cy="92.6488589908301" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="284.2360679774998" cy="91.19577393481939" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="283" cy="95" rx="2" ry="2" fill="#efbc40" stroke="#efbc40" stroke-width="1"/>
+<ellipse cx="287.0" cy="106.0" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="284.2360679774998" cy="109.80422606518061" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="279.7639320225002" cy="108.3511410091699" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="279.7639320225002" cy="103.6488589908301" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="284.2360679774998" cy="102.19577393481939" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="283" cy="106" rx="2" ry="2" fill="#efbc40" stroke="#efbc40" stroke-width="1"/>
+<text x="283" y="145" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">E</text>
+<ellipse cx="35" cy="213" rx="17" ry="24" fill="#fff4d8" stroke="#24465a" stroke-width="1"/>
+<polygon points="24,204 29,198 35,204 41,198 46,204" fill="none" stroke="#79a984" stroke-width="2"/>
+<ellipse cx="35" cy="226" rx="3" ry="3" fill="#efbc40" stroke="#24465a" stroke-width="1"/>
+<text x="35" y="253" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">F</text>
+<ellipse cx="97" cy="213" rx="17" ry="24" fill="#fff4d8" stroke="#24465a" stroke-width="1"/>
+<line x1="85" y1="204" x2="109" y2="204" stroke="#77a8be" stroke-width="2"/>
+<line x1="85" y1="213" x2="109" y2="213" stroke="#77a8be" stroke-width="2"/>
+<line x1="85" y1="222" x2="109" y2="222" stroke="#77a8be" stroke-width="2"/>
+<text x="97" y="253" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">G</text>
+<ellipse cx="159" cy="213" rx="17" ry="24" fill="#fff4d8" stroke="#24465a" stroke-width="1"/>
+<ellipse cx="152" cy="204" rx="2.5" ry="2.5" fill="#d28ab1" stroke="#24465a" stroke-width="1"/>
+<ellipse cx="152" cy="218" rx="2.5" ry="2.5" fill="#d28ab1" stroke="#24465a" stroke-width="1"/>
+<ellipse cx="166" cy="204" rx="2.5" ry="2.5" fill="#d28ab1" stroke="#24465a" stroke-width="1"/>
+<ellipse cx="166" cy="218" rx="2.5" ry="2.5" fill="#d28ab1" stroke="#24465a" stroke-width="1"/>
+<text x="159" y="253" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">H</text>
+<ellipse cx="221" cy="213" rx="17" ry="24" fill="#fff4d8" stroke="#24465a" stroke-width="1"/>
+<ellipse cx="225.0" cy="203.0" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="222.2360679774998" cy="206.80422606518061" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="217.7639320225002" cy="205.35114100916988" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="217.7639320225002" cy="200.64885899083012" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="222.2360679774998" cy="199.19577393481939" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="221" cy="203" rx="2" ry="2" fill="#efbc40" stroke="#efbc40" stroke-width="1"/>
+<ellipse cx="225.0" cy="214.0" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="222.2360679774998" cy="217.80422606518061" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="217.7639320225002" cy="216.35114100916988" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="217.7639320225002" cy="211.64885899083012" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="222.2360679774998" cy="210.19577393481939" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="221" cy="214" rx="2" ry="2" fill="#efbc40" stroke="#efbc40" stroke-width="1"/>
+<ellipse cx="225.0" cy="225.0" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="222.2360679774998" cy="228.80422606518061" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="217.7639320225002" cy="227.35114100916988" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="217.7639320225002" cy="222.64885899083012" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="222.2360679774998" cy="221.19577393481939" rx="3" ry="3" fill="#e891a2" stroke="#e891a2" stroke-width="1"/>
+<ellipse cx="221" cy="225" rx="2" ry="2" fill="#efbc40" stroke="#efbc40" stroke-width="1"/>
+<text x="221" y="253" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">I</text>
+<ellipse cx="283" cy="213" rx="17" ry="24" fill="#fff4d8" stroke="#24465a" stroke-width="1"/>
+<polygon points="272,204 277,198 283,204 289,198 294,204" fill="none" stroke="#79a984" stroke-width="2"/>
+<polygon points="272,216 277,210 283,216 289,210 294,216" fill="none" stroke="#79a984" stroke-width="2"/>
+<ellipse cx="283" cy="226" rx="3" ry="3" fill="#efbc40" stroke="#24465a" stroke-width="1"/>
+<text x="283" y="253" fill="#24465a" font-family="Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">J</text>
+</svg>
