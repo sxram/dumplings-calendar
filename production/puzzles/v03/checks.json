@@ -1,0 +1,11 @@
+{
+  "months": 12,
+  "calendar_year": 2027,
+  "weekday_positions": "passed",
+  "page_sizes": "unchanged",
+  "source_sha256": "passed",
+  "titles_and_instructions": "passed",
+  "user_review": "pending",
+  "gelato_print_review": "pending",
+  "note": "Structure checks are not visual approval."
+}

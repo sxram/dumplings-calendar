@@ -1,0 +1,282 @@
+{
+  "date": "2026-10-02",
+  "source_project": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween",
+  "tools": [
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/README.md",
+      "copy": "tools/reference-halloween/README.md",
+      "sha256": "4c97a8728167b5c9ef18d9ba7174458b759be70c16e25aacd74f5fdd15ff70f6",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/add-owner-line-v11.py",
+      "copy": "tools/reference-halloween/add-owner-line-v11.py",
+      "sha256": "bbbea187690239d00e1d9911f8c8cdaa91c8ac62e2e9aae9b9fe11780f0efe5d",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/align-standees-v06.py",
+      "copy": "tools/reference-halloween/align-standees-v06.py",
+      "sha256": "83b8330a4b62ab40123ab6e39a917b7082d2cdb22d797061162495f7911722f6",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/assemble-kdp-de.py",
+      "copy": "tools/reference-halloween/assemble-kdp-de.py",
+      "sha256": "00a77d878f93c7d59b315c5d7e76750080eda6cddfbe35847f92180f6b372d64",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/assemble-review-v02.py",
+      "copy": "tools/reference-halloween/assemble-review-v02.py",
+      "sha256": "2ae6b49274a55d59b991105af4d509d06089cefa6f25ed45537c6c8f9cedec81",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/build-backcover-reference-svg.py",
+      "copy": "tools/reference-halloween/build-backcover-reference-svg.py",
+      "sha256": "ee9ef9987a1c0787f038597ba7dbbbfdf0d3d149417776bca6325c85238be9d1",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/build-backcover-svg.py",
+      "copy": "tools/reference-halloween/build-backcover-svg.py",
+      "sha256": "cbb94b590f065c1db79916bf1dc98e28092c4dcc3231ce31dce3bb6f4ff3ba7e",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/build-book-v01.py",
+      "copy": "tools/reference-halloween/build-book-v01.py",
+      "sha256": "f78a5a69e62f8cb0fb8f326185aadfff80f5cbc9c3e332a2bd5d7d3519157bf3",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/build-cover-banner-svg.py",
+      "copy": "tools/reference-halloween/build-cover-banner-svg.py",
+      "sha256": "604e0df0aaaff0e440677e5e4138255770dd42e7651e685dd592a07de089aa99",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/build-cover-front-svg.py",
+      "copy": "tools/reference-halloween/build-cover-front-svg.py",
+      "sha256": "fc98a223d5955d7dddd2ee2867d7aeff71365ac8815e540c50a85bf50eab043f",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/build-crafts-de-v03.py",
+      "copy": "tools/reference-halloween/build-crafts-de-v03.py",
+      "sha256": "4be4fdd510df9aec3d06560e76fbeffe190eea5564b3223bb951728fb412d82e",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/build-english-edition.py",
+      "copy": "tools/reference-halloween/build-english-edition.py",
+      "sha256": "aed08f7577eb6eba4f7647181d9e00918a4eb1540d981d7bd4dd6d34844becb9",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/build-front-reference-svg.py",
+      "copy": "tools/reference-halloween/build-front-reference-svg.py",
+      "sha256": "154d42bae5044c985dd3a4cf78f34df5d04184820e2bc16625cc7acb65c0bef5",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/build-frontmatter-review-v01.py",
+      "copy": "tools/reference-halloween/build-frontmatter-review-v01.py",
+      "sha256": "f4a7c67a2739f1759850692ee4781df268d06917a1fdfe27738bb9d61983aae5",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/build-garland-v01.py",
+      "copy": "tools/reference-halloween/build-garland-v01.py",
+      "sha256": "a42ce05ff1fbabf022ae95f31ed8d69dd9658c46012374f69bedc2b3690c0c6f",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/build-imprint-review-v01.py",
+      "copy": "tools/reference-halloween/build-imprint-review-v01.py",
+      "sha256": "28bdfe8f7ff03c1046ac3f8e34e45f505c9dea629b6b66e984d5f96d20bfcdb2",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/build-imprint-review-v02.py",
+      "copy": "tools/reference-halloween/build-imprint-review-v02.py",
+      "sha256": "1c40e69131aadc5e4c9801c1f0de6f7d599d52e028569f67fff4af9e3000466d",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/build-mask-sample-v01.py",
+      "copy": "tools/reference-halloween/build-mask-sample-v01.py",
+      "sha256": "1a30f7825effd0e41963c027e1f0fe6d4e4b2a61217100da3e824437cac23f48",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/build-masks-svg.py",
+      "copy": "tools/reference-halloween/build-masks-svg.py",
+      "sha256": "291c718eeae1595d1a743d9f14c201cbc7e5efd7ac384e8bf1208018387ddba3",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/build-pumpkin-card-v01.py",
+      "copy": "tools/reference-halloween/build-pumpkin-card-v01.py",
+      "sha256": "47396998d8d9c10144c6c95a3a4c791e6ae6235cf234409cf5ec992f50d467a2",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/build-puzzles-svg.py",
+      "copy": "tools/reference-halloween/build-puzzles-svg.py",
+      "sha256": "042e4850c50cd2739d7835d56d2a2d7604781e7101c21742636053087423a3a0",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/check-english-edition.py",
+      "copy": "tools/reference-halloween/check-english-edition.py",
+      "sha256": "41ab68bcbf288b2eb704ec83dbe80f1d838bada8f1f8cb350ce9ab82970a3099",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/check-figures-v05.py",
+      "copy": "tools/reference-halloween/check-figures-v05.py",
+      "sha256": "92831f71f4770e6e00b436ae343fbecce82648e1de6b4870b63bec13d11d0c61",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/check-production-assets.py",
+      "copy": "tools/reference-halloween/check-production-assets.py",
+      "sha256": "f39779b500e6a463a73fe17b893cc792510769463f6f2830718911f2a1ba3c67",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/check-review-v01.py",
+      "copy": "tools/reference-halloween/check-review-v01.py",
+      "sha256": "79cf9842a30d8263819e3e44762e3f5ca794a10b3f76f038f9065f6667443015",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/cleanup-final-versions.py",
+      "copy": "tools/reference-halloween/cleanup-final-versions.py",
+      "sha256": "4f1f43e11fc0a223f2ec5a4cd0e491d0fb52923b3606693e0a730886d752d213",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/cleanup-obsolete-20260929.py",
+      "copy": "tools/reference-halloween/cleanup-obsolete-20260929.py",
+      "sha256": "9c70ca891e5d3d370b86cfb84db3975d230546c27a57c10d53fb1ddeae02b115",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/fix-cover-export-v09.py",
+      "copy": "tools/reference-halloween/fix-cover-export-v09.py",
+      "sha256": "d317a9dd207969e9de3d179a30b745cfa1e898f29807c2f911e9f2dc6b7f001f",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/fix-interior-details-v10.py",
+      "copy": "tools/reference-halloween/fix-interior-details-v10.py",
+      "sha256": "57e046dd90cb0b8918396dff2110fcbc68adb5877eb99e81af8fbe43f61f19c4",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/fix-interior-footer-v09.py",
+      "copy": "tools/reference-halloween/fix-interior-footer-v09.py",
+      "sha256": "4429cd54a795d00f27a362f85def963699b4531136ce7f3b65875d1130f4e3d9",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/import-user-puzzles-svg.py",
+      "copy": "tools/reference-halloween/import-user-puzzles-svg.py",
+      "sha256": "d5acacaf21d259b4f0f168f729da96856e5d9e63b50f27bbe5b1c7946bbb97cb",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/integrate-garland-v07.py",
+      "copy": "tools/reference-halloween/integrate-garland-v07.py",
+      "sha256": "a0e5df1462f822104eac6f60dd2a9f400d50b6b5f43e1ee19e7ff4801fd6a7a0",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/ocr-image-text.swift",
+      "copy": "tools/reference-halloween/ocr-image-text.swift",
+      "sha256": "913b7ae5e03ded7a6eb62ad83770bd4a049e6c2d6aa354db009db3ee33d50edb",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/render-anatomy-v03.py",
+      "copy": "tools/reference-halloween/render-anatomy-v03.py",
+      "sha256": "f93fca67b40d13613a952790d0c0d0c5c6ffb1ae4412312ef7bc9167f175ac6f",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/render-anatomy-v04.py",
+      "copy": "tools/reference-halloween/render-anatomy-v04.py",
+      "sha256": "81d28177a5cd5e5da1677774b500a3a5206df3493f25507e180d2974171671c8",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/render-figures-v05.py",
+      "copy": "tools/reference-halloween/render-figures-v05.py",
+      "sha256": "1212ef51d2ce642f8620f35d8e74e971ebcf724eda64b50bf5d2e842d47c9511",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/render-review-v02.py",
+      "copy": "tools/reference-halloween/render-review-v02.py",
+      "sha256": "f6420cb5e6b193dbd514f96abdc6bfd85345440a67017d236c1126f46e68267c",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/render-standees-v06.py",
+      "copy": "tools/reference-halloween/render-standees-v06.py",
+      "sha256": "3b2aa878e8e77a3923282bcbc996d48fe53c0ab4aa6e7cf6f873000017f17174",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/reorder-stories-v08.py",
+      "copy": "tools/reference-halloween/reorder-stories-v08.py",
+      "sha256": "5d2386c9f0fd09266786a57ada169c063bc8270b426843ac0a324739f9c8798b",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/replace-anatomy-v03.py",
+      "copy": "tools/reference-halloween/replace-anatomy-v03.py",
+      "sha256": "505fc28e9a302d78c22e159da0410fea90dde8712f27195a28e7336eabd8db1c",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/replace-anatomy-v04.py",
+      "copy": "tools/reference-halloween/replace-anatomy-v04.py",
+      "sha256": "945caa12dc303c9a54ea89a17973e27cafcdcf31c225160a837b63de8200a2db",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/replace-figures-v05.py",
+      "copy": "tools/reference-halloween/replace-figures-v05.py",
+      "sha256": "fd761785f2dbd5c79539a1923c82f0c0182def1cba52381164d42bacf2a7791b",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/review-book-v01.py",
+      "copy": "tools/reference-halloween/review-book-v01.py",
+      "sha256": "b40aadacd2f7e9bb6c51d451fa6cc597bb1769333d8b871a37d7b89a3f51de4f",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/scale-review-pages-8.5x11.py",
+      "copy": "tools/reference-halloween/scale-review-pages-8.5x11.py",
+      "sha256": "3192b7c8aac0b237bb4503ab2aae824e6395d4bab665f6ed7523a0272643db91",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/update-back-previews-v06.py",
+      "copy": "tools/reference-halloween/update-back-previews-v06.py",
+      "sha256": "28dc8bd9c873a934842c9d58ae56322848890b4bed0d623924bb79d4a2b330e1",
+      "execution_status": "not_executed"
+    },
+    {
+      "source": "/Users/stefan.marx/Documents/privat/kdp-dumplings-halloween/tools/update-maze-preview-v07.py",
+      "copy": "tools/reference-halloween/update-maze-preview-v07.py",
+      "sha256": "a63a77ea386534bc761fec1356e27c73aef1532aa4fb07ff6d3ec257ab446055",
+      "execution_status": "not_executed"
+    }
+  ]
+}

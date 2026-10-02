@@ -1,0 +1,2209 @@
+{
+  "schema_version": 1,
+  "updated": "2026-10-02",
+  "project": "dumplings-calendar",
+  "product": "Etsy / Gelato calendar 2027",
+  "assets": {
+    "back-images-with-puzzles-v1/01.png": {
+      "path": "back-images-with-puzzles-v1/01.png",
+      "sha256": "bcd1f514c4494d9d4bb9355bcd13a9a7208e44c5fcdeb55adb942e0414c594d3",
+      "role": "source",
+      "usage": "Bestehender unterer Seitenentwurf mit Rasterrätsel",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "back-images-with-puzzles-v1/02.png": {
+      "path": "back-images-with-puzzles-v1/02.png",
+      "sha256": "65610475307d96e01678de4d05295b200cef94bfcf1c39be5bae7d819e9f8fcd",
+      "role": "source",
+      "usage": "Bestehender unterer Seitenentwurf mit Rasterrätsel",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "back-images-with-puzzles-v1/03.png": {
+      "path": "back-images-with-puzzles-v1/03.png",
+      "sha256": "43dc0f78ab78dc19c0ced932e1496335fd6eb9e94842372ed4db9da4d195b510",
+      "role": "source",
+      "usage": "Bestehender unterer Seitenentwurf mit Rasterrätsel",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "back-images-with-puzzles-v1/04.png": {
+      "path": "back-images-with-puzzles-v1/04.png",
+      "sha256": "da40165949bf98e18a0752eafdef9718f9fab3ac12618512ddd5c2b344aa889f",
+      "role": "source",
+      "usage": "Bestehender unterer Seitenentwurf mit Rasterrätsel",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "back-images-with-puzzles-v1/05.png": {
+      "path": "back-images-with-puzzles-v1/05.png",
+      "sha256": "22da6d7525c1c74596ec4dfc1b75975214d2c933691cccebf8e05fd9edfeaa66",
+      "role": "source",
+      "usage": "Bestehender unterer Seitenentwurf mit Rasterrätsel",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "back-images-with-puzzles-v1/06.png": {
+      "path": "back-images-with-puzzles-v1/06.png",
+      "sha256": "40407eb51e67c24a1ba25408e5580e71f18db7e61156d860c36063f873e1c4ab",
+      "role": "source",
+      "usage": "Bestehender unterer Seitenentwurf mit Rasterrätsel",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1491,
+        1055
+      ],
+      "color_mode": "RGB"
+    },
+    "back-images-with-puzzles-v1/07.png": {
+      "path": "back-images-with-puzzles-v1/07.png",
+      "sha256": "9201d87a3a0884322abcd5ee6250900bd24ed7b564b87c097b620798c5bd0884",
+      "role": "source",
+      "usage": "Bestehender unterer Seitenentwurf mit Rasterrätsel",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1491,
+        1055
+      ],
+      "color_mode": "RGB"
+    },
+    "back-images-with-puzzles-v1/08.png": {
+      "path": "back-images-with-puzzles-v1/08.png",
+      "sha256": "c5049d608c4a2090a7398a964946d169a8b0ecf70628a0b68fb6a4e9196b019d",
+      "role": "source",
+      "usage": "Bestehender unterer Seitenentwurf mit Rasterrätsel",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1491,
+        1055
+      ],
+      "color_mode": "RGB"
+    },
+    "back-images-with-puzzles-v1/09.png": {
+      "path": "back-images-with-puzzles-v1/09.png",
+      "sha256": "2f950801629143c01ecfc76a403d62be4d29ea8da7b92a62ef561427881879a5",
+      "role": "source",
+      "usage": "Bestehender unterer Seitenentwurf mit Rasterrätsel",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1491,
+        1055
+      ],
+      "color_mode": "RGB"
+    },
+    "back-images-with-puzzles-v1/10.png": {
+      "path": "back-images-with-puzzles-v1/10.png",
+      "sha256": "4076b25a5af58377a1f0242b8e4d98b8854f1f111d35f14f23003ae00fcbdd3a",
+      "role": "source",
+      "usage": "Bestehender unterer Seitenentwurf mit Rasterrätsel",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1491,
+        1055
+      ],
+      "color_mode": "RGB"
+    },
+    "back-images-with-puzzles-v1/11.png": {
+      "path": "back-images-with-puzzles-v1/11.png",
+      "sha256": "b5d093189db4dc73da1c841c348c8b65deb909d0b9f72c25259a02e800fa97cb",
+      "role": "source",
+      "usage": "Bestehender unterer Seitenentwurf mit Rasterrätsel",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1491,
+        1055
+      ],
+      "color_mode": "RGB"
+    },
+    "back-images-with-puzzles-v1/12_not_correct.png": {
+      "path": "back-images-with-puzzles-v1/12_not_correct.png",
+      "sha256": "d3911140bb2c9325fb65acb67053d72b382eeb26bae0a061bc7d462da4ba4ac3",
+      "role": "source",
+      "usage": "Bestehender unterer Seitenentwurf mit Rasterrätsel",
+      "design_status": "rejected",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt",
+        "Dateiname kennzeichnet Dezember ausdrücklich als nicht korrekt; gesperrt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1491,
+        1055
+      ],
+      "color_mode": "RGB"
+    },
+    "calender-images-v0/01.png": {
+      "path": "calender-images-v0/01.png",
+      "sha256": "d3c6c2900beb6c84745da874aa9238a33d7f87f7aa0b4bd972049e0fa3bc2148",
+      "role": "source",
+      "usage": "Monatsillustration: lokale Ausgangsfassung",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1493,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "calender-images-v0/02.png": {
+      "path": "calender-images-v0/02.png",
+      "sha256": "19d729fe4f914352a2a449df3e21e1deced0602774e58216955afc1252fb2a5a",
+      "role": "source",
+      "usage": "Monatsillustration: lokale Ausgangsfassung",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "calender-images-v0/03.png": {
+      "path": "calender-images-v0/03.png",
+      "sha256": "352bb2d86be176c324cec9796c7ae5d2598e9bb5649297f61ce780150f1fc3b9",
+      "role": "source",
+      "usage": "Monatsillustration: lokale Ausgangsfassung",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "calender-images-v0/04.png": {
+      "path": "calender-images-v0/04.png",
+      "sha256": "cdcf7fa28cac97169072df19bd2c8402ce82c4c175bbd8055c1f7389d683cfa9",
+      "role": "source",
+      "usage": "Monatsillustration: lokale Ausgangsfassung",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "calender-images-v0/05.png": {
+      "path": "calender-images-v0/05.png",
+      "sha256": "6867f33ed3a749f5ddd1b07498352a3f1b492ef6f0bfe9bde3d76a90ede70d03",
+      "role": "source",
+      "usage": "Monatsillustration: lokale Ausgangsfassung",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1491,
+        1055
+      ],
+      "color_mode": "RGB"
+    },
+    "calender-images-v0/06.png": {
+      "path": "calender-images-v0/06.png",
+      "sha256": "1ae44d4fb01a13467d1f6bdb5932469fff975e2ac5a29bf366c73b88e51a24de",
+      "role": "source",
+      "usage": "Monatsillustration: lokale Ausgangsfassung",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "calender-images-v0/07.png": {
+      "path": "calender-images-v0/07.png",
+      "sha256": "ec2cf60d46db88121b8ddc64dcd40c878b8460b68cb861ce8a31b2cc6ffa1edc",
+      "role": "source",
+      "usage": "Monatsillustration: lokale Ausgangsfassung",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1491,
+        1055
+      ],
+      "color_mode": "RGB"
+    },
+    "calender-images-v0/08.png": {
+      "path": "calender-images-v0/08.png",
+      "sha256": "8bdb1163fd71aa23520e805ce209e6faa47ac46bf0e591501f4bb025eaa2a6b4",
+      "role": "source",
+      "usage": "Monatsillustration: lokale Ausgangsfassung",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1491,
+        1055
+      ],
+      "color_mode": "RGB"
+    },
+    "calender-images-v0/09.png": {
+      "path": "calender-images-v0/09.png",
+      "sha256": "cd72148ec9e924de5ba8505ec13f842adf3492524e6c2e464c7f9f73b8d74763",
+      "role": "source",
+      "usage": "Monatsillustration: lokale Ausgangsfassung",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1374,
+        1145
+      ],
+      "color_mode": "RGB"
+    },
+    "calender-images-v0/10.png": {
+      "path": "calender-images-v0/10.png",
+      "sha256": "53576c6f187472fb90840b4b1bcaf94b630295bb55cc5b4f1dd7b8c9aec59585",
+      "role": "source",
+      "usage": "Monatsillustration: lokale Ausgangsfassung",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1374,
+        1145
+      ],
+      "color_mode": "RGB"
+    },
+    "calender-images-v0/11.png": {
+      "path": "calender-images-v0/11.png",
+      "sha256": "e1d3fc07edc0cd83debfb0e7beb82d088430d2ce6d73069362e9cdaad25c3800",
+      "role": "source",
+      "usage": "Monatsillustration: lokale Ausgangsfassung",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1374,
+        1145
+      ],
+      "color_mode": "RGB"
+    },
+    "calender-images-v0/12.png": {
+      "path": "calender-images-v0/12.png",
+      "sha256": "1983338e616f51e3017382642576c4d1a07897e37ac81fe4ec553cde7b8efa17",
+      "role": "source",
+      "usage": "Monatsillustration: lokale Ausgangsfassung",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1374,
+        1145
+      ],
+      "color_mode": "RGB"
+    },
+    "characters/reference-images/01-character-reference-v02-accessories.png": {
+      "path": "characters/reference-images/01-character-reference-v02-accessories.png",
+      "sha256": "c8732d1048ba3c2c9acd4cbabb6a28e6cc89dbc72057665b2dd0c6fb56f529ce",
+      "role": "reference",
+      "usage": "Figuren- und Stilreferenz",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1717,
+        916
+      ],
+      "color_mode": "RGB"
+    },
+    "characters/reference-images/01-character-reference.png": {
+      "path": "characters/reference-images/01-character-reference.png",
+      "sha256": "584a2c596b9ceaabc178ff9d3d7a35987549a1c169b94be32f9dd938c9e88430",
+      "role": "reference",
+      "usage": "Figuren- und Stilreferenz",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1536,
+        1024
+      ],
+      "color_mode": "RGB"
+    },
+    "characters/reference-images/02-interaction-reference.png": {
+      "path": "characters/reference-images/02-interaction-reference.png",
+      "sha256": "d4d8202ddf4ec4f7828ca8b0774a9d307d2d364a053ef81551e47410e1a5573a",
+      "role": "reference",
+      "usage": "Figuren- und Stilreferenz",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1374,
+        1145
+      ],
+      "color_mode": "RGB"
+    },
+    "characters/reference-images/03-environment-reference.png": {
+      "path": "characters/reference-images/03-environment-reference.png",
+      "sha256": "a21df5b3b26246b9773fab27f9947ac591bdd52abbf53a81f033621a650d0783",
+      "role": "reference",
+      "usage": "Figuren- und Stilreferenz",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1374,
+        1145
+      ],
+      "color_mode": "RGB"
+    },
+    "characters/reference-images/ChatGPT Image Sep 22, 2026, 01_55_49 AM.png": {
+      "path": "characters/reference-images/ChatGPT Image Sep 22, 2026, 01_55_49 AM.png",
+      "sha256": "0447a2710a3a5af010ed42ed6b30c4d68ed1ce7af13d0d0c6221fa53f636fccd",
+      "role": "reference",
+      "usage": "Figuren- und Stilreferenz",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1536,
+        1024
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/01/ChatGPT Image Sep 22, 2026, 01_43_20 AM.png": {
+      "path": "drafts/01/ChatGPT Image Sep 22, 2026, 01_43_20 AM.png",
+      "sha256": "638fbc92fbc3989e93c5461eb455f34388a12f713b368be63044c191b10dfb46",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/01/ChatGPT Image Sep 22, 2026, 01_43_28 AM.png": {
+      "path": "drafts/01/ChatGPT Image Sep 22, 2026, 01_43_28 AM.png",
+      "sha256": "baed96efcc69563d7b20a37a216718a4a187f5339f4af6290da547368ed41c2e",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/01/ChatGPT Image Sep 22, 2026, 12_45_40 AM.png": {
+      "path": "drafts/01/ChatGPT Image Sep 22, 2026, 12_45_40 AM.png",
+      "sha256": "d3c6c2900beb6c84745da874aa9238a33d7f87f7aa0b4bd972049e0fa3bc2148",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1493,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/02/ChatGPT Image Sep 22, 2026, 11_47_13 AM.png": {
+      "path": "drafts/02/ChatGPT Image Sep 22, 2026, 11_47_13 AM.png",
+      "sha256": "9854cfc9ffc73d74002a2f96c3088e80bedc558d3aee4a0f2a31cfd8c441ebcc",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/03/ChatGPT Image Sep 22, 2026, 11_47_02 AM.png": {
+      "path": "drafts/03/ChatGPT Image Sep 22, 2026, 11_47_02 AM.png",
+      "sha256": "67e041a774cc6b614ceb9fe12dd1b57d2e0344e321bda625ce3c3dc76bccf2ea",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/04/ChatGPT Image Sep 22, 2026, 12_03_13 PM.png": {
+      "path": "drafts/04/ChatGPT Image Sep 22, 2026, 12_03_13 PM.png",
+      "sha256": "5b2a147a308912d5408d4ec13d5f0a1a4cd4b1a5dba191a601c306a74eef11dd",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/05/ChatGPT Image Sep 22, 2026, 06_17_01 PM.png": {
+      "path": "drafts/05/ChatGPT Image Sep 22, 2026, 06_17_01 PM.png",
+      "sha256": "317285842d6771616a26ad720e371296abb78cac3f8e4f1187f0a5dee2a139ed",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/06/ChatGPT Image Sep 22, 2026, 06_16_44 PM.png": {
+      "path": "drafts/06/ChatGPT Image Sep 22, 2026, 06_16_44 PM.png",
+      "sha256": "004163f1cdd396e040f92cd575e840c8165ffdec159189d21e4fb297b46d1a26",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/07/ChatGPT Image Sep 22, 2026, 06_16_10 PM.png": {
+      "path": "drafts/07/ChatGPT Image Sep 22, 2026, 06_16_10 PM.png",
+      "sha256": "86942d49181d4868cacae90273f63613d2bd436d7378d30287a7ce5b372ec27d",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1374,
+        1145
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/08/ChatGPT Image Sep 22, 2026, 06_15_33 PM.png": {
+      "path": "drafts/08/ChatGPT Image Sep 22, 2026, 06_15_33 PM.png",
+      "sha256": "203397d635bc1e1c9099b6ca0557e1a18008f2019baf619ee61045ef7bef5a8e",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1374,
+        1145
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/09/ChatGPT Image Sep 22, 2026, 06_14_25 PM.png": {
+      "path": "drafts/09/ChatGPT Image Sep 22, 2026, 06_14_25 PM.png",
+      "sha256": "36b7d10c6664e0a6b270c51550936de8d88bfdb1cbfd87003075ebadb2ec202d",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1374,
+        1145
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/10/ChatGPT Image Sep 22, 2026, 06_13_56 PM.png": {
+      "path": "drafts/10/ChatGPT Image Sep 22, 2026, 06_13_56 PM.png",
+      "sha256": "00da31b71f02269f8e88d7c2777f2f10e161159c275b690418da0394ce5aaca2",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1374,
+        1145
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/11/ChatGPT Image Sep 22, 2026, 06_12_10 PM.png": {
+      "path": "drafts/11/ChatGPT Image Sep 22, 2026, 06_12_10 PM.png",
+      "sha256": "9ef6a12a487e8cf98f27d1c226080d49248619cf3d3fe1e7ca0f628ec9d068c5",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1374,
+        1145
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/12/ChatGPT Image Sep 22, 2026, 06_12_02 PM.png": {
+      "path": "drafts/12/ChatGPT Image Sep 22, 2026, 06_12_02 PM.png",
+      "sha256": "004c4aaacee370e3dcede2e677436eb07391caa41da1cc8d80851dae0b863944",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1374,
+        1145
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/back-drafts-v0/01.png": {
+      "path": "drafts/back-drafts-v0/01.png",
+      "sha256": "bcd1f514c4494d9d4bb9355bcd13a9a7208e44c5fcdeb55adb942e0414c594d3",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/back-drafts-v0/02.png": {
+      "path": "drafts/back-drafts-v0/02.png",
+      "sha256": "65610475307d96e01678de4d05295b200cef94bfcf1c39be5bae7d819e9f8fcd",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/back-drafts-v0/03.png": {
+      "path": "drafts/back-drafts-v0/03.png",
+      "sha256": "43dc0f78ab78dc19c0ced932e1496335fd6eb9e94842372ed4db9da4d195b510",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/back-drafts-v0/04.png": {
+      "path": "drafts/back-drafts-v0/04.png",
+      "sha256": "da40165949bf98e18a0752eafdef9718f9fab3ac12618512ddd5c2b344aa889f",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/back-drafts-v0/05.png": {
+      "path": "drafts/back-drafts-v0/05.png",
+      "sha256": "22da6d7525c1c74596ec4dfc1b75975214d2c933691cccebf8e05fd9edfeaa66",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/back-drafts-v0/06.png": {
+      "path": "drafts/back-drafts-v0/06.png",
+      "sha256": "9c1d4124fda19c5dae0bd584b6cc474152fdf103c804e1f30675a5c7571d272c",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/back-drafts-v0/07.png": {
+      "path": "drafts/back-drafts-v0/07.png",
+      "sha256": "54cc9c5470d167ceef213382eaf1098e2cf61e257760b36892d74c7e181e7494",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/back-drafts-v0/08.png": {
+      "path": "drafts/back-drafts-v0/08.png",
+      "sha256": "f2f4d7ef7e5eda6552d9b1842b605fda037b4f7412ef76bf9d8a126baf4097a9",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/back-drafts-v0/09.png": {
+      "path": "drafts/back-drafts-v0/09.png",
+      "sha256": "cf002aeca1ab72986af0cf6b884ce2926ba61b2746706710062279a49b40b710",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/back-drafts-v0/10.png": {
+      "path": "drafts/back-drafts-v0/10.png",
+      "sha256": "2a63978abf25dd3398970147e37002159fc014dc44a7fb83a70cbf2e93e1a618",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "drafts/back-drafts-v0/11.png": {
+      "path": "drafts/back-drafts-v0/11.png",
+      "sha256": "72f29d03cbcaa28e0379706a6b3b5b8b35d7ff2681f64b6bb1132db609a1af29",
+      "role": "reference",
+      "usage": "Historischer Entwurf; keine automatische Produktionsauswahl",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "giggle_dumplings_2027_all_months_draft.pdf": {
+      "path": "giggle_dumplings_2027_all_months_draft.pdf",
+      "sha256": "2eaa4f40e619208126c9c5cf4233cb5aca973fd0c2ad714c9010c9ea11d69cd2",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 12,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "giggle_dumplings_2027_complete_calendar_with_back-drafts.pdf": {
+      "path": "giggle_dumplings_2027_complete_calendar_with_back-drafts.pdf",
+      "sha256": "431b7756ba6cc4056fd59f9f51cbfca336a1f135ad86b6976d6c71aa5dea1e36",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf": {
+      "path": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+      "sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 12,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "publisher_mark/giggling-house-v01.png": {
+      "path": "publisher_mark/giggling-house-v01.png",
+      "sha256": "d0c7902aeef7b118a6abce239090788feefbb0fcd4fc84fb9d7bb7394d88e554",
+      "role": "source",
+      "usage": "Publisher-Zeichen; Freigabe nicht lokal belegt",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1254,
+        1254
+      ],
+      "color_mode": "RGBA"
+    },
+    "production/puzzles/v03/01-drawing.json": {
+      "path": "production/puzzles/v03/01-drawing.json",
+      "sha256": "219adb7bd76838383fbd0dcc22227f096735a7a43dcbf9c7c5e79c2d96b1fd7d",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/01-puzzle.svg": {
+      "path": "production/puzzles/v03/01-puzzle.svg",
+      "sha256": "dfc90621ea2faa37b1d7b7c63a44dbfddda62c91fa1f01db957106506ebf1551",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/02-drawing.json": {
+      "path": "production/puzzles/v03/02-drawing.json",
+      "sha256": "3a5868ed762a9863f8cbd4cca4447773344e4d9e0a0ee7b54cd1d886aafbba36",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/02-puzzle.svg": {
+      "path": "production/puzzles/v03/02-puzzle.svg",
+      "sha256": "e5a3acca35ddc596c45ca6bc1d16bf304a36953369271f3c124d54bf4bc652f8",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/03-drawing.json": {
+      "path": "production/puzzles/v03/03-drawing.json",
+      "sha256": "ec57ce86013e430f8c8efb86abf3f1523fb27e433c53fb43ffbce93988bab773",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/03-puzzle.svg": {
+      "path": "production/puzzles/v03/03-puzzle.svg",
+      "sha256": "1e734fb4368fde79438f9d1d80b86d660b69d364bc9095a334ef82aa70373131",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/04-drawing.json": {
+      "path": "production/puzzles/v03/04-drawing.json",
+      "sha256": "3563e60bd6f3b6c1ea17ab8608f40d8f335e625add02ca545dafea2e7944f653",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/04-puzzle.svg": {
+      "path": "production/puzzles/v03/04-puzzle.svg",
+      "sha256": "c681dfa83e79312f85784b7135f204cf286aa7d0aa5d53d3dc08503dc2975c46",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/05-drawing.json": {
+      "path": "production/puzzles/v03/05-drawing.json",
+      "sha256": "d64ea90dfaf689ed8539c7864787f33fb85c2b049c4f792cbd309d2b36c38d58",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/05-puzzle.svg": {
+      "path": "production/puzzles/v03/05-puzzle.svg",
+      "sha256": "94d57c42f9f7ef0d8b2bbdb070e4f93679ab185d67d0d36e77df6ed89542d005",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/06-drawing.json": {
+      "path": "production/puzzles/v03/06-drawing.json",
+      "sha256": "3cbc39e8d6e5361f700539a77f85f8bc9411ee408a5922aae9cb7dd65f902832",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/06-puzzle.svg": {
+      "path": "production/puzzles/v03/06-puzzle.svg",
+      "sha256": "b82e48db233240ef5698e8caf6b9788ee324d04957d94430bc43ef637ff2bd3e",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/07-drawing.json": {
+      "path": "production/puzzles/v03/07-drawing.json",
+      "sha256": "4700375cc4a42d9a9b3a1a5bdb0b0a9e34a1663792bcfb7a818403cad88fa674",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/07-puzzle.svg": {
+      "path": "production/puzzles/v03/07-puzzle.svg",
+      "sha256": "310349011a4e292ff41d1ffbcba29344ca30cd16b8fc25701ecf0ee161283e1f",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/08-drawing.json": {
+      "path": "production/puzzles/v03/08-drawing.json",
+      "sha256": "d075b7a84c6eae527d1917e86ad2192e19c7a515321acadd03a0412c688af562",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/08-puzzle.svg": {
+      "path": "production/puzzles/v03/08-puzzle.svg",
+      "sha256": "ecded5ae0c8a9eda7cb6ef1be93ed56fe147491b6d7c444b8e0b40eb1f37fde1",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/09-drawing.json": {
+      "path": "production/puzzles/v03/09-drawing.json",
+      "sha256": "d6f0a67081a9d9fb7797d58d13c12eaab82bfd2a17bf4cf650adb5df80b7de51",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/09-puzzle.svg": {
+      "path": "production/puzzles/v03/09-puzzle.svg",
+      "sha256": "6d25bfa226be35d3b71cb1cbc8e59c7e262893f912fa682e7eb90c3bf10d1773",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/10-drawing.json": {
+      "path": "production/puzzles/v03/10-drawing.json",
+      "sha256": "5b12419712a30cff25388d8f2c910831888a4175904170bc2efebb474ce899d3",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/10-puzzle.svg": {
+      "path": "production/puzzles/v03/10-puzzle.svg",
+      "sha256": "ad2f456e64faeac31cece65dd0bccd455837dabd61a3ba38f8a64b7ba9f68bbf",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/11-drawing.json": {
+      "path": "production/puzzles/v03/11-drawing.json",
+      "sha256": "bcef650657e04a6e5c7267280680aa05191b296f106e995b393117aafa51bc41",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/11-puzzle.svg": {
+      "path": "production/puzzles/v03/11-puzzle.svg",
+      "sha256": "7c0d9f40e5f2e3b521c500ac9b4ddfd00043f1c1e4b014d691e60c532469458d",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/12-drawing.json": {
+      "path": "production/puzzles/v03/12-drawing.json",
+      "sha256": "3961ed04fa5f10d3ce5383c66d966eca73ba43050e7f98269118587b58899a7d",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/12-puzzle.svg": {
+      "path": "production/puzzles/v03/12-puzzle.svg",
+      "sha256": "511229c4578f63b6ae6b0d1658296f01c9e3ab9a6e227506f447a95e51b3fde3",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/checks.json": {
+      "path": "production/puzzles/v03/checks.json",
+      "sha256": "0f809f54a851d91b3a16739718b1d774018b4afc45162a0a0f29b3451442a642",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v03/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v03.pdf": {
+      "path": "production/puzzles/v03/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v03.pdf",
+      "sha256": "c1b5b736930a58700b17d2f099c6a16a56fc5a2f0a5bbb823cb970be31d9975a",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "page_count": 12,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "production/puzzles/v03/manifest.json": {
+      "path": "production/puzzles/v03/manifest.json",
+      "sha256": "bddb526b9e0d4f4c36edce3abddc54518b053418d8ef1e65c3330c86e9434885",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "production/puzzles/v04/01-drawing.json": {
+      "path": "production/puzzles/v04/01-drawing.json",
+      "sha256": "219adb7bd76838383fbd0dcc22227f096735a7a43dcbf9c7c5e79c2d96b1fd7d",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/01-puzzle.svg": {
+      "path": "production/puzzles/v04/01-puzzle.svg",
+      "sha256": "dfc90621ea2faa37b1d7b7c63a44dbfddda62c91fa1f01db957106506ebf1551",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/02-drawing.json": {
+      "path": "production/puzzles/v04/02-drawing.json",
+      "sha256": "3a5868ed762a9863f8cbd4cca4447773344e4d9e0a0ee7b54cd1d886aafbba36",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/02-puzzle.svg": {
+      "path": "production/puzzles/v04/02-puzzle.svg",
+      "sha256": "e5a3acca35ddc596c45ca6bc1d16bf304a36953369271f3c124d54bf4bc652f8",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/03-drawing.json": {
+      "path": "production/puzzles/v04/03-drawing.json",
+      "sha256": "ec57ce86013e430f8c8efb86abf3f1523fb27e433c53fb43ffbce93988bab773",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/03-puzzle.svg": {
+      "path": "production/puzzles/v04/03-puzzle.svg",
+      "sha256": "1e734fb4368fde79438f9d1d80b86d660b69d364bc9095a334ef82aa70373131",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/04-drawing.json": {
+      "path": "production/puzzles/v04/04-drawing.json",
+      "sha256": "3563e60bd6f3b6c1ea17ab8608f40d8f335e625add02ca545dafea2e7944f653",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/04-puzzle.svg": {
+      "path": "production/puzzles/v04/04-puzzle.svg",
+      "sha256": "c681dfa83e79312f85784b7135f204cf286aa7d0aa5d53d3dc08503dc2975c46",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/05-drawing.json": {
+      "path": "production/puzzles/v04/05-drawing.json",
+      "sha256": "d64ea90dfaf689ed8539c7864787f33fb85c2b049c4f792cbd309d2b36c38d58",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/05-puzzle.svg": {
+      "path": "production/puzzles/v04/05-puzzle.svg",
+      "sha256": "94d57c42f9f7ef0d8b2bbdb070e4f93679ab185d67d0d36e77df6ed89542d005",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/06-drawing.json": {
+      "path": "production/puzzles/v04/06-drawing.json",
+      "sha256": "e9d75871710386b3ddc62c620f72d472e96574199f9bc68290df11899b333e6e",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/06-puzzle.svg": {
+      "path": "production/puzzles/v04/06-puzzle.svg",
+      "sha256": "40d49c3b1cb5e25acbaa60164e14f9c266241ccb14b0b49a5ff46b7db92cb4bc",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/07-drawing.json": {
+      "path": "production/puzzles/v04/07-drawing.json",
+      "sha256": "4700375cc4a42d9a9b3a1a5bdb0b0a9e34a1663792bcfb7a818403cad88fa674",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/07-puzzle.svg": {
+      "path": "production/puzzles/v04/07-puzzle.svg",
+      "sha256": "310349011a4e292ff41d1ffbcba29344ca30cd16b8fc25701ecf0ee161283e1f",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/08-drawing.json": {
+      "path": "production/puzzles/v04/08-drawing.json",
+      "sha256": "3d3ddfe7036bbfab3de471ebf793d306827f107230408c4fc1518e32374a795e",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/08-puzzle.svg": {
+      "path": "production/puzzles/v04/08-puzzle.svg",
+      "sha256": "72613a17121f7e348c48105f776a082f564e6ed479aeec33390b29a36fa66cc9",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/09-drawing.json": {
+      "path": "production/puzzles/v04/09-drawing.json",
+      "sha256": "d6f0a67081a9d9fb7797d58d13c12eaab82bfd2a17bf4cf650adb5df80b7de51",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/09-puzzle.svg": {
+      "path": "production/puzzles/v04/09-puzzle.svg",
+      "sha256": "6d25bfa226be35d3b71cb1cbc8e59c7e262893f912fa682e7eb90c3bf10d1773",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/10-drawing.json": {
+      "path": "production/puzzles/v04/10-drawing.json",
+      "sha256": "5b12419712a30cff25388d8f2c910831888a4175904170bc2efebb474ce899d3",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/10-puzzle.svg": {
+      "path": "production/puzzles/v04/10-puzzle.svg",
+      "sha256": "ad2f456e64faeac31cece65dd0bccd455837dabd61a3ba38f8a64b7ba9f68bbf",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/11-drawing.json": {
+      "path": "production/puzzles/v04/11-drawing.json",
+      "sha256": "bcef650657e04a6e5c7267280680aa05191b296f106e995b393117aafa51bc41",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/11-puzzle.svg": {
+      "path": "production/puzzles/v04/11-puzzle.svg",
+      "sha256": "7c0d9f40e5f2e3b521c500ac9b4ddfd00043f1c1e4b014d691e60c532469458d",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/12-drawing.json": {
+      "path": "production/puzzles/v04/12-drawing.json",
+      "sha256": "3961ed04fa5f10d3ce5383c66d966eca73ba43050e7f98269118587b58899a7d",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/12-puzzle.svg": {
+      "path": "production/puzzles/v04/12-puzzle.svg",
+      "sha256": "511229c4578f63b6ae6b0d1658296f01c9e3ab9a6e227506f447a95e51b3fde3",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/checks.json": {
+      "path": "production/puzzles/v04/checks.json",
+      "sha256": "2912c765e00d499bbd22de4ff590a911b73a385618f1d69cd4696f202bbcc84e",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v04.pdf": {
+      "path": "production/puzzles/v04/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v04.pdf",
+      "sha256": "75d963996d59bbc2263af1ca7cdb1a5291d868ad7c46af243bd2a5600d71850d",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "page_count": 12,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ],
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "production/puzzles/v04/manifest.json": {
+      "path": "production/puzzles/v04/manifest.json",
+      "sha256": "7a197dfb4add793125fb122133749224b7b9c4c2ada3c13828f241be93832379",
+      "role": "derived",
+      "usage": "Rätsel-Konstruktionsentwurf / Arbeitsmaster / Prüfmanifest",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "agent_visual_review": "12 lower-page layouts reviewed 2026-10-02; user approval pending"
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v04.manifest.json": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v04.manifest.json",
+      "sha256": "1f333ef4c11f3d2a8a5588eb264ce3ece1ddd74973738f07a4059b6bd69d719c",
+      "role": "derived",
+      "usage": "Seiten- und Quellenmanifest des aktuellen Gesamt-Arbeitsmasters",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf",
+        "Vereinbarte Quelle 02_corrected.png lokal nicht vorhanden; Winterkleidung und Uhr exakt 20:51 offen.",
+        "Sunnys Puschelschwanz offen; 04.png erhalten.",
+        "Mochis Puschelschwanz offen; 06.png erhalten.",
+        "Zuletzt freigegebene Dezember-Version muss einer lokalen Datei zugeordnet werden; 12_not_correct.png gesperrt."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_complete_calendar_with_back-drafts.pdf + registered lower master v04",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v04.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v04.pdf",
+      "sha256": "c8c0e45ef8b33ee72dc05c8d5c9285ec105923e482d940caab8c5b0df8a66472",
+      "role": "derived",
+      "usage": "Aktueller Gesamt-Arbeitsmaster, 26 Seiten",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und Gelato-Druckprüfung offen; einfache Vektorgestaltung als Arbeitsentwurf",
+        "Vereinbarte Quelle 02_corrected.png lokal nicht vorhanden; Winterkleidung und Uhr exakt 20:51 offen.",
+        "Sunnys Puschelschwanz offen; 04.png erhalten.",
+        "Mochis Puschelschwanz offen; 06.png erhalten.",
+        "Zuletzt freigegebene Dezember-Version muss einer lokalen Datei zugeordnet werden; 12_not_correct.png gesperrt."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Deterministisch lokal erzeugt; keine Bildgenerierung.",
+        "source": "giggle_dumplings_2027_complete_calendar_with_back-drafts.pdf + registered lower master v04",
+        "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3"
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    }
+  },
+  "selection": {
+    "current_working_master": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v04.pdf",
+    "current_lower_master": "production/puzzles/v04/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v04.pdf",
+    "source_lower_master": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf"
+  },
+  "issues": {
+    "february": "Vereinbarte Quelle 02_corrected.png lokal nicht vorhanden; Winterkleidung und Uhr exakt 20:51 offen.",
+    "april": "Sunnys Puschelschwanz offen; 04.png erhalten.",
+    "june": "Mochis Puschelschwanz offen; 06.png erhalten.",
+    "december": "Zuletzt freigegebene Dezember-Version muss einer lokalen Datei zugeordnet werden; 12_not_correct.png gesperrt.",
+    "gelato": "Konkrete Produktvorlage, Bindung, Beschnitt, sichere Ränder, Auflösung und abschließende Druckprüfung offen.",
+    "imprint": "Impressum offen.",
+    "master": "Arbeitsmaster v04 mit 12 neuen Vektorrätseln; Nutzerreview, Bildkorrekturen, Impressum und Gelato-Prüfung offen."
+  }
+}

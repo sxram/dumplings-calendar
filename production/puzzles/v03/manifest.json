@@ -1,0 +1,454 @@
+{
+  "source": "giggle_dumplings_2027_lower_pages_master_v2_illustrated.pdf",
+  "source_sha256": "5d19ee7d9213aa8b1929bb621295affcbac2a40dacf92490d563a4828c970cf3",
+  "status": "working_master",
+  "user_review": "pending",
+  "gelato_print_review": "pending",
+  "months": [
+    {
+      "month": 1,
+      "title": "Follow the Footprints!",
+      "instruction": "Which footprints lead to the golden star? Follow the trail!",
+      "answer": "Trail C",
+      "construction": {
+        "trails": 4,
+        "star_trail": "C",
+        "branching": false
+      },
+      "removed_old_puzzle_sha256": "4f9026570363930c6c2b3f7a035ab4a8fb2aabf8265f4413e1b923b3d66a88da",
+      "retained_source_operations_sha256": "f8a3be0d7e3b5d2cf198fb18d45b92b2d59ec86ac9758879b078e014d8f519a6"
+    },
+    {
+      "month": 2,
+      "title": "Special Delivery",
+      "instruction": "Follow each path. Which mailbox gets each letter?",
+      "answer": {
+        "A": 3,
+        "B": 1,
+        "C": 4,
+        "D": 2
+      },
+      "construction": {
+        "curves": 4,
+        "branches": 0,
+        "mapping": {
+          "A": 3,
+          "B": 1,
+          "C": 4,
+          "D": 2
+        }
+      },
+      "removed_old_puzzle_sha256": "eaa99b1008a24fbdfe4df88ba4e6d9a0ebbc5e1ff1047b951047317f76c5a205",
+      "retained_source_operations_sha256": "877bdfe419d226e04ba5216a98e6b5c195c91bfdc78fa8e3a2bc32bc66d65993"
+    },
+    {
+      "month": 3,
+      "title": "Seed Trail",
+      "instruction": "What comes next? Complete the two patterns!",
+      "answer": {
+        "row1": "C — acorn",
+        "row2": "B — tulip"
+      },
+      "construction": {
+        "periods": [
+          3,
+          3
+        ],
+        "answers": [
+          "acorn",
+          "tulip"
+        ]
+      },
+      "removed_old_puzzle_sha256": "55e076835d12dc8d8a9e4df08dbd65f67d150beb9ef83f5726ce4f00acb6aff9",
+      "retained_source_operations_sha256": "33c3fc02b0cca6f40ad2f03ddb0a2f2f8b02401b17a9044c72ef6df9c5831c34"
+    },
+    {
+      "month": 4,
+      "title": "Find the Matching Eggs!",
+      "instruction": "Two eggs are exactly the same. Can you find them?",
+      "answer": [
+        "C",
+        "H"
+      ],
+      "construction": {
+        "pattern_ids": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          2,
+          7,
+          8
+        ],
+        "duplicate_pair": [
+          2,
+          7
+        ]
+      },
+      "removed_old_puzzle_sha256": "f0233835a39322bae632505d29d9bc1f8e72622b143c041b4b836d0cd5a5f852",
+      "retained_source_operations_sha256": "c92c425359517ae5fd2aafd97cb2c9ee779830a81218ee9b24c81328f570ed42"
+    },
+    {
+      "month": 5,
+      "title": "Find the Butterflies!",
+      "instruction": "Eight butterflies are hiding in the picture. Can you find them all?",
+      "answer": {
+        "count": 8,
+        "positions": [
+          [
+            40,
+            87
+          ],
+          [
+            126,
+            114
+          ],
+          [
+            198,
+            91
+          ],
+          [
+            238,
+            151
+          ],
+          [
+            271,
+            213
+          ],
+          [
+            74,
+            235
+          ],
+          [
+            159,
+            211
+          ],
+          [
+            302,
+            128
+          ]
+        ]
+      },
+      "construction": {
+        "butterflies": 8,
+        "positions": [
+          [
+            40,
+            87
+          ],
+          [
+            126,
+            114
+          ],
+          [
+            198,
+            91
+          ],
+          [
+            238,
+            151
+          ],
+          [
+            271,
+            213
+          ],
+          [
+            74,
+            235
+          ],
+          [
+            159,
+            211
+          ],
+          [
+            302,
+            128
+          ]
+        ]
+      },
+      "removed_old_puzzle_sha256": "f6d0541270cf09e3b0fa355547399cca21e58327552155f1ce7cee764e530a3a",
+      "retained_source_operations_sha256": "0a9e51119017cc539f7a71621d06e280c2e1f079158d00d2af30e3fa215a69ec"
+    },
+    {
+      "month": 6,
+      "title": "Who Took the Strawberries?",
+      "instruction": "The strawberries are gone! Read the clues and find out who took them.",
+      "answer": "Nibbles",
+      "construction": {
+        "suspects": [
+          "Rabbit",
+          "Squirrel",
+          "Duck",
+          "Nibbles"
+        ],
+        "wings": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "turquoise_glasses": [
+          false,
+          false,
+          false,
+          true
+        ]
+      },
+      "removed_old_puzzle_sha256": "ca3d6675fcee8c0f828bd4eb472acc646f0f16571b8f99c5c3755e3df2ddddec",
+      "retained_source_operations_sha256": "93b99093a70161697d28b6eb48b4ff55af0dfe2227ceb9827e7f1c7c3806bcfd"
+    },
+    {
+      "month": 7,
+      "title": "Which Shadow Belongs to the Castle?",
+      "instruction": "Look carefully! Which shadow matches the sandcastle exactly?",
+      "answer": "C",
+      "construction": {
+        "reference_variant": 0,
+        "options": [
+          1,
+          2,
+          0,
+          3
+        ],
+        "exact_option": "C"
+      },
+      "removed_old_puzzle_sha256": "35cdb3bab0cdc55376b8f46e2a3fd03c23813bf4d06bfa7afe3dbdb66f037ddb",
+      "retained_source_operations_sha256": "a9a64ae80fbace7961d038ae6980cc0aaf1a943723fd55059e871c91c094d0e7"
+    },
+    {
+      "month": 8,
+      "title": "Who Lives Here?",
+      "instruction": "Match each woodland animal to its home.",
+      "answer": {
+        "Owl": "tree hollow (3)",
+        "Rabbit": "burrow (4)",
+        "Squirrel": "nest (1)",
+        "Fox": "den (2)"
+      },
+      "construction": {
+        "homes": [
+          "nest",
+          "den",
+          "tree hollow",
+          "burrow"
+        ],
+        "mapping": [
+          3,
+          4,
+          1,
+          2
+        ]
+      },
+      "removed_old_puzzle_sha256": "df31aa2a3bd6b2e46f7822dd763950888534a6124033fe102eca9699f4316488",
+      "retained_source_operations_sha256": "87512c93df270022887ef8634a35e4ab53ef85b1f1fd89baf340b4c7f8aa0c7f"
+    },
+    {
+      "month": 9,
+      "title": "Find the 6 Differences!",
+      "instruction": "These two pictures look almost the same. Can you find all 6 differences?",
+      "answer": [
+        "flag missing",
+        "flower color",
+        "one arch stone missing",
+        "one extra berry",
+        "cloud missing",
+        "extra magnifying glass by Bao"
+      ],
+      "construction": {
+        "differences": [
+          "flag missing",
+          "flower color",
+          "one arch stone missing",
+          "one extra berry",
+          "cloud missing",
+          "extra magnifying glass by Bao"
+        ],
+        "count": 6,
+        "mechanism_spaces": 12,
+        "mechanism_identical": true
+      },
+      "removed_old_puzzle_sha256": "c7a251832ce0a3181eeb2be020138a5ad8889599acacc07f7471195a94c9e4ed",
+      "retained_source_operations_sha256": "cea17b3fd3bb44f7f6fd387cb09ebb74d6faeb32f2a4e4b22e0b6bcaea4e23bd"
+    },
+    {
+      "month": 10,
+      "title": "Pumpkin Pairs",
+      "instruction": "Find the 5 matching pairs. Which 2 pumpkins are left without a partner?",
+      "answer": {
+        "pairs": [
+          "A-H",
+          "B-F",
+          "C-J",
+          "E-L",
+          "G-I"
+        ],
+        "unpaired": [
+          "D",
+          "K"
+        ]
+      },
+      "construction": {
+        "pattern_ids": [
+          0,
+          1,
+          2,
+          5,
+          3,
+          1,
+          4,
+          0,
+          4,
+          2,
+          6,
+          3
+        ],
+        "pair_count": 5,
+        "unpaired": 2
+      },
+      "removed_old_puzzle_sha256": "915d0fd5d48543b4bf27b29127354d384a35f39420443f3c551acc24c8ba54df",
+      "retained_source_operations_sha256": "d863ce14b84e1d95a5789aa6912bffeae4afe2ead668db77d586eda3a9c8bc8b"
+    },
+    {
+      "month": 11,
+      "title": "Put the Storm Story in Order!",
+      "instruction": "What happened first? Put the 4 pictures in the correct order.",
+      "answer": {
+        "displayed_states": [
+          "C",
+          "A",
+          "D",
+          "B"
+        ],
+        "write": [
+          3,
+          1,
+          4,
+          2
+        ]
+      },
+      "construction": {
+        "chronological_states": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "displayed_states": [
+          2,
+          0,
+          3,
+          1
+        ]
+      },
+      "removed_old_puzzle_sha256": "6607d5201e3bd0ccba234e7f26fbf19ac419f8efeeeaa6db43b9040fd89b015f",
+      "retained_source_operations_sha256": "0231b1c1e398317560805ac9c87f3e3bbf3de4c358177d9e4521101aa3a398cf"
+    },
+    {
+      "month": 12,
+      "title": "Complete the Last Star!",
+      "instruction": "One piece is missing. Which piece completes the star exactly?",
+      "answer": "C",
+      "construction": {
+        "star_points": 12,
+        "missing_polygon": [
+          [
+            0,
+            0
+          ],
+          [
+            26.16295090390227,
+            -26.162950903902257
+          ],
+          [
+            56.291651245988504,
+            -32.5
+          ],
+          [
+            35.73925557269553,
+            -9.57630466879327
+          ]
+        ],
+        "options": [
+          [
+            [
+              0,
+              0
+            ],
+            [
+              17.16295090390227,
+              -26.162950903902257
+            ],
+            [
+              56.291651245988504,
+              -32.5
+            ],
+            [
+              35.73925557269553,
+              -9.57630466879327
+            ]
+          ],
+          [
+            [
+              0,
+              0
+            ],
+            [
+              26.16295090390227,
+              -26.162950903902257
+            ],
+            [
+              56.291651245988504,
+              -22.5
+            ],
+            [
+              35.73925557269553,
+              -9.57630466879327
+            ]
+          ],
+          [
+            [
+              0,
+              0
+            ],
+            [
+              26.16295090390227,
+              -26.162950903902257
+            ],
+            [
+              56.291651245988504,
+              -32.5
+            ],
+            [
+              35.73925557269553,
+              -9.57630466879327
+            ]
+          ],
+          [
+            [
+              0,
+              0
+            ],
+            [
+              26.16295090390227,
+              -26.162950903902257
+            ],
+            [
+              56.291651245988504,
+              -32.5
+            ],
+            [
+              46.73925557269553,
+              -9.57630466879327
+            ]
+          ]
+        ],
+        "exact_option": "C"
+      },
+      "removed_old_puzzle_sha256": "f5233238da6978489bf64071aba794e16850b905b450d362e343e6f8e6a0c2f6",
+      "retained_source_operations_sha256": "d3f1e38b181088d2ac28d8d80224369b9f9bf5f126982b6a679259584e7a34b1"
+    }
+  ]
+}
