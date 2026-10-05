@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-04",
+  "base": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v19.pdf",
+  "master": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v20.pdf",
+  "patch": "production/month-images/drafts/february-v02/02-mochi-no-pompoms-v01.png",
+  "patch_sha256": "c8e59c57fd3ead73e47f662ac388ed43af2c8b12c824366ebc086626fec9e6b5",
+  "source_pixels": [
+    1492,
+    1054
+  ],
+  "clip_polygon_pixels": [
+    [
+      608,
+      730
+    ],
+    [
+      609,
+      720
+    ],
+    [
+      622,
+      710
+    ],
+    [
+      631,
+      708
+    ],
+    [
+      641,
+      716
+    ],
+    [
+      646,
+      708
+    ],
+    [
+      657,
+      706
+    ],
+    [
+      669,
+      712
+    ],
+    [
+      675,
+      719
+    ],
+    [
+      670,
+      730
+    ],
+    [
+      660,
+      726
+    ],
+    [
+      651,
+      728
+    ],
+    [
+      644,
+      735
+    ],
+    [
+      636,
+      733
+    ],
+    [
+      625,
+      731
+    ],
+    [
+      613,
+      730
+    ]
+  ],
+  "method": "Native PDF clipped overlay. Original image unchanged underneath; generated image only visible inside local polygon behind bow.",
+  "changed_pages": [
+    4
+  ],
+  "other_25_content_streams": "identical",
+  "image_generation_calls": 1,
+  "visual_review": "2026-10-04: Both protrusions removed; final rendered close-up inspected, smooth background and preserved bow contour.",
+  "user_review": "pending",
+  "print_release": false,
+  "render_diff_bbox_at_1600px": [
+    651,
+    757,
+    724,
+    789
+  ],
+  "outside_render_diff_bbox": "pixel-identical to v19"
+}

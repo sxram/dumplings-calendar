@@ -7,7 +7,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 REGISTER = ROOT / 'production/assets.json'
 SUFFIXES = {'.png', '.jpg', '.jpeg', '.webp', '.svg', '.pdf', '.json'}
-FOLDERS = ['characters', 'calender-images-v0', 'back-images-with-puzzles-v1', 'drafts', 'publisher_mark', 'production/puzzles', 'production/month-images', 'output', 'update_26-10-02']
+FOLDERS = ['characters', 'calender-images-v0', 'back-images-with-puzzles-v1', 'drafts', 'publisher_mark', 'production/puzzles', 'production/month-images', 'production/month-backs', 'output', 'update_26-10-02']
 
 
 def digest(path):

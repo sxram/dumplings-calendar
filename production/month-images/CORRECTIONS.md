@@ -17,3 +17,7 @@ Fünf gezielte Bildedit-Aufrufe insgesamt: Februar erforderte nach der Kleidung 
 - April/Juni: Fehlteil entfernt; Körper, Hände und benachbarte Objekte visuell erhalten, Hintergrundrekonstruktion scharf. Keine Pixelidentität außerhalb des Edits behauptet, da das Bildwerkzeug die gesamte Rasterdatei neu ausgibt.
 - Im Gesamtmaster v07 sind die Pixel der drei ausgewählten Varianten exakt eingebettet; diese technische Gleichheit wurde automatisiert geprüft.
 - Gestaltungsfreigabe durch den Nutzer und produktbezogene Gelato-Druckprüfung weiterhin offen.
+
+## Zusätzliche Februar-Korrektur — 04.10.2026
+
+Zwei körperfarbene Puschel hinter Mochis Schleife entfernt. Ein Built-in-Imagegen-Aufruf; im Master v20 nur die eng begrenzte Korrekturfläche eingeblendet, nicht das gesamte neu ausgegebene Bild. Render außerhalb der lokalen Fläche pixelidentisch zu v19. Finale Schleifenkontur und rekonstruierter Hintergrund vergrößert geprüft. Quelle, Prompt und Einsatzpolygon unter `drafts/february-v02/`.

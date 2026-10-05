@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-02",
+  "updated": "2026-10-05",
   "project": "dumplings-calendar",
   "product": "Etsy / Gelato calendar 2027",
   "assets": {
@@ -3973,10 +3973,1067 @@
         "source": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v07.pdf",
         "note": "Automatische Prüfungen und tatsächlich durchgeführte Sichtprüfung getrennt dokumentiert."
       }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v08.manifest.json": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v08.manifest.json",
+      "sha256": "caec04c933fbbfaee4b393d73b805a9fb8c8b4c2eb125e3156f6ee66ffdebba4",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v08.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v08.pdf",
+      "sha256": "9ab563c9de6bf59ac20f22867aeabd9c7775d79ba26249372a07faf35f0f99f0",
+      "role": "working_master",
+      "usage": "Aktueller 26-seitiger Arbeitsmaster v08; Covertexte und Impressum überarbeitet",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v07.pdf",
+        "note": "Nur Seite 1 und 26 geändert; beide gerendert und visuell geprüft. 24 Innen-Contentstreams identisch."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/review-v08/corrected-months.png": {
+      "path": "output/review-v08/corrected-months.png",
+      "sha256": "612d8776ce09e082ff2933e7aed2cf629200ab10795a7f7351f2dd665c784e06",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1200,
+        900
+      ],
+      "color_mode": "RGB"
+    },
+    "output/review-v08/puzzles-01-04.png": {
+      "path": "output/review-v08/puzzles-01-04.png",
+      "sha256": "302ef605e97a678e1b763063900412fcfcae8c83b1322f1f33f9c047d6b249c7",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        960,
+        800
+      ],
+      "color_mode": "RGB"
+    },
+    "output/review-v08/puzzles-05-08.png": {
+      "path": "output/review-v08/puzzles-05-08.png",
+      "sha256": "7ca44f10809f3696828160b4eca0966b1418f99c8dd5fc3b71275aa956d1ad86",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        960,
+        800
+      ],
+      "color_mode": "RGB"
+    },
+    "output/review-v08/puzzles-09-12.png": {
+      "path": "output/review-v08/puzzles-09-12.png",
+      "sha256": "686093bc287e838c74bca26b9adeaf6a43f936259bab7ec9218b6520fc659fd9",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        960,
+        800
+      ],
+      "color_mode": "RGB"
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v09.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v09.pdf",
+      "sha256": "25a1e9112627c60e59ac43188b31260d9092103c83b88baa2d5b2ab4c39ee897",
+      "role": "working_master",
+      "usage": "Aktueller Arbeitsmaster v09 mit überarbeitetem Januar-Rätsel",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v08.pdf",
+        "note": "Nur Seite 3 geändert und visuell geprüft; 25 andere Contentstreams identisch."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "production/puzzles/january-v09/01-drawing.json": {
+      "path": "production/puzzles/january-v09/01-drawing.json",
+      "sha256": "425fe18b2199d09318d01cbef38362fb4a21ea565644ec5634dace8f0eb13bd6",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      }
+    },
+    "production/puzzles/january-v09/01-puzzle.svg": {
+      "path": "production/puzzles/january-v09/01-puzzle.svg",
+      "sha256": "f54e43d76d707e31da0ba03be41c5ac0ceb85f74bbc761eba9d6c4418f429b9a",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      }
+    },
+    "production/puzzles/january-v09/manifest.json": {
+      "path": "production/puzzles/january-v09/manifest.json",
+      "sha256": "1f5c574fd0abf33f9bfea0433a4b8b1d968cc3344fb83f4990e3d69d81bf4c1e",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v10.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v10.pdf",
+      "sha256": "f597e5bb40027d398a3ab86d92898bfa2b9b32acc4118833a37bdd553fc3a00f",
+      "role": "working_master",
+      "usage": "Aktueller Arbeitsmaster v10 mit Garten-Suchbild im Mai",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v09.pdf",
+        "note": "Nur Seite 11 geändert, final gerendert und visuell geprüft; 25 andere Contentstreams identisch."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "production/puzzles/may-v10/05-drawing.json": {
+      "path": "production/puzzles/may-v10/05-drawing.json",
+      "sha256": "804ceb9dfb9b4b70f46d51d2ad98a849282bded6017334251f32d1326915c16b",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "approved",
+      "print_status": "not_released",
+      "issues": [
+        "Produktbezogene Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "approval": "2026-10-04: Nutzer bestätigt die Mai-Überarbeitung mit „das passt“. Keine Druckfreigabe."
+    },
+    "production/puzzles/may-v10/05-puzzle.svg": {
+      "path": "production/puzzles/may-v10/05-puzzle.svg",
+      "sha256": "cb0331b6b6e4c52f58f59c6d1f27902dda90f3d5e87514720b8dd5faa96658cf",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "approved",
+      "print_status": "not_released",
+      "issues": [
+        "Produktbezogene Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "approval": "2026-10-04: Nutzer bestätigt die Mai-Überarbeitung mit „das passt“. Keine Druckfreigabe."
+    },
+    "production/puzzles/may-v10/manifest.json": {
+      "path": "production/puzzles/may-v10/manifest.json",
+      "sha256": "a07e25924e4ebed4b13305540d70b48c853dad9a6d28865c1a19dd7636228cdd",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v11.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v11.pdf",
+      "sha256": "ff88813919729a047813bbbc8d0fca5471d08a79b8521b78ceb5dde6607afa61",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v12.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v12.pdf",
+      "sha256": "bc84972bbb99e762fd0941b291b0ea8c53a1ed878c2f2b68dd2c3d65dbb3e199",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v13.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v13.pdf",
+      "sha256": "b5c6184463b7193fae75ef46106d0aada3071f7011a486151d0119ad72a78618",
+      "role": "working_master",
+      "usage": "Aktueller Arbeitsmaster v13 mit illustrierter Januar-Musterseite",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v10.pdf",
+        "note": "Nur Seite 3 geändert; übrige 25 Contentstreams identisch."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-january-back-MUSTER-v01.pdf": {
+      "path": "output/pdf/giggle-dumplings-january-back-MUSTER-v01.pdf",
+      "sha256": "1ef4846ec99b91758002d10e894b49d74d8ae181379262df45373f486b3d48cb",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 1,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-january-back-MUSTER-v02.pdf": {
+      "path": "output/pdf/giggle-dumplings-january-back-MUSTER-v02.pdf",
+      "sha256": "78fff74e7d929e1dcc3e1e98cc7bfc5bea27b9b75610c273d7ff0cc36d0ac1a7",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 1,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-january-back-MUSTER-v03.pdf": {
+      "path": "output/pdf/giggle-dumplings-january-back-MUSTER-v03.pdf",
+      "sha256": "710f55f36c4925cde4fd4fe0747ae1054551d3cc9562248eac3fac5c4b10ea87",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "rejected",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzer verwirft Neugestaltung; Original als Grundlage erhalten"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 1,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/review-january-back/january-back-preview.png": {
+      "path": "output/review-january-back/january-back-preview.png",
+      "sha256": "b1d4dae12338990845262368191ce4339beefc13d599a0fe0930df85ccb281b1",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1600,
+        1132
+      ],
+      "color_mode": "RGB"
+    },
+    "production/month-backs/january-v01/manifest.json": {
+      "path": "production/month-backs/january-v01/manifest.json",
+      "sha256": "ff8addb7cd15fc4a50fb41852eb76e39507995497449df858d60f27e2596285a",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      }
+    },
+    "production/month-backs/january-v01/winter-template.png": {
+      "path": "production/month-backs/january-v01/winter-template.png",
+      "sha256": "508a0544554deffdab385a08c12d59929b068754158f1abcbb728ed100ac7b19",
+      "role": "component",
+      "usage": "Illustrative Januar-Wintervorlage ohne Text; ein Built-in-Imagegen-Aufruf",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview offen",
+        "Rasterdekor ca. 127 ppi bei A4; Produktdruckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Built-in Imagegen; Referenzen alte illustrierte Januar-Rückseite und Januar-Vorderbild; prompt.txt im selben Ordner."
+      },
+      "pixels": [
+        1491,
+        1055
+      ],
+      "color_mode": "RGB"
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v14.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v14.pdf",
+      "sha256": "474f3095e3aa592ef31a8dbba8a73819ccf3e076d3563ce9566ce3354f5303c2",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v15.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v15.pdf",
+      "sha256": "4d950d123b031b20d47a450be32037f94e927385252570042faf96791e7b358f",
+      "role": "working_master",
+      "usage": "Aktueller Arbeitsmaster v15 mit illustrierter Januar- und Februar-Rückseite",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätsel sind bislang schematische Konstruktionsentwürfe; illustrierte Endgestaltung gemäß Originalvorlagen erforderlich",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v13.pdf",
+        "note": "Nur Seite 5 geändert; übrige 25 Contentstreams identisch."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-february-back-MUSTER-v01.pdf": {
+      "path": "output/pdf/giggle-dumplings-february-back-MUSTER-v01.pdf",
+      "sha256": "5602496ee9a111a5380a7a97ab6df0a8d7b71c86995e0b2bf4f0f3eff788dd40",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 1,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-february-back-MUSTER-v02.pdf": {
+      "path": "output/pdf/giggle-dumplings-february-back-MUSTER-v02.pdf",
+      "sha256": "8beaa9d69e4f8bedb067cb407407e7c300ae17a665cb5462567ab9de78b98de5",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Rätsel sind bislang schematische Konstruktionsentwürfe; illustrierte Endgestaltung gemäß Originalvorlagen erforderlich",
+        "Gelato-Druckprüfung offen"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 1,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/review-february-back/february-back-preview.png": {
+      "path": "output/review-february-back/february-back-preview.png",
+      "sha256": "a9c20672221aed3af45a05be6950e55f8c6b231a941f57f124523b17e641ec51",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1600,
+        1132
+      ],
+      "color_mode": "RGB"
+    },
+    "production/month-backs/february-v01/manifest.json": {
+      "path": "production/month-backs/february-v01/manifest.json",
+      "sha256": "35a686fa232cb6d45fb8cd91b58b16a282fc812dd58785a875e0bad3f224adc6",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      }
+    },
+    "production/month-backs/february-v01/winter-template.png": {
+      "path": "production/month-backs/february-v01/winter-template.png",
+      "sha256": "414e852413187880296fdb4672af4f06add14fe9e43e6de240dd7e223147bd5a",
+      "role": "component",
+      "usage": "Februar-Rückseitenvorlage: snowy village and Mail Carrier Bao",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Ein Built-in-Imagegen-Aufruf. Januar-Vorlage und korrigiertes Februar-Vorderbild als Referenz; prompt.txt im gleichen Ordner."
+      },
+      "pixels": [
+        1491,
+        1055
+      ],
+      "color_mode": "RGB"
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v16.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v16.pdf",
+      "sha256": "9e034df2ea12466b51077a2a7a0571b3c119865b54f1f7a830354742608177bc",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v17.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v17.pdf",
+      "sha256": "dd38307307a963d3140a8b12c10a5394a17b39731e333749a637b52e9b14e48d",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v18.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v18.pdf",
+      "sha256": "77e26b18d8f1cde5d5bb8c9faaca3b3eaea1e75480da92670515ba740c8d550b",
+      "role": "working_master",
+      "usage": "Aktueller Arbeitsmaster v18 mit lebendiger illustrierter Januar-Rätselseite",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v15.pdf",
+        "note": "Nur Seite 3 geändert; 25 übrige Contentstreams identisch. Finale Januar-Seite visuell geprüft, Nutzerreview offen."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-january-back-ILLUSTRIERT-v01.pdf": {
+      "path": "output/pdf/giggle-dumplings-january-back-ILLUSTRIERT-v01.pdf",
+      "sha256": "fa01b44e3a4cdda5af66ffda776476cb1ffd22db97155b2ffc83e25a9912aadd",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 1,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-january-back-ILLUSTRIERT-v02.pdf": {
+      "path": "output/pdf/giggle-dumplings-january-back-ILLUSTRIERT-v02.pdf",
+      "sha256": "78b8b8a5928733ac22857f5dd967eb5f64b3838fa8fb574ee442dda706387b2d",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 1,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-january-back-ILLUSTRIERT-v03.pdf": {
+      "path": "output/pdf/giggle-dumplings-january-back-ILLUSTRIERT-v03.pdf",
+      "sha256": "f5297e615a3f7592826d44df2547b25dbe83b1aa65b66bb8ff8c2d001663a151",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "rejected",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzer verwirft Neugestaltung; Original als Grundlage erhalten"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 1,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/review-january-rich/january-preview.png": {
+      "path": "output/review-january-rich/january-preview.png",
+      "sha256": "3979a2b82dc5d7001a32aa4a9137a07751428e6f8b1d87db0fcf28c0f3afb30b",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1600,
+        1132
+      ],
+      "color_mode": "RGB"
+    },
+    "production/month-backs/january-rich-v01/footprints-drawing-v02.json": {
+      "path": "production/month-backs/january-rich-v01/footprints-drawing-v02.json",
+      "sha256": "c9e4f6841ab55ab8f09c85ea4e13669252704586be8819fdd7c884ac17599825",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      }
+    },
+    "production/month-backs/january-rich-v01/footprints-drawing.json": {
+      "path": "production/month-backs/january-rich-v01/footprints-drawing.json",
+      "sha256": "c9e4f6841ab55ab8f09c85ea4e13669252704586be8819fdd7c884ac17599825",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      }
+    },
+    "production/month-backs/january-rich-v01/footprints-v02.svg": {
+      "path": "production/month-backs/january-rich-v01/footprints-v02.svg",
+      "sha256": "9d5c376e5edcb0e239a9c9133bec95e638508f6cb99a0d2bbb579d6705e1242d",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      }
+    },
+    "production/month-backs/january-rich-v01/footprints.svg": {
+      "path": "production/month-backs/january-rich-v01/footprints.svg",
+      "sha256": "9d5c376e5edcb0e239a9c9133bec95e638508f6cb99a0d2bbb579d6705e1242d",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      }
+    },
+    "production/month-backs/january-rich-v01/manifest-v03.json": {
+      "path": "production/month-backs/january-rich-v01/manifest-v03.json",
+      "sha256": "24a5d71c8d0dd7c4ab03a52a6667216255ce7e960a5ca2b69e284cefbf72c64a",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      }
+    },
+    "production/month-backs/january-rich-v01/manifest.json": {
+      "path": "production/month-backs/january-rich-v01/manifest.json",
+      "sha256": "c4e81e4d2cb7c014b70313d5e2e499a7b80a4210211f845dfeae48fd04f41ab4",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      }
+    },
+    "production/month-backs/january-rich-v01/winter-template-v02.png": {
+      "path": "production/month-backs/january-rich-v01/winter-template-v02.png",
+      "sha256": "b08457f50fb2185fe4fd69c2a0098f46d0acc2ec8cdc333a3ab101b839e707e8",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "production/month-backs/january-rich-v01/winter-template.png": {
+      "path": "production/month-backs/january-rich-v01/winter-template.png",
+      "sha256": "649ebc00bb10f09d9d4fb85cda6eb47690ed5ababde3301eae8c8f061fe6f7c7",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v19.manifest.json": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v19.manifest.json",
+      "sha256": "740d6ddfb7eec7860528bbc18749ccd1d702a9f6c52a3f3eea2a11befb515b65",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v19.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v19.pdf",
+      "sha256": "a8a6a2f05a6e55f13a33959c7814ff84fd82ec98195ffcc132ab41323020bdc7",
+      "role": "working_master",
+      "usage": "Arbeitsmaster v19: Januar-Original pixelidentisch wiederhergestellt; restliche Seiten noch vorheriger Stand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v18.pdf",
+        "note": "Nur Seite 3 ersetzt. Kein neuer Bildaufruf. Originalrätsel noch nicht als eindeutig lösbar freigegeben."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-january-ORIGINAL-v01.pdf": {
+      "path": "output/pdf/giggle-dumplings-january-ORIGINAL-v01.pdf",
+      "sha256": "aa1f71ba82b17443ed1480db64b361f1885e85f9b26afafa9dea6aaed91bfdbe",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 1,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v20.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v20.pdf",
+      "sha256": "95e373c4474cf5743507b83e4876a8e51dcc7d888fac9aa224b989c54278e917",
+      "role": "working_master",
+      "usage": "Aktueller Arbeitsmaster v20: zwei körperfarbene Mochi-Puschel hinter Schleife entfernt",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "source": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v19.pdf",
+        "note": "Nur lokales PDF-Overlay auf Seite 4. Render außerhalb kleiner Korrekturfläche pixelidentisch; 25 andere Seiten unverändert."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/review-february-mochi/mochi-correction-detail.png": {
+      "path": "output/review-february-mochi/mochi-correction-detail.png",
+      "sha256": "6e8a2176686f855f14faf395ae8f3c894072bdaee01a77813ff7d71219a3eafc",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        570,
+        462
+      ],
+      "color_mode": "RGB"
+    },
+    "production/month-images/drafts/february-v02/02-mochi-no-pompoms-v01.png": {
+      "path": "production/month-images/drafts/february-v02/02-mochi-no-pompoms-v01.png",
+      "sha256": "c8e59c57fd3ead73e47f662ac388ed43af2c8b12c824366ebc086626fec9e6b5",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB",
+      "approval": "05.10.2026: Nutzer bestätigt die lokal eingeblendete Mochi-Korrektur mit „prima sieht gut aus“. Die Freigabe betrifft den lokalen Patch, nicht das gesamte generierte Bild."
+    },
+    "production/month-images/drafts/february-v02/local-patch-manifest.json": {
+      "path": "production/month-images/drafts/february-v02/local-patch-manifest.json",
+      "sha256": "bb37d0ab3e8e771365fea64a22c713b5061dd8562e2e6d22af2bbb0f36dd7f96",
+      "role": "source",
+      "usage": "Bestehender Kalender-Arbeitsstand",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerfreigabe und technische Gelato-Druckprüfung nicht belegt"
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      }
     }
   },
   "selection": {
-    "current_working_master": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v07.pdf",
+    "current_working_master": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v20.pdf",
     "current_lower_master": "production/puzzles/v07/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v07.pdf",
     "source_lower_master": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
     "recovered_source_master": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
@@ -3984,15 +5041,22 @@
     "february_correction_source": "production/month-images/sources-recovered/02-from-recovered-master.png",
     "february_correction": "production/month-images/drafts/february-v01/02-winter-clock-v03.png",
     "april_correction": "production/month-images/drafts/april-v01/04-no-pompon-tail-v01.png",
-    "june_correction": "production/month-images/drafts/june-v01/06-no-pompon-tail-v01.png"
+    "june_correction": "production/month-images/drafts/june-v01/06-no-pompon-tail-v01.png",
+    "may_puzzle": "production/puzzles/may-v10/05-puzzle.svg",
+    "january_back_sample": "output/pdf/giggle-dumplings-january-ORIGINAL-v01.pdf",
+    "february_back_sample": "output/pdf/giggle-dumplings-february-back-MUSTER-v02.pdf",
+    "january_original": "back-images-with-puzzles-v1/01.png",
+    "february_local_patch": "production/month-images/drafts/february-v02/02-mochi-no-pompoms-v01.png",
+    "february_local_patch_spec": "production/month-images/drafts/february-v02/local-patch-manifest.json"
   },
   "issues": {
-    "february": "Korrekturentwurf mit Winterkleidung und visuell auf 20:51 korrigierter Uhr in v07; Nutzerreview offen.",
+    "february": "Mochis zwei Puschel hinter der Schleife lokal entfernt; Nutzer bestätigt diese Korrektur am 05.10.2026. Keine Freigabe weiterer Bilddetails oder des Gesamtprodukts.",
     "april": "Sunnys falscher Pompon-Schwanz im Korrekturentwurf entfernt; Nutzerreview offen.",
     "june": "Mochis falscher Pompon-Schwanz im Korrekturentwurf entfernt; Nutzerreview offen.",
     "december": "Dezemberquelle identifiziert und laut Chatnotiz freigegeben: update_26-10-02/calender-image-12.png; keine Bearbeitung.",
     "gelato": "Konkrete Produktvorlage, Bindung, Beschnitt, sichere Ränder, Auflösung und abschließende Druckprüfung offen.",
-    "imprint": "Impressum offen.",
-    "master": "V07 führt nachgereichten Master, 3 Bildkorrekturentwürfe und 12 deterministische Rätsel zusammen; Gestaltungsfreigabe, Impressum und Gelato-Prüfung offen."
+    "imprint": "Englisches Halloween-Impressum mit angepasstem Produkttitel ohne Gelato-Angaben in v08 eingebaut; anwendbare Pflichtangaben vor Veröffentlichung prüfen.",
+    "master": "V20: Januar-Original erhalten; Mochi-Puschel im oberen Februarbild lokal entfernt. Originalrätselprüfungen und Druckprüfung offen.",
+    "lower_master": "V07 ist ältere Komponentenbasis. Aktuelle illustrierte Januar-Rückseite und Mai-Komponente im Gesamtmaster v18."
   }
 }

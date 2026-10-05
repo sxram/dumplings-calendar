@@ -1,0 +1,342 @@
+{
+  "date": "2026-10-04",
+  "base": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v15.pdf",
+  "full_master": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v18.pdf",
+  "sample": "output/pdf/giggle-dumplings-january-back-ILLUSTRIERT-v03.pdf",
+  "template": "winter-template-v02.png",
+  "template_sha256": "b08457f50fb2185fe4fd69c2a0098f46d0acc2ec8cdc333a3ab101b839e707e8",
+  "template_pixels": [
+    1492,
+    1054
+  ],
+  "native_ppi_at_A4": 127.6,
+  "image_generation": "2 built-in calls: scene and targeted terrain correction",
+  "calendar_placements": [
+    {
+      "day": 1,
+      "weekday": 4,
+      "row": 0
+    },
+    {
+      "day": 2,
+      "weekday": 5,
+      "row": 0
+    },
+    {
+      "day": 3,
+      "weekday": 6,
+      "row": 0
+    },
+    {
+      "day": 4,
+      "weekday": 0,
+      "row": 1
+    },
+    {
+      "day": 5,
+      "weekday": 1,
+      "row": 1
+    },
+    {
+      "day": 6,
+      "weekday": 2,
+      "row": 1
+    },
+    {
+      "day": 7,
+      "weekday": 3,
+      "row": 1
+    },
+    {
+      "day": 8,
+      "weekday": 4,
+      "row": 1
+    },
+    {
+      "day": 9,
+      "weekday": 5,
+      "row": 1
+    },
+    {
+      "day": 10,
+      "weekday": 6,
+      "row": 1
+    },
+    {
+      "day": 11,
+      "weekday": 0,
+      "row": 2
+    },
+    {
+      "day": 12,
+      "weekday": 1,
+      "row": 2
+    },
+    {
+      "day": 13,
+      "weekday": 2,
+      "row": 2
+    },
+    {
+      "day": 14,
+      "weekday": 3,
+      "row": 2
+    },
+    {
+      "day": 15,
+      "weekday": 4,
+      "row": 2
+    },
+    {
+      "day": 16,
+      "weekday": 5,
+      "row": 2
+    },
+    {
+      "day": 17,
+      "weekday": 6,
+      "row": 2
+    },
+    {
+      "day": 18,
+      "weekday": 0,
+      "row": 3
+    },
+    {
+      "day": 19,
+      "weekday": 1,
+      "row": 3
+    },
+    {
+      "day": 20,
+      "weekday": 2,
+      "row": 3
+    },
+    {
+      "day": 21,
+      "weekday": 3,
+      "row": 3
+    },
+    {
+      "day": 22,
+      "weekday": 4,
+      "row": 3
+    },
+    {
+      "day": 23,
+      "weekday": 5,
+      "row": 3
+    },
+    {
+      "day": 24,
+      "weekday": 6,
+      "row": 3
+    },
+    {
+      "day": 25,
+      "weekday": 0,
+      "row": 4
+    },
+    {
+      "day": 26,
+      "weekday": 1,
+      "row": 4
+    },
+    {
+      "day": 27,
+      "weekday": 2,
+      "row": 4
+    },
+    {
+      "day": 28,
+      "weekday": 3,
+      "row": 4
+    },
+    {
+      "day": 29,
+      "weekday": 4,
+      "row": 4
+    },
+    {
+      "day": 30,
+      "weekday": 5,
+      "row": 4
+    },
+    {
+      "day": 31,
+      "weekday": 6,
+      "row": 4
+    }
+  ],
+  "tracker": "1 filled of 12",
+  "puzzle": "production/month-backs/january-rich-v01/footprints-drawing-v02.json",
+  "paths_px": [
+    [
+      [
+        985,
+        575
+      ],
+      [
+        1010,
+        608
+      ],
+      [
+        1060,
+        634
+      ],
+      [
+        1120,
+        635
+      ],
+      [
+        1190,
+        624
+      ],
+      [
+        1240,
+        635
+      ],
+      [
+        1310,
+        655
+      ],
+      [
+        1360,
+        665
+      ],
+      [
+        1380,
+        655
+      ]
+    ],
+    [
+      [
+        995,
+        645
+      ],
+      [
+        1030,
+        620
+      ],
+      [
+        1090,
+        643
+      ],
+      [
+        1150,
+        695
+      ],
+      [
+        1200,
+        732
+      ],
+      [
+        1260,
+        772
+      ],
+      [
+        1320,
+        770
+      ],
+      [
+        1368,
+        745
+      ],
+      [
+        1400,
+        745
+      ]
+    ],
+    [
+      [
+        995,
+        735
+      ],
+      [
+        1030,
+        723
+      ],
+      [
+        1080,
+        714
+      ],
+      [
+        1120,
+        700
+      ],
+      [
+        1150,
+        669
+      ],
+      [
+        1190,
+        647
+      ],
+      [
+        1240,
+        644
+      ],
+      [
+        1290,
+        615
+      ],
+      [
+        1330,
+        595
+      ],
+      [
+        1380,
+        560
+      ],
+      [
+        1400,
+        555
+      ]
+    ],
+    [
+      [
+        1020,
+        805
+      ],
+      [
+        1070,
+        842
+      ],
+      [
+        1130,
+        836
+      ],
+      [
+        1180,
+        821
+      ],
+      [
+        1240,
+        826
+      ],
+      [
+        1290,
+        817
+      ],
+      [
+        1340,
+        833
+      ],
+      [
+        1365,
+        853
+      ]
+    ]
+  ],
+  "construction": "4 separate smooth trails with distinct footprint shapes; C ends at illustrated star; no geometric endpoint icons",
+  "solution": "C",
+  "retained_content": "story, concrete Bao jobs, challenge, fact, puzzle title and instruction verified",
+  "other_25_content_streams": "identical",
+  "visual_review": "2026-10-04: Final v03 rendered and inspected; scene with illustrated endpoints, four distinctive footprints and bold month/year; no clipped text. User style review pending.",
+  "user_review": "pending",
+  "print_release": false,
+  "calendar_rendered_positions": "31 verified",
+  "tracker_rendered": "first filled of 12 verified",
+  "text_check": "deduplicated actual PDF glyphs checked by content region; all retained strings present",
+  "print_note": "Decorative raster approx. 127 ppi at A4; native text and footprints are vectors. Gelato product checks pending."
+}

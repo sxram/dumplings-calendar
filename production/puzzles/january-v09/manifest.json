@@ -1,0 +1,124 @@
+{
+  "base": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v08.pdf",
+  "output": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v09.pdf",
+  "answer": "Trail C",
+  "paths": [
+    [
+      [
+        34,
+        109
+      ],
+      [
+        72,
+        91
+      ],
+      [
+        117,
+        152
+      ],
+      [
+        156,
+        179
+      ],
+      [
+        211,
+        167
+      ],
+      [
+        253,
+        144
+      ]
+    ],
+    [
+      [
+        34,
+        155
+      ],
+      [
+        77,
+        178
+      ],
+      [
+        115,
+        111
+      ],
+      [
+        166,
+        97
+      ],
+      [
+        205,
+        146
+      ],
+      [
+        253,
+        201
+      ]
+    ],
+    [
+      [
+        34,
+        201
+      ],
+      [
+        75,
+        222
+      ],
+      [
+        124,
+        216
+      ],
+      [
+        168,
+        151
+      ],
+      [
+        206,
+        111
+      ],
+      [
+        253,
+        90
+      ]
+    ],
+    [
+      [
+        34,
+        246
+      ],
+      [
+        78,
+        242
+      ],
+      [
+        126,
+        166
+      ],
+      [
+        173,
+        224
+      ],
+      [
+        217,
+        248
+      ],
+      [
+        253,
+        255
+      ]
+    ]
+  ],
+  "trail_shapes": [
+    "bird toes",
+    "paired rabbit marks",
+    "boots",
+    "paw and toes"
+  ],
+  "crossings": "different shapes and colors; no connecting lines or branches",
+  "changed_pages": [
+    3
+  ],
+  "other_25_content_streams": "identical",
+  "visual_review": "2026-10-04: Final January page rendered at 1600 px and inspected. Four distinguishable footprint shapes, four separate endpoints; C reaches star. No text clipping or overlap.",
+  "print_release": false
+}

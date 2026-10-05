@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-04",
+  "base": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v10.pdf",
+  "full_master": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v13.pdf",
+  "sample": "output/pdf/giggle-dumplings-january-back-MUSTER-v03.pdf",
+  "template": "winter-template.png",
+  "template_sha256": "508a0544554deffdab385a08c12d59929b068754158f1abcbb728ed100ac7b19",
+  "template_pixels": [
+    1491,
+    1055
+  ],
+  "native_ppi_at_A4": 127.5,
+  "image_generation": "one built-in call; prompt.txt",
+  "calendar_placements": [
+    {
+      "day": 1,
+      "weekday": 4,
+      "row": 0
+    },
+    {
+      "day": 2,
+      "weekday": 5,
+      "row": 0
+    },
+    {
+      "day": 3,
+      "weekday": 6,
+      "row": 0
+    },
+    {
+      "day": 4,
+      "weekday": 0,
+      "row": 1
+    },
+    {
+      "day": 5,
+      "weekday": 1,
+      "row": 1
+    },
+    {
+      "day": 6,
+      "weekday": 2,
+      "row": 1
+    },
+    {
+      "day": 7,
+      "weekday": 3,
+      "row": 1
+    },
+    {
+      "day": 8,
+      "weekday": 4,
+      "row": 1
+    },
+    {
+      "day": 9,
+      "weekday": 5,
+      "row": 1
+    },
+    {
+      "day": 10,
+      "weekday": 6,
+      "row": 1
+    },
+    {
+      "day": 11,
+      "weekday": 0,
+      "row": 2
+    },
+    {
+      "day": 12,
+      "weekday": 1,
+      "row": 2
+    },
+    {
+      "day": 13,
+      "weekday": 2,
+      "row": 2
+    },
+    {
+      "day": 14,
+      "weekday": 3,
+      "row": 2
+    },
+    {
+      "day": 15,
+      "weekday": 4,
+      "row": 2
+    },
+    {
+      "day": 16,
+      "weekday": 5,
+      "row": 2
+    },
+    {
+      "day": 17,
+      "weekday": 6,
+      "row": 2
+    },
+    {
+      "day": 18,
+      "weekday": 0,
+      "row": 3
+    },
+    {
+      "day": 19,
+      "weekday": 1,
+      "row": 3
+    },
+    {
+      "day": 20,
+      "weekday": 2,
+      "row": 3
+    },
+    {
+      "day": 21,
+      "weekday": 3,
+      "row": 3
+    },
+    {
+      "day": 22,
+      "weekday": 4,
+      "row": 3
+    },
+    {
+      "day": 23,
+      "weekday": 5,
+      "row": 3
+    },
+    {
+      "day": 24,
+      "weekday": 6,
+      "row": 3
+    },
+    {
+      "day": 25,
+      "weekday": 0,
+      "row": 4
+    },
+    {
+      "day": 26,
+      "weekday": 1,
+      "row": 4
+    },
+    {
+      "day": 27,
+      "weekday": 2,
+      "row": 4
+    },
+    {
+      "day": 28,
+      "weekday": 3,
+      "row": 4
+    },
+    {
+      "day": 29,
+      "weekday": 4,
+      "row": 4
+    },
+    {
+      "day": 30,
+      "weekday": 5,
+      "row": 4
+    },
+    {
+      "day": 31,
+      "weekday": 6,
+      "row": 4
+    }
+  ],
+  "tracker": "1 filled of 12",
+  "puzzle": "production/puzzles/january-v09/01-drawing.json",
+  "solution": "C",
+  "retained_content": "story, concrete Bao jobs, challenge, fact, puzzle title and instruction verified",
+  "other_25_content_streams": "identical",
+  "visual_review": "2026-10-04: Three layout passes rendered and inspected, using one generated template. Final v03 has clear trail labels/endpoints, complete text and no overlap with winter decoration.",
+  "user_review": "pending",
+  "print_release": false,
+  "calendar_rendered_positions": "31 actual PDF word placements verified",
+  "tracker_rendered": "12 actual PDF stars; first gold, remaining eleven ivory",
+  "print_note": "Raster decoration approximately 127 ppi at A4; proof/sample only. Native text, grid and puzzle vectors stay sharp. Product-specific print resolution and safe zones pending."
+}

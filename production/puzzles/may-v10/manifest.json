@@ -1,0 +1,56 @@
+{
+  "base": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v09.pdf",
+  "output": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v10.pdf",
+  "answer": {
+    "count": 8,
+    "positions": [
+      [
+        38,
+        114,
+        0.7
+      ],
+      [
+        100,
+        159,
+        0.72
+      ],
+      [
+        196,
+        104,
+        0.72
+      ],
+      [
+        279,
+        108,
+        0.7
+      ],
+      [
+        235,
+        191,
+        0.72
+      ],
+      [
+        83,
+        235,
+        0.72
+      ],
+      [
+        119,
+        263,
+        0.72
+      ],
+      [
+        288,
+        246,
+        0.7
+      ]
+    ]
+  },
+  "construction": "8 complete butterflies, added after all garden scenery; no additional butterfly motifs",
+  "changed_pages": [
+    11
+  ],
+  "other_25_content_streams": "identical",
+  "visual_review": "2026-10-04: Final May page rendered and inspected, complete butterflies and no clipping. User review pending.",
+  "print_release": false
+}
