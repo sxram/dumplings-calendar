@@ -1,3 +1,17 @@
+# Aktueller Stand: Arbeitsmaster v23 - 06.10.2026
+
+Nutzer: Februar zu einfach; Oktober zunächst beanstandet, danach wegen Irritation über Paare innerhalb derselben Zeile geklärt und unverändert akzeptiert. Nur Februar-Rätselbereich geändert: vier getrennte native Wege mit fünfzehn Zweiwege-Kreuzungen; keine Verzweigungen/Dreifachkreuzungen. Zuordnung A3/B1/C4/D2 erhalten. Finale Februar-Seite gerendert und visuell geprüft, 25 übrige Masterstreams und vier übrige Review-Seiten unverändert. Keine Bildgenerierung. Manifest/SVG/Review in `month-backs/february-paths-v23/`. Nutzerreview des Februars offen; Oktober gestalterisch bestätigt, keine Druckfreigabe.
+
+# Aktueller Stand: Arbeitsmaster v22 - 06.10.2026
+
+Februar, Mai, September, Oktober und November in einem Durchgang auf Basis der schönen Originalseiten umgesetzt. Originalschriften, vollständige Originaltexte und konkrete Bao-Aufgaben erhalten. Nur Rätsel-/Aufgabenbereiche, fehlerhafte Tracker und Mai-Kalenderzahl lokal verändert. Keine Bildgenerierung. Alle fünf finalen PDF-Seiten gerendert und visuell geprüft; 150 Kalenderpositionen gegen 2027 geprüft. 21 übrige Contentstreams und eingebettete Bilddaten gegenüber v20 unverändert, einschließlich Mochis bestätigtem Februar-Patch. Januar bleibt Original.
+
+Review und Lösungen: `month-backs/original-batch-v22/REVIEW.md`; alle Quellclips, Kurven, Mengen und Zuordnungen im Manifest. v21 war ein verworfener interner Export mit unpassenden Textabdeckungen; nicht aktuelle Auswahl. V22 erhält die ausführlichen Originaltexte, der genaue Wortlautabgleich mit der kürzeren nachgereichten Fassung bleibt offen. Nutzerreview, sieben weitere Monate und technische Gelato-Prüfung offen. Rasterauflösung bleibt Arbeitsqualität.
+
+# Fortsetzung - 06.10.2026
+
+Begrenzter Originalabgleich erstellt: `ORIGINAL-BACKS-REVIEW-2026-10-06.md`. Konkreter Mai-Originalfehler B statt 3 visuell bestätigt; mehrere alte Rätsel weichen vom festgelegten Plan ab. TODO-Liste korrigiert: keine Seriengenerierung, keine vermeintlich belegte Januar-Lösung C. Master bleibt v20; bestehende PDFs und Quellen unverändert.
+
 ## Nutzerrückmeldung — 05.10.2026
 
 Mochis lokale Februar-Korrektur (zwei Puschel hinter der Schleife entfernt) gestalterisch bestätigt: „prima sieht gut aus“. Aktueller Arbeitsmaster bleibt v20.
@@ -98,3 +112,23 @@ Quelle und Seitenzuordnung stehen im gleichnamigen Manifest. Die eingebauten Mon
 ## Nachgereichter Chatstand
 
 Am 02.10.2026 sind ein weiterer historischer Master, die freigegebene Dezemberillustration und präzisierte Korrekturvorgaben eingetroffen. V04 ist noch nicht damit abgeglichen. Die bisher als offen geführte Dezemberzuordnung ist gelöst. Details und nächste Quellenbasis: `RECOVERED-UPDATE-2026-10-02.md`. Die älteren Offenpunkte oben dokumentieren den Stand vor diesem Fund.
+
+## 06.10.2026 — v24, sechs weitere Rückseiten
+
+März, April, Juni, Juli, August, Dezember lokal auf Originalgestaltung korrigiert. Sechsseitenreview und 26-seitiger Arbeitsmaster v24 gespeichert. Sechs Seiten visuell geprüft; 20 übrige Seiten unverändert anhand dekodierter Inhalte geprüft. Februar und Oktober bestätigt; sechs neue Seiten Nutzerreview offen. Keine Bildgenerierung. Details und Lösungen: month-backs/remaining-v24/REVIEW.md. Januar-Wegführung, Wortlautabgleich und Druckprüfung weiterhin offen.
+
+## 06.10.2026 — Nutzerkorrekturen v25
+
+März-Reihe 2 mit drei Samenarten und Viererperiode. April ähnliche Farben, Paar C/J versetzt. August einheitlich illustrierte Tiere/Behausungen und Aufgabenfläche vor rechter Laterne begrenzt. Zwei Built-in-Bildbearbeitungen, ausschließlich Motivausschnitte verwendet. Drei neue Seiten geprüft; 23 übrige unverändert gegenüber v24. Lokale Quellen und Prompts: month-backs/refinements-v25/.
+
+## 06.10.2026 — v26: Ei-Ausschnitte und August-Mischung
+
+April entlang vollständiger originaler Eikonturen als native PDF-Clips eingesetzt; Spitzen vollständig und kein rechteckiger Hintergrund. August Baum-/Boden-Behausungen über Kreuz angeordnet, neue Zuordnung 2/1/4/3. Zwei geänderte Seiten visuell geprüft; 24 andere Seiten unverändert anhand dekodierter Inhaltsströme und XObjects geprüft. Arbeitsmaster und Zweitseitenreview v26 gespeichert. Keine neue Bildgenerierung. Nutzerreview offen.
+
+## 06.10.2026 — v27: Juni/Juli und Dezemberreview
+
+Juni vier fertig illustrierte Figuren ohne Szenenreste, klare türkise Nibbles-Brille und sichtbar gefiederte Ente; ein Built-in-Bildaufruf, nur Figurenausschnitte verwendet. Juli Referenzumriss verstärkt, gemeinsame Kontur mit C erhalten. Dezember unverändert, zwölf Zacken und exaktes Teil C geprüft. Review enthält Juni/Juli/Dezember. 24 unveränderte Masterseiten dekodiert geprüft. April und August v26 vom Nutzer bestätigt. Januar-Wegführung und Name bleiben offen.
+
+## 06.10.2026 — v28: glatte Juni-Figuren
+
+Nutzerbemängelte Fellwirkung lokal an vier kleinen Porträts entfernt. Ruhige glatte Oberflächen und breite Farbübergänge, keine Haarstriche. Identitäten, Farben, Hinweismerkmale und restliche Seite erhalten. Ein Built-in-Bildaufruf, nur Porträtclips; Seite gerendert und geprüft. 25 weitere Masterseiten unverändert verifiziert. Nutzerreview offen.

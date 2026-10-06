@@ -1,0 +1,794 @@
+{
+  "base": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v24.pdf",
+  "months": [
+    {
+      "month": 3,
+      "tracker": {
+        "filled": 3,
+        "empty": 9,
+        "total": 12,
+        "region": [
+          884,
+          175,
+          488,
+          41
+        ]
+      },
+      "puzzle": {
+        "answer": {
+          "row1": "C - acorn",
+          "row2": "A - acorn"
+        },
+        "sequences": [
+          [
+            "sunflower",
+            "acorn",
+            "pumpkin",
+            "sunflower",
+            "acorn",
+            "pumpkin",
+            "sunflower"
+          ],
+          [
+            "sunflower",
+            "sunflower",
+            "acorn",
+            "pumpkin",
+            "sunflower",
+            "sunflower",
+            "acorn",
+            "pumpkin",
+            "sunflower",
+            "sunflower"
+          ]
+        ],
+        "choices": [
+          [
+            "sunflower",
+            "pumpkin",
+            "acorn",
+            "sprout"
+          ],
+          [
+            "acorn",
+            "sunflower",
+            "pumpkin",
+            "sprout"
+          ]
+        ],
+        "periods": [
+          3,
+          4
+        ],
+        "method": "two controlled vector patterns and four options per pattern"
+      },
+      "source": "back-images-with-puzzles-v1/03.png",
+      "visual_review": "checked 2026-10-06; user review pending",
+      "user_review": "pending"
+    },
+    {
+      "month": 4,
+      "tracker": {
+        "filled": 4,
+        "empty": 8,
+        "total": 12,
+        "region": [
+          837,
+          166,
+          385,
+          42
+        ]
+      },
+      "puzzle": {
+        "answer": [
+          "C",
+          "J"
+        ],
+        "motifs": [
+          "pink",
+          "blue",
+          "gold",
+          "green",
+          "zigzag",
+          "hearts",
+          "red",
+          "stars",
+          "confetti",
+          "gold"
+        ],
+        "source_crops": {
+          "pink": [
+            817,
+            559,
+            917,
+            680
+          ],
+          "blue": [
+            923,
+            559,
+            1023,
+            680
+          ],
+          "gold": [
+            1030,
+            559,
+            1130,
+            680
+          ],
+          "green": [
+            1138,
+            559,
+            1238,
+            680
+          ],
+          "zigzag": [
+            1244,
+            559,
+            1344,
+            680
+          ],
+          "hearts": [
+            1351,
+            559,
+            1451,
+            680
+          ],
+          "red": [
+            817,
+            730,
+            917,
+            851
+          ],
+          "stars": [
+            923,
+            730,
+            1023,
+            851
+          ],
+          "confetti": [
+            1138,
+            730,
+            1238,
+            851
+          ]
+        },
+        "pair_source": "one gold/dots source crop duplicated; C/J at columns 3 and 5",
+        "palette": "similar lavender shells, white patterns",
+        "I_distinction": "two native small white stars added to source dotted egg; C/J remain exact duplicates"
+      },
+      "source": "back-images-with-puzzles-v1/04.png",
+      "visual_review": "checked 2026-10-06; user review pending",
+      "user_review": "pending"
+    },
+    {
+      "month": 8,
+      "tracker": {
+        "filled": 8,
+        "empty": 4,
+        "total": 12,
+        "region": [
+          888,
+          79,
+          528,
+          44
+        ]
+      },
+      "puzzle": {
+        "answer": {
+          "Owl": 3,
+          "Rabbit": 4,
+          "Squirrel": 1,
+          "Fox": 2
+        },
+        "homes": [
+          "nest",
+          "den",
+          "tree hollow",
+          "burrow"
+        ],
+        "calendar_positions": [
+          {
+            "day": 1,
+            "weekday": 6,
+            "row": 0,
+            "source": [
+              33.0,
+              340,
+              47.0,
+              359
+            ],
+            "target": [
+              636.0,
+              338.0,
+              14.0,
+              19
+            ]
+          },
+          {
+            "day": 2,
+            "weekday": 0,
+            "row": 1,
+            "source": [
+              133.5,
+              340,
+              147.5,
+              359
+            ],
+            "target": [
+              33.0,
+              384.6666666666667,
+              14.0,
+              19
+            ]
+          },
+          {
+            "day": 3,
+            "weekday": 1,
+            "row": 1,
+            "source": [
+              234.0,
+              340,
+              248.0,
+              359
+            ],
+            "target": [
+              133.5,
+              384.6666666666667,
+              14.0,
+              19
+            ]
+          },
+          {
+            "day": 4,
+            "weekday": 2,
+            "row": 1,
+            "source": [
+              334.5,
+              340,
+              348.5,
+              359
+            ],
+            "target": [
+              234.0,
+              384.6666666666667,
+              14.0,
+              19
+            ]
+          },
+          {
+            "day": 5,
+            "weekday": 3,
+            "row": 1,
+            "source": [
+              435.0,
+              340,
+              449.0,
+              359
+            ],
+            "target": [
+              334.5,
+              384.6666666666667,
+              14.0,
+              19
+            ]
+          },
+          {
+            "day": 6,
+            "weekday": 4,
+            "row": 1,
+            "source": [
+              535.5,
+              340,
+              549.5,
+              359
+            ],
+            "target": [
+              435.0,
+              384.6666666666667,
+              14.0,
+              19
+            ]
+          },
+          {
+            "day": 7,
+            "weekday": 5,
+            "row": 1,
+            "source": [
+              636.0,
+              340,
+              650.0,
+              359
+            ],
+            "target": [
+              535.5,
+              384.6666666666667,
+              14.0,
+              19
+            ]
+          },
+          {
+            "day": 8,
+            "weekday": 6,
+            "row": 1,
+            "source": [
+              33.0,
+              396,
+              47.0,
+              415
+            ],
+            "target": [
+              636.0,
+              384.6666666666667,
+              14.0,
+              19
+            ]
+          },
+          {
+            "day": 9,
+            "weekday": 0,
+            "row": 2,
+            "source": [
+              133.5,
+              396,
+              147.5,
+              415
+            ],
+            "target": [
+              33.0,
+              431.3333333333333,
+              14.0,
+              19
+            ]
+          },
+          {
+            "day": 10,
+            "weekday": 1,
+            "row": 2,
+            "source": [
+              234.0,
+              396,
+              258.0,
+              415
+            ],
+            "target": [
+              133.5,
+              431.3333333333333,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 11,
+            "weekday": 2,
+            "row": 2,
+            "source": [
+              334.5,
+              396,
+              358.5,
+              415
+            ],
+            "target": [
+              234.0,
+              431.3333333333333,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 12,
+            "weekday": 3,
+            "row": 2,
+            "source": [
+              435.0,
+              396,
+              459.0,
+              415
+            ],
+            "target": [
+              334.5,
+              431.3333333333333,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 13,
+            "weekday": 4,
+            "row": 2,
+            "source": [
+              535.5,
+              396,
+              559.5,
+              415
+            ],
+            "target": [
+              435.0,
+              431.3333333333333,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 14,
+            "weekday": 5,
+            "row": 2,
+            "source": [
+              636.0,
+              396,
+              660.0,
+              415
+            ],
+            "target": [
+              535.5,
+              431.3333333333333,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 15,
+            "weekday": 6,
+            "row": 2,
+            "source": [
+              33.0,
+              452,
+              57.0,
+              471
+            ],
+            "target": [
+              636.0,
+              431.3333333333333,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 16,
+            "weekday": 0,
+            "row": 3,
+            "source": [
+              133.5,
+              452,
+              157.5,
+              471
+            ],
+            "target": [
+              33.0,
+              478.0,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 17,
+            "weekday": 1,
+            "row": 3,
+            "source": [
+              234.0,
+              452,
+              258.0,
+              471
+            ],
+            "target": [
+              133.5,
+              478.0,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 18,
+            "weekday": 2,
+            "row": 3,
+            "source": [
+              334.5,
+              452,
+              358.5,
+              471
+            ],
+            "target": [
+              234.0,
+              478.0,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 19,
+            "weekday": 3,
+            "row": 3,
+            "source": [
+              435.0,
+              452,
+              459.0,
+              471
+            ],
+            "target": [
+              334.5,
+              478.0,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 20,
+            "weekday": 4,
+            "row": 3,
+            "source": [
+              535.5,
+              452,
+              559.5,
+              471
+            ],
+            "target": [
+              435.0,
+              478.0,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 21,
+            "weekday": 5,
+            "row": 3,
+            "source": [
+              636.0,
+              452,
+              660.0,
+              471
+            ],
+            "target": [
+              535.5,
+              478.0,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 22,
+            "weekday": 6,
+            "row": 3,
+            "source": [
+              33.0,
+              508,
+              57.0,
+              527
+            ],
+            "target": [
+              636.0,
+              478.0,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 23,
+            "weekday": 0,
+            "row": 4,
+            "source": [
+              133.5,
+              508,
+              157.5,
+              527
+            ],
+            "target": [
+              33.0,
+              524.6666666666666,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 24,
+            "weekday": 1,
+            "row": 4,
+            "source": [
+              234.0,
+              508,
+              258.0,
+              527
+            ],
+            "target": [
+              133.5,
+              524.6666666666666,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 25,
+            "weekday": 2,
+            "row": 4,
+            "source": [
+              334.5,
+              508,
+              358.5,
+              527
+            ],
+            "target": [
+              234.0,
+              524.6666666666666,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 26,
+            "weekday": 3,
+            "row": 4,
+            "source": [
+              435.0,
+              508,
+              459.0,
+              527
+            ],
+            "target": [
+              334.5,
+              524.6666666666666,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 27,
+            "weekday": 4,
+            "row": 4,
+            "source": [
+              535.5,
+              508,
+              559.5,
+              527
+            ],
+            "target": [
+              435.0,
+              524.6666666666666,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 28,
+            "weekday": 5,
+            "row": 4,
+            "source": [
+              636.0,
+              508,
+              660.0,
+              527
+            ],
+            "target": [
+              535.5,
+              524.6666666666666,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 29,
+            "weekday": 6,
+            "row": 4,
+            "source": [
+              33.0,
+              564,
+              57.0,
+              583
+            ],
+            "target": [
+              636.0,
+              524.6666666666666,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 30,
+            "weekday": 0,
+            "row": 5,
+            "source": [
+              133.5,
+              564,
+              157.5,
+              583
+            ],
+            "target": [
+              33.0,
+              571.3333333333333,
+              24.0,
+              19
+            ]
+          },
+          {
+            "day": 31,
+            "weekday": 1,
+            "row": 5,
+            "source": [
+              234.0,
+              564,
+              258.0,
+              583
+            ],
+            "target": [
+              133.5,
+              571.3333333333333,
+              24.0,
+              19
+            ]
+          }
+        ],
+        "cards": [
+          [
+            775,
+            715,
+            931,
+            820
+          ],
+          [
+            941,
+            715,
+            1101,
+            820
+          ],
+          [
+            1110,
+            715,
+            1281,
+            820
+          ],
+          [
+            1291,
+            715,
+            1455,
+            820
+          ],
+          [
+            775,
+            832,
+            931,
+            937
+          ],
+          [
+            941,
+            832,
+            1101,
+            937
+          ],
+          [
+            1110,
+            832,
+            1281,
+            937
+          ],
+          [
+            1291,
+            832,
+            1455,
+            937
+          ]
+        ],
+        "method": "eight illustrated source crops, native labels; no sketch replacements; task mask ends before lantern"
+      },
+      "source": "back-images-with-puzzles-v1/08.png",
+      "visual_review": "checked 2026-10-06; user review pending",
+      "user_review": "pending"
+    }
+  ],
+  "image_generation_calls": 2,
+  "image_use": "only April egg crops and eight August card crops; full generated pages never selected",
+  "user_review": "pending",
+  "print_status": "not_released",
+  "master": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v25.pdf",
+  "review": "output/pdf/giggle-dumplings-three-backs-REVIEW-v25.pdf",
+  "visual_review": "All three rendered pages inspected; April native pattern additions additionally inspected. Native puzzle changes remain user-review pending.",
+  "unchanged_page_count": 23,
+  "unchanged_verification": "Decoded content streams and XObject payloads equal to v25 on all 23 retained pages.",
+  "calendar_review": "Calendar dates and trackers retained from v24; August correct six-week grid preserved.",
+  "sources_sha256": {
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v24.pdf": "084b46c2cbab55c563faa6b686e881126d529f7edc83f6e4e359b8081b6041fb",
+    "back-images-with-puzzles-v1/03.png": "43dc0f78ab78dc19c0ced932e1496335fd6eb9e94842372ed4db9da4d195b510",
+    "back-images-with-puzzles-v1/04.png": "da40165949bf98e18a0752eafdef9718f9fab3ac12618512ddd5c2b344aa889f",
+    "back-images-with-puzzles-v1/08.png": "c5049d608c4a2090a7398a964946d169a8b0ecf70628a0b68fb6a4e9196b019d",
+    "production/month-backs/refinements-v25/april-recolored-source.png": "4d1b8f6ab0d71c2df71296e060dff4dce5ae8b594726d1bcb68137d03e560c21",
+    "production/month-backs/refinements-v25/august-illustrated-source.png": "442dd3c53a43bb0d44f76ea4f938c84a62d3e9791e1cf80b19e7577980b3ab9b"
+  },
+  "plan_override": "2026-10-06 explicit user refinement: March row 2 has three seed types, AABC period; April pair moved from C/H to C/J, similar lavender colors."
+}

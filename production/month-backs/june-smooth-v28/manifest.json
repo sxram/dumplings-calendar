@@ -1,0 +1,64 @@
+{
+  "base": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v27.pdf",
+  "months": [
+    {
+      "month": 6,
+      "puzzle": {
+        "answer": "Nibbles",
+        "suspects": [
+          "Rabbit",
+          "Squirrel",
+          "Duck",
+          "Nibbles"
+        ],
+        "clues": [
+          "Clue 1: Small footprints were found beside the basket.",
+          "Clue 2: Whoever took the strawberries did not have wings.",
+          "Clue 3: A turquoise circle was found beside the empty basket."
+        ],
+        "wings": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "turquoise_glasses": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "method": "four smooth finished isolated portraits; native labels and identical three clues; glasses exclusive to Nibbles"
+      },
+      "tracker": {
+        "filled": 6,
+        "empty": 6,
+        "total": 12,
+        "region": [
+          839,
+          75,
+          582,
+          43
+        ]
+      },
+      "visual_review": "checked 2026-10-06; user review pending",
+      "user_review": "pending"
+    }
+  ],
+  "image_generation_calls": 1,
+  "image_use": "four portrait crops only; broad smooth shading replaces fur-like surfaces; all other page contents retained",
+  "print_status": "not_released",
+  "master": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v28.pdf",
+  "review": "output/pdf/giggle-dumplings-june-smooth-REVIEW-v28.pdf",
+  "visual_review": "June page rendered and inspected; four smooth portraits checked; other pages unchanged.",
+  "unchanged_page_count": 25,
+  "unchanged_verification": "Decoded content streams and XObject payloads equal to v27 on all 25 retained pages, including accepted April and August.",
+  "sources_sha256": {
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v27.pdf": "16d7282eec15719cec9149e35d02b63856730f9e6f4c4d6affe605a09995a1c8",
+    "back-images-with-puzzles-v1/06.png": "40407eb51e67c24a1ba25408e5580e71f18db7e61156d860c36063f873e1c4ab",
+    "back-images-with-puzzles-v1/07.png": "9201d87a3a0884322abcd5ee6250900bd24ed7b564b87c097b620798c5bd0884",
+    "production/month-backs/june-smooth-v28/june-smooth-source.png": "750a1caec39efeb3922b65c227fb4aa41a5e7afafcfc8fbb3270558d20c4cd07",
+    "tools/build-remaining-backs-v24.py": "d31f92cbbd6f708ff00afcaa000df74423c3de363173743e9b20e4af4cf280b7",
+    "production/month-backs/remaining-v24/manifest.json": "a72caf695bbad0a43e12dc5424b882787dba239739c299c6c27c6d9568e90953"
+  }
+}

@@ -28,3 +28,34 @@ Stand: 02.10.2026. Quellen: archivierte Halloween-Notizen unter `references/`. E
 ## Nicht übernommen
 
 KDP-Beschnittwerte, Rückenbreite, Barcodefläche, Recto-Parität, Leerrückseiten für Ausschneideblätter, 30 Ausmalmotive, 128 Buchseiten, deutsches Erstformat und Monochromregeln gehören zum Quellprojekt. Hier gelten Kalenderkonzept und später die konkrete Gelato-Produktvorlage. Etsy-Angebot und Gelato-Druckdatei getrennt versionieren; Werbung muss mit dem tatsächlichen Produkt übereinstimmen.
+
+## Konkrete Kalendererfahrung - 06.10.2026
+
+Breite Textabdeckungen für die kurze nachgereichte Prosa erzeugten leere Flächen und sichtbare alte Textränder. Erster Export v21 verworfen; v22 erhält die vollständigen Originaltexte und Schrift. Bei weiteren Seiten ausschließlich belegte Textfehler begrenzt korrigieren. Abweichende Textfassungen erst redaktionell auflösen; keine komplette Textfläche pauschal ersetzen.
+
+## 06.10.2026 — Original-Rückseiten v24
+
+- August-Original begann fälschlich am Montag; August 2027 beginnt Sonntag und braucht sechs Kalenderwochen. Kalenderdaten müssen unabhängig vom schönen Original geprüft werden.
+- Juli hat vier Originaloptionen, nicht fünf; alte Audit-Zählungen anhand der Quelle berichtigen.
+- Lokale Rätselmasken müssen auch alte Textoberkanten und Motivspitzen vollständig einschließen. Sechs gezielte Renderprüfungen fanden diese Reste; nur betroffene Bereiche nachkorrigiert.
+- Exakte Paare und passende Ausschnitte aus gemeinsamer Quellgeometrie herstellen, abweichende Optionen ausdrücklich ändern. Native PDF-Vektoren und Manifest erhalten.
+- Gesperrte Dezemberquelle bleibt gesperrt. Ihre dekorative Umgebung wurde als Referenz verwendet, falsches Rätsel und Tracker vollständig ersetzt. Keine Quellfreigabe durch Ableitung.
+
+## 06.10.2026 — Nutzerkorrekturen v25
+
+- Paare nicht in derselben Spalte platzieren, wenn die Position das Finden vereinfacht; ähnlich gefärbte Motive erzwingen Mustervergleich. Paarquelle einmal duplizieren, Lösungsliste anpassen.
+- Illustrierte Karten nicht mit schematischen Ersatzmotiven mischen. Neue Illustration nur für angeforderte fehlende Komponenten verwenden.
+- Aufgabenmasken vor der rechten Dekoration begrenzen; im August blieb so die originale Laterne sichtbar.
+- Drei Samenarten mit AABC-Periode verlangen mehr Aufmerksamkeit als zwei Pflanzenmotive.
+
+## 06.10.2026 — v26
+
+Rechteckige Motiv-Ausschnitte können Hintergrundreste und abgeschnittene Motivspitzen zeigen. Bei Eiern vollständige Umrisse aus der vorhandenen Kontur analysieren und nur als native PDF-Clippfade anwenden; Quellraster erhalten. Identische Paare teilen Kontur, Quelle und Maßstab. Bei Tier-/Behausungsrätseln genügt eine Permutation ohne exakte Spaltenpaare nicht: auch Baum- und Boden-Habitattypen müssen gegeneinander versetzt sein, damit die Darstellung keine grobe Zuordnung suggeriert.
+
+## 06.10.2026 — v27
+
+Bei kleinen Figurenporträts auch die gerenderten Kartenausschnitte prüfen: von generierten Motivausschnittquellen können dünne Kartenränder mitgenommen werden. Die Juni-Clipgrenzen wurden nach Sichtprüfung vor diesen Rändern begrenzt. Schattenreferenzen brauchen eine klar erkennbare Außenkontur, die exakt aus derselben Geometrie wie die richtige Auswahl abgeleitet wird. Ein gemeinsamer Polygonpfad ersetzt keine Prüfung der tatsächlich sichtbaren Kontur.
+
+## 06.10.2026 — v28
+
+Figuren dürfen nicht durch Fell-/Plüschtexturen vom glatten Dumpling-Stil abweichen. Bei lokalen Porträtbearbeitungen ausdrücklich glatte Flächen und breite Farbübergänge verlangen; Merkmale für Rätsellösungen erhalten.

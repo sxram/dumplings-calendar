@@ -16,3 +16,7 @@ Auf Nutzerwunsch zur Originalseite `back-images-with-puzzles-v1/01.png` zurückg
 ## Begrenzter nächster Schritt
 
 Nur die Wegführung des Originalrätsels klären und belegte Fehler lokal korrigieren. Keine erneute Gesamtgestaltung und keine Variantenserie. Die bisherigen Januar-Neuentwürfe sind verworfen. Original und bisherige Ausgaben bleiben zur Nachvollziehbarkeit erhalten.
+
+## Erneute begrenzte Prüfung — 06.10.2026, v27
+
+Originalseite und vorhandener vergrößerter Rätselausschnitt gelesen; kein erneuter Export oder Bildaufruf. Es gibt verschieden gezeichnete blaue Abdrücke innerhalb verzweigter Schneekorridore. Die Illustration allein beweist weder vier getrennte Spuren noch eine einzige zweifelsfrei verfolgte Start-Ziel-Lösung. Nibbles/Bao-Widerspruch bestätigt. Kein geratenes Lösungslabel und keine ungeprüften Sperren gesetzt. Januar-Original bleibt unverändert, gezielte Weg-/Textkorrektur weiterhin erforderlich.

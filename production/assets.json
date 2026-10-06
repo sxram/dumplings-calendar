@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "project": "dumplings-calendar",
   "product": "Etsy / Gelato calendar 2027",
   "assets": {
@@ -5030,11 +5030,883 @@
         "project": "dumplings-calendar",
         "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
       }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v21.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v21.pdf",
+      "sha256": "5f0d6e7d53194bf7993f9b8ad7444b154766dec8f4566fdef8bb80f0e4c4cc07",
+      "role": "source",
+      "usage": "Verworfener interner Export mit störenden Textabdeckungen; nicht verwenden",
+      "design_status": "rejected",
+      "print_status": "not_released",
+      "issues": [
+        "Sichtprüfung verworfen; ersetzt durch v22.",
+        "Keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v22.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v22.pdf",
+      "sha256": "76ac1295856c76055e0de54756dbedecb2ad0a1766965911fb61f283807533a6",
+      "role": "output",
+      "usage": "Fünf lokal korrigierte Rückseiten auf Originalgestaltung: Februar, Mai, September, Oktober, November",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview offen.",
+        "Gelato-Druckprüfung und Auflösung offen.",
+        "Ausführliche Originaltexte erhalten; exakter Wortlautabgleich mit nachgereichter Fassung offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "2026-10-06; vorhandene Originalbilder, native PDF-Geometrie und begrenzte Quellclips; keine Bildgenerierung",
+        "builder": "tools/build-original-backs-batch-v22.py"
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-five-backs-REVIEW-v21.pdf": {
+      "path": "output/pdf/giggle-dumplings-five-backs-REVIEW-v21.pdf",
+      "sha256": "525421244db0e9524df2f68edd11ad8ac27c5450de083b67410044b4f36bf98b",
+      "role": "source",
+      "usage": "Verworfener interner Export mit störenden Textabdeckungen; nicht verwenden",
+      "design_status": "rejected",
+      "print_status": "not_released",
+      "issues": [
+        "Sichtprüfung verworfen; ersetzt durch v22.",
+        "Keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 5,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-five-backs-REVIEW-v22.pdf": {
+      "path": "output/pdf/giggle-dumplings-five-backs-REVIEW-v22.pdf",
+      "sha256": "3f01bb7e6ec7149c9e0d34c6ab824109e45e62b3a9a87824c91b3eaec84a07c5",
+      "role": "output",
+      "usage": "Fünf lokal korrigierte Rückseiten auf Originalgestaltung: Februar, Mai, September, Oktober, November",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview offen.",
+        "Gelato-Druckprüfung und Auflösung offen.",
+        "Ausführliche Originaltexte erhalten; exakter Wortlautabgleich mit nachgereichter Fassung offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "2026-10-06; vorhandene Originalbilder, native PDF-Geometrie und begrenzte Quellclips; keine Bildgenerierung",
+        "builder": "tools/build-original-backs-batch-v22.py"
+      },
+      "page_count": 5,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "production/month-backs/original-batch-v21/manifest.json": {
+      "path": "production/month-backs/original-batch-v21/manifest.json",
+      "sha256": "e008d562f4e712d5cc9fb69fff30f7d01e86d40cf89eb69833d98a7c6d681fd0",
+      "role": "source",
+      "usage": "Verworfener interner Export mit störenden Textabdeckungen; nicht verwenden",
+      "design_status": "rejected",
+      "print_status": "not_released",
+      "issues": [
+        "Sichtprüfung verworfen; ersetzt durch v22.",
+        "Keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen",
+        "checksum_update": {
+          "previous_sha256": "489c3197491fdb60057cdea4bba25ece1ee0e0a98c28a642a06cb4eb125063ea",
+          "reason": "Explicit metadata-only addition of completed visual review/rejection status on 2026-10-06; PDF and source image files unchanged."
+        }
+      }
+    },
+    "production/month-backs/original-batch-v22/manifest.json": {
+      "path": "production/month-backs/original-batch-v22/manifest.json",
+      "sha256": "3b5ba6b15bcd689b3d93090f082323f067802a38166b012e4814abc69d51ec2f",
+      "role": "output",
+      "usage": "Fünf lokal korrigierte Rückseiten auf Originalgestaltung: Februar, Mai, September, Oktober, November",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview offen.",
+        "Gelato-Druckprüfung und Auflösung offen.",
+        "Ausführliche Originaltexte erhalten; exakter Wortlautabgleich mit nachgereichter Fassung offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "2026-10-06; vorhandene Originalbilder, native PDF-Geometrie und begrenzte Quellclips; keine Bildgenerierung",
+        "builder": "tools/build-original-backs-batch-v22.py"
+      }
+    },
+    "tools/build-original-backs-batch-v21.py": {
+      "path": "tools/build-original-backs-batch-v21.py",
+      "sha256": "3bb6cfe38208e8a13c4e15c356b31591759e815015f09167aee84d8290f088cb",
+      "role": "source",
+      "usage": "Reproduzierbarer lokaler PDF-Builder; Originalquellen und Eingriffsgeometrie",
+      "design_status": "superseded",
+      "print_status": "not_released",
+      "issues": [
+        "Nur versioniert mit registrierten Quellen ausführen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "2026-10-06 lokal erstellt"
+      }
+    },
+    "tools/build-original-backs-batch-v22.py": {
+      "path": "tools/build-original-backs-batch-v22.py",
+      "sha256": "5f36355f6217a91d79d3635950f181b80b9c0b08e6706e0ef3401e00336b5cb4",
+      "role": "source",
+      "usage": "Reproduzierbarer lokaler PDF-Builder; Originalquellen und Eingriffsgeometrie",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nur versioniert mit registrierten Quellen ausführen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "2026-10-06 lokal erstellt"
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v23.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v23.pdf",
+      "sha256": "490c486c3b33f1551f9ee44923f7a8f80f44d5db1845980405a9f5e245afeb20",
+      "role": "output",
+      "usage": "Februarwege mit 15 eindeutigen Kreuzungen; übrige Monatsseiten erhalten",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Februar-Schwierigkeitsgrad vom Nutzer am 06.10.2026 bestätigt.",
+        "Oktober unverändert und vom Nutzer gestalterisch akzeptiert.",
+        "Gelato-Druckprüfung offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Gezielte Februar-Rätselkorrektur am 06.10.2026; keine Bildgenerierung; Basis v22."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ],
+      "month_reviews": {
+        "10": "2026-10-06 accepted by user; unchanged v22 October",
+        "2": "2026-10-06 accepted by user"
+      }
+    },
+    "output/pdf/giggle-dumplings-five-backs-REVIEW-v23.pdf": {
+      "path": "output/pdf/giggle-dumplings-five-backs-REVIEW-v23.pdf",
+      "sha256": "3d5582613e141fc28c9c490431e0860436d0e2d7495e2c2dbc8af0a0a7442e77",
+      "role": "output",
+      "usage": "Februarwege mit 15 eindeutigen Kreuzungen; übrige Monatsseiten erhalten",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Februar-Schwierigkeitsgrad vom Nutzer am 06.10.2026 bestätigt.",
+        "Oktober unverändert und vom Nutzer gestalterisch akzeptiert.",
+        "Gelato-Druckprüfung offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Gezielte Februar-Rätselkorrektur am 06.10.2026; keine Bildgenerierung; Basis v22."
+      },
+      "page_count": 5,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ],
+      "month_reviews": {
+        "2": "2026-10-06 accepted by user"
+      }
+    },
+    "production/month-backs/february-paths-v23/manifest.json": {
+      "path": "production/month-backs/february-paths-v23/manifest.json",
+      "sha256": "ae86346c40e2a459b4aa90568423e7a7f4f9a12c09ea84044186108ebfa2e6b5",
+      "role": "source",
+      "usage": "Februarwege mit 15 eindeutigen Kreuzungen; übrige Monatsseiten erhalten",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Februar-Schwierigkeitsgrad vom Nutzer am 06.10.2026 bestätigt.",
+        "Oktober unverändert und vom Nutzer gestalterisch akzeptiert.",
+        "Gelato-Druckprüfung offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Gezielte Februar-Rätselkorrektur am 06.10.2026; keine Bildgenerierung; Basis v22."
+      },
+      "month_reviews": {
+        "2": "2026-10-06 accepted by user"
+      }
+    },
+    "production/month-backs/february-paths-v23/paths.svg": {
+      "path": "production/month-backs/february-paths-v23/paths.svg",
+      "sha256": "8a88d12c660e15991a5fba864b2a9ad86f5320fccfe0d91890a51454cc9023f5",
+      "role": "source",
+      "usage": "Februarwege mit 15 eindeutigen Kreuzungen; übrige Monatsseiten erhalten",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Februar-Schwierigkeitsgrad vom Nutzer am 06.10.2026 bestätigt.",
+        "Oktober unverändert und vom Nutzer gestalterisch akzeptiert.",
+        "Gelato-Druckprüfung offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Gezielte Februar-Rätselkorrektur am 06.10.2026; keine Bildgenerierung; Basis v22."
+      },
+      "month_reviews": {
+        "2": "2026-10-06 accepted by user"
+      }
+    },
+    "tools/correct-february-paths-v23.py": {
+      "path": "tools/correct-february-paths-v23.py",
+      "sha256": "35ecbac4a08c1fd487b453afbd99eeba0b94685fdb1d970a1bd5bad9bdbe2bcd",
+      "role": "source",
+      "usage": "Deterministischer Februar-Korrekturworkflow; 15 Kreuzungen, gemeinsame PDF/SVG-Geometrie",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Versionierter lokaler Builder; Prüfung des Schwierigkeitsgrads separat."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "2026-10-06 erstellt"
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v24.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v24.pdf",
+      "sha256": "084b46c2cbab55c563faa6b686e881126d529f7edc83f6e4e359b8081b6041fb",
+      "role": "output",
+      "usage": "Sechs lokal korrigierte Original-Rückseiten: März, April, Juni, Juli, August, Dezember; native Rätsel, Kalender und Tracker geprüft",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview der sechs neuen Seiten offen.",
+        "Januar-Original: eindeutige Wegführung und Nibbles/Bao-Widerspruch offen.",
+        "Originaltext-Abgleich und Gelato-Druckprüfung offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "06.10.2026: v23 plus sechs lokale Korrekturen; keine Bildgenerierung; Quellen und 20 übrige Seiten erhalten."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ],
+      "month_reviews": {
+        "2": "2026-10-06 accepted by user; retained v23",
+        "10": "2026-10-06 accepted by user; retained v22"
+      }
+    },
+    "output/pdf/giggle-dumplings-six-backs-REVIEW-v24.pdf": {
+      "path": "output/pdf/giggle-dumplings-six-backs-REVIEW-v24.pdf",
+      "sha256": "0ebbe4b096364f2701d6a8d49c74d4ad3528e5531bb74c4d8a33e9bb0fa3a8d1",
+      "role": "output",
+      "usage": "Sechs lokal korrigierte Original-Rückseiten: März, April, Juni, Juli, August, Dezember; native Rätsel, Kalender und Tracker geprüft",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview der sechs neuen Seiten offen.",
+        "Januar-Original: eindeutige Wegführung und Nibbles/Bao-Widerspruch offen.",
+        "Originaltext-Abgleich und Gelato-Druckprüfung offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "06.10.2026: v23 plus sechs lokale Korrekturen; keine Bildgenerierung; Quellen und 20 übrige Seiten erhalten."
+      },
+      "page_count": 6,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ],
+      "month_reviews": {
+        "2": "2026-10-06 accepted by user; retained v23",
+        "10": "2026-10-06 accepted by user; retained v22"
+      }
+    },
+    "production/month-backs/remaining-v24/manifest.json": {
+      "path": "production/month-backs/remaining-v24/manifest.json",
+      "sha256": "a72caf695bbad0a43e12dc5424b882787dba239739c299c6c27c6d9568e90953",
+      "role": "component",
+      "usage": "Sechs lokal korrigierte Original-Rückseiten: März, April, Juni, Juli, August, Dezember; native Rätsel, Kalender und Tracker geprüft",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview der sechs neuen Seiten offen.",
+        "Januar-Original: eindeutige Wegführung und Nibbles/Bao-Widerspruch offen.",
+        "Originaltext-Abgleich und Gelato-Druckprüfung offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "06.10.2026: v23 plus sechs lokale Korrekturen; keine Bildgenerierung; Quellen und 20 übrige Seiten erhalten."
+      },
+      "month_reviews": {
+        "2": "2026-10-06 accepted by user; retained v23",
+        "10": "2026-10-06 accepted by user; retained v22"
+      }
+    },
+    "tools/build-remaining-backs-v24.py": {
+      "path": "tools/build-remaining-backs-v24.py",
+      "sha256": "d31f92cbbd6f708ff00afcaa000df74423c3de363173743e9b20e4af4cf280b7",
+      "role": "component",
+      "usage": "Sechs lokal korrigierte Original-Rückseiten: März, April, Juni, Juli, August, Dezember; native Rätsel, Kalender und Tracker geprüft",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview der sechs neuen Seiten offen.",
+        "Januar-Original: eindeutige Wegführung und Nibbles/Bao-Widerspruch offen.",
+        "Originaltext-Abgleich und Gelato-Druckprüfung offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "06.10.2026: v23 plus sechs lokale Korrekturen; keine Bildgenerierung; Quellen und 20 übrige Seiten erhalten."
+      },
+      "month_reviews": {
+        "2": "2026-10-06 accepted by user; retained v23",
+        "10": "2026-10-06 accepted by user; retained v22"
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v25.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v25.pdf",
+      "sha256": "761a896e499264bc70da3511c56301e12a25c819da7ecd993affa84430ce9c24",
+      "role": "output",
+      "usage": "Nutzerkorrekturen März/April/August v25; ausschließlich gezielte Rätselkomponenten",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview der drei Korrekturen offen.",
+        "Keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Built-in image_gen: zwei gezielte Bildbearbeitungen; nur Motivausschnitte übernommen. März und Rätselanordnung deterministisch; Originale erhalten."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-three-backs-REVIEW-v25.pdf": {
+      "path": "output/pdf/giggle-dumplings-three-backs-REVIEW-v25.pdf",
+      "sha256": "ab75c95f69456630146a99c309b5193d81fe5d01cf34d1f81a3502ace3d257da",
+      "role": "output",
+      "usage": "Nutzerkorrekturen März/April/August v25; ausschließlich gezielte Rätselkomponenten",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview der drei Korrekturen offen.",
+        "Keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Built-in image_gen: zwei gezielte Bildbearbeitungen; nur Motivausschnitte übernommen. März und Rätselanordnung deterministisch; Originale erhalten."
+      },
+      "page_count": 3,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "production/month-backs/refinements-v25/april-recolored-source.png": {
+      "path": "production/month-backs/refinements-v25/april-recolored-source.png",
+      "sha256": "4d1b8f6ab0d71c2df71296e060dff4dce5ae8b594726d1bcb68137d03e560c21",
+      "role": "component",
+      "usage": "Nutzerkorrekturen März/April/August v25; ausschließlich gezielte Rätselkomponenten",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview der drei Korrekturen offen.",
+        "Keine Druckfreigabe.",
+        "Nur Motivausschnitte verwenden; vollständige generierte Monatsseite nicht als Master auswählen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Built-in image_gen: zwei gezielte Bildbearbeitungen; nur Motivausschnitte übernommen. März und Rätselanordnung deterministisch; Originale erhalten."
+      },
+      "pixels": [
+        1492,
+        1054
+      ],
+      "color_mode": "RGB"
+    },
+    "production/month-backs/refinements-v25/august-illustrated-source.png": {
+      "path": "production/month-backs/refinements-v25/august-illustrated-source.png",
+      "sha256": "442dd3c53a43bb0d44f76ea4f938c84a62d3e9791e1cf80b19e7577980b3ab9b",
+      "role": "component",
+      "usage": "Nutzerkorrekturen März/April/August v25; ausschließlich gezielte Rätselkomponenten",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview der drei Korrekturen offen.",
+        "Keine Druckfreigabe.",
+        "Nur Motivausschnitte verwenden; vollständige generierte Monatsseite nicht als Master auswählen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Built-in image_gen: zwei gezielte Bildbearbeitungen; nur Motivausschnitte übernommen. März und Rätselanordnung deterministisch; Originale erhalten."
+      },
+      "pixels": [
+        1491,
+        1055
+      ],
+      "color_mode": "RGB"
+    },
+    "production/month-backs/refinements-v25/manifest.json": {
+      "path": "production/month-backs/refinements-v25/manifest.json",
+      "sha256": "21c422ac77059e0933df2ae3c71db9ef8b02d59ed519cc067bef658ec58cac47",
+      "role": "component",
+      "usage": "Nutzerkorrekturen März/April/August v25; ausschließlich gezielte Rätselkomponenten",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview der drei Korrekturen offen.",
+        "Keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Built-in image_gen: zwei gezielte Bildbearbeitungen; nur Motivausschnitte übernommen. März und Rätselanordnung deterministisch; Originale erhalten."
+      }
+    },
+    "production/month-backs/refinements-v25/prompts.json": {
+      "path": "production/month-backs/refinements-v25/prompts.json",
+      "sha256": "fd14bdaebd4185ccb44bf56b97d52652d1c168e249aaebf83464a29a2a80ef1c",
+      "role": "component",
+      "usage": "Nutzerkorrekturen März/April/August v25; ausschließlich gezielte Rätselkomponenten",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview der drei Korrekturen offen.",
+        "Keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Built-in image_gen: zwei gezielte Bildbearbeitungen; nur Motivausschnitte übernommen. März und Rätselanordnung deterministisch; Originale erhalten."
+      }
+    },
+    "tools/refine-three-backs-v25.py": {
+      "path": "tools/refine-three-backs-v25.py",
+      "sha256": "28d5d40e9923d9aff794c482fd13b07763dbf40f2d080ef3e241cc3efea88556",
+      "role": "component",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "usage": "Nutzerkorrekturen März/April/August v25; ausschließlich gezielte Rätselkomponenten",
+      "issues": [
+        "Nutzerreview der drei Korrekturen offen.",
+        "Keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Built-in image_gen: zwei gezielte Bildbearbeitungen; nur Motivausschnitte übernommen. März und Rätselanordnung deterministisch; Originale erhalten."
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v26.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v26.pdf",
+      "sha256": "a8e73e1ffb5b0154bfc674e2a6c0f2ccf7c9ba701a1b2143f53645066d2a820d",
+      "role": "output",
+      "usage": "V26: vollständige April-Eikonturen, August-Behausungen neu gemischt; 24 übrige Seiten unverändert",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "April-/August-Korrekturen am 06.10.2026 vom Nutzer bestätigt.",
+        "Keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "06.10.2026: native PDF-Konturclips und neue Kartenanordnung auf vorhandenen v25-Quellen. Keine Bildgenerierung; Originale erhalten."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ],
+      "month_reviews": {
+        "4": "accepted 2026-10-06",
+        "8": "accepted 2026-10-06"
+      }
+    },
+    "output/pdf/giggle-dumplings-two-backs-REVIEW-v26.pdf": {
+      "path": "output/pdf/giggle-dumplings-two-backs-REVIEW-v26.pdf",
+      "sha256": "27400a57ba78c80027da9b60a1bce1111c961cd8295bd6ed1c7edf39170fe5e8",
+      "role": "output",
+      "usage": "V26: vollständige April-Eikonturen, August-Behausungen neu gemischt; 24 übrige Seiten unverändert",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "April-/August-Korrekturen am 06.10.2026 vom Nutzer bestätigt.",
+        "Keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "06.10.2026: native PDF-Konturclips und neue Kartenanordnung auf vorhandenen v25-Quellen. Keine Bildgenerierung; Originale erhalten."
+      },
+      "page_count": 2,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ],
+      "month_reviews": {
+        "4": "accepted 2026-10-06",
+        "8": "accepted 2026-10-06"
+      }
+    },
+    "production/month-backs/refinements-v26/manifest.json": {
+      "path": "production/month-backs/refinements-v26/manifest.json",
+      "sha256": "68972de631192254c4847012148d768a8304cb85901fba99b5ba62dc0687be3e",
+      "role": "component",
+      "usage": "V26: vollständige April-Eikonturen, August-Behausungen neu gemischt; 24 übrige Seiten unverändert",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "April-/August-Korrekturen am 06.10.2026 vom Nutzer bestätigt.",
+        "Keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "06.10.2026: native PDF-Konturclips und neue Kartenanordnung auf vorhandenen v25-Quellen. Keine Bildgenerierung; Originale erhalten."
+      },
+      "month_reviews": {
+        "4": "accepted 2026-10-06",
+        "8": "accepted 2026-10-06"
+      }
+    },
+    "tools/refine-two-backs-v26.py": {
+      "path": "tools/refine-two-backs-v26.py",
+      "sha256": "9179d8a42dcec2a9e66572e23cff04cdad462a9514fe37f366e5304945864174",
+      "role": "component",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "usage": "V26: vollständige April-Eikonturen, August-Behausungen neu gemischt; 24 übrige Seiten unverändert",
+      "issues": [
+        "Nutzerreview der zwei Korrekturen offen.",
+        "Keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "06.10.2026: native PDF-Konturclips und neue Kartenanordnung auf vorhandenen v25-Quellen. Keine Bildgenerierung; Originale erhalten."
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v27.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v27.pdf",
+      "sha256": "16d7282eec15719cec9149e35d02b63856730f9e6f4c4d6affe605a09995a1c8",
+      "role": "output",
+      "usage": "Juni-Porträts und Juli-Burgkontur verfeinert; Dezember unverändert geprüft",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview Juni/Juli/Dezember offen.",
+        "Januar-Original und März-Reihe-2-Review offen; keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "06.10.2026: ein Built-in-Bildaufruf für vier Juni-Porträtclips; native Hinweise und Geometrie; 24 Masterseiten unverändert."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ],
+      "month_reviews": {
+        "2": "accepted 2026-10-06",
+        "4": "accepted 2026-10-06 v26",
+        "8": "accepted 2026-10-06 v26",
+        "10": "accepted 2026-10-06",
+        "6": "pending v27",
+        "7": "pending v27",
+        "12": "pending unchanged v24"
+      }
+    },
+    "output/pdf/giggle-dumplings-june-july-december-REVIEW-v27.pdf": {
+      "path": "output/pdf/giggle-dumplings-june-july-december-REVIEW-v27.pdf",
+      "sha256": "0b8608aafeca47c889708799de8ef2b17b38fb96c9eb5f329fdd98d235b8caf8",
+      "role": "output",
+      "usage": "Juni-Porträts und Juli-Burgkontur verfeinert; Dezember unverändert geprüft",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview Juni/Juli/Dezember offen.",
+        "Januar-Original und März-Reihe-2-Review offen; keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "06.10.2026: ein Built-in-Bildaufruf für vier Juni-Porträtclips; native Hinweise und Geometrie; 24 Masterseiten unverändert."
+      },
+      "page_count": 3,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "production/month-backs/refinements-v27/june-portrait-source.png": {
+      "path": "production/month-backs/refinements-v27/june-portrait-source.png",
+      "sha256": "e33c183ae49dddc50eeaf462c27f4020797cb34684e71eefc55052be2ba38c24",
+      "role": "component",
+      "usage": "Juni-Porträts und Juli-Burgkontur verfeinert; Dezember unverändert geprüft",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview Juni/Juli/Dezember offen.",
+        "Januar-Original und März-Reihe-2-Review offen; keine Druckfreigabe.",
+        "Nur vier lokale Porträtclips verwenden; vollständige generierte Seite nicht übernehmen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "06.10.2026: ein Built-in-Bildaufruf für vier Juni-Porträtclips; native Hinweise und Geometrie; 24 Masterseiten unverändert."
+      },
+      "pixels": [
+        1491,
+        1055
+      ],
+      "color_mode": "RGB"
+    },
+    "production/month-backs/refinements-v27/manifest.json": {
+      "path": "production/month-backs/refinements-v27/manifest.json",
+      "sha256": "f56444b99bf13ea3efe78332370e3e3e936c0847c4d346345330f8646f2b1708",
+      "role": "component",
+      "usage": "Juni-Porträts und Juli-Burgkontur verfeinert; Dezember unverändert geprüft",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview Juni/Juli/Dezember offen.",
+        "Januar-Original und März-Reihe-2-Review offen; keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "06.10.2026: ein Built-in-Bildaufruf für vier Juni-Porträtclips; native Hinweise und Geometrie; 24 Masterseiten unverändert."
+      }
+    },
+    "production/month-backs/refinements-v27/prompt.txt": {
+      "path": "production/month-backs/refinements-v27/prompt.txt",
+      "sha256": "15f92b8fef6f1e1537ed66a0c148e15a6d95e77389ccbe9f6afa524bf0111eb7",
+      "role": "component",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "usage": "Juni-Porträts und Juli-Burgkontur verfeinert; Dezember unverändert geprüft",
+      "issues": [
+        "Nutzerreview Juni/Juli/Dezember offen.",
+        "Januar-Original und März-Reihe-2-Review offen; keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "06.10.2026: ein Built-in-Bildaufruf für vier Juni-Porträtclips; native Hinweise und Geometrie; 24 Masterseiten unverändert."
+      }
+    },
+    "tools/refine-summer-backs-v27.py": {
+      "path": "tools/refine-summer-backs-v27.py",
+      "sha256": "165ebfe12c24480de68fb5dcbf31173a325f8a7a36bbbc7084bd21aa9a54c078",
+      "role": "component",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "usage": "Juni-Porträts und Juli-Burgkontur verfeinert; Dezember unverändert geprüft",
+      "issues": [
+        "Nutzerreview Juni/Juli/Dezember offen.",
+        "Januar-Original und März-Reihe-2-Review offen; keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "06.10.2026: ein Built-in-Bildaufruf für vier Juni-Porträtclips; native Hinweise und Geometrie; 24 Masterseiten unverändert."
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v28.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v28.pdf",
+      "sha256": "9c0fe67f11b6d6fee9ec1d8a3e41b28195b954e474a5dfb5ce2bf2b93f9546cc",
+      "role": "output",
+      "usage": "V28: vier Juni-Rätselporträts glatt statt Fellwirkung; übrige Seite erhalten",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview Juni offen.",
+        "Keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Ein Built-in-Bildaufruf zur lokalen Oberflächenglättung; vier Porträtclips, restlicher Master erhalten."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-june-smooth-REVIEW-v28.pdf": {
+      "path": "output/pdf/giggle-dumplings-june-smooth-REVIEW-v28.pdf",
+      "sha256": "ce92850816afe8a69e79d3b375f33c44cbbf8bcadd172345471f60bf677274a4",
+      "role": "output",
+      "usage": "V28: vier Juni-Rätselporträts glatt statt Fellwirkung; übrige Seite erhalten",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview Juni offen.",
+        "Keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Ein Built-in-Bildaufruf zur lokalen Oberflächenglättung; vier Porträtclips, restlicher Master erhalten."
+      },
+      "page_count": 1,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "production/month-backs/june-smooth-v28/june-smooth-source.png": {
+      "path": "production/month-backs/june-smooth-v28/june-smooth-source.png",
+      "sha256": "750a1caec39efeb3922b65c227fb4aa41a5e7afafcfc8fbb3270558d20c4cd07",
+      "role": "component",
+      "usage": "V28: vier Juni-Rätselporträts glatt statt Fellwirkung; übrige Seite erhalten",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview Juni offen.",
+        "Keine Druckfreigabe.",
+        "Nur Porträtclips verwenden, vollständige generierte Monatsseite nicht übernehmen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Ein Built-in-Bildaufruf zur lokalen Oberflächenglättung; vier Porträtclips, restlicher Master erhalten."
+      },
+      "pixels": [
+        1491,
+        1055
+      ],
+      "color_mode": "RGB"
+    },
+    "production/month-backs/june-smooth-v28/manifest.json": {
+      "path": "production/month-backs/june-smooth-v28/manifest.json",
+      "sha256": "fc0d274b2701812240b2ebe9e00b478abaea343d52f752e3e83907142f726edc",
+      "role": "component",
+      "usage": "V28: vier Juni-Rätselporträts glatt statt Fellwirkung; übrige Seite erhalten",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview Juni offen.",
+        "Keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Ein Built-in-Bildaufruf zur lokalen Oberflächenglättung; vier Porträtclips, restlicher Master erhalten."
+      }
+    },
+    "tools/refine-june-smooth-v28.py": {
+      "path": "tools/refine-june-smooth-v28.py",
+      "sha256": "45a96aecd97fc971d275720501dd1715514749c3bedf488bfdffa4a796f23e86",
+      "role": "component",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "usage": "V28: vier Juni-Rätselporträts glatt statt Fellwirkung; übrige Seite erhalten",
+      "issues": [
+        "Nutzerreview Juni offen.",
+        "Keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Ein Built-in-Bildaufruf zur lokalen Oberflächenglättung; vier Porträtclips, restlicher Master erhalten."
+      }
+    },
+    "production/month-backs/june-smooth-v28/prompt.txt": {
+      "path": "production/month-backs/june-smooth-v28/prompt.txt",
+      "sha256": "d7f9f1beceb202536062238d69ccbdfee888572a96edf7bc144a8d000450d8a3",
+      "role": "component",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "usage": "V28: vier Juni-Rätselporträts glatt statt Fellwirkung; übrige Seite erhalten",
+      "issues": [
+        "Nutzerreview Juni offen.",
+        "Keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Ein Built-in-Bildaufruf zur lokalen Oberflächenglättung; vier Porträtclips, restlicher Master erhalten."
+      }
     }
   },
   "selection": {
-    "current_working_master": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v20.pdf",
-    "current_lower_master": "production/puzzles/v07/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v07.pdf",
+    "current_working_master": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v28.pdf",
     "source_lower_master": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
     "recovered_source_master": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
     "december_illustration": "update_26-10-02/calender-image-12.png",
@@ -5042,21 +5914,40 @@
     "february_correction": "production/month-images/drafts/february-v01/02-winter-clock-v03.png",
     "april_correction": "production/month-images/drafts/april-v01/04-no-pompon-tail-v01.png",
     "june_correction": "production/month-images/drafts/june-v01/06-no-pompon-tail-v01.png",
-    "may_puzzle": "production/puzzles/may-v10/05-puzzle.svg",
     "january_back_sample": "output/pdf/giggle-dumplings-january-ORIGINAL-v01.pdf",
-    "february_back_sample": "output/pdf/giggle-dumplings-february-back-MUSTER-v02.pdf",
     "january_original": "back-images-with-puzzles-v1/01.png",
     "february_local_patch": "production/month-images/drafts/february-v02/02-mochi-no-pompoms-v01.png",
-    "february_local_patch_spec": "production/month-images/drafts/february-v02/local-patch-manifest.json"
+    "february_local_patch_spec": "production/month-images/drafts/february-v02/local-patch-manifest.json",
+    "current_five_backs_review": "output/pdf/giggle-dumplings-five-backs-REVIEW-v23.pdf",
+    "current_five_backs_manifest": "production/month-backs/original-batch-v22/manifest.json",
+    "legacy_lower_component_master": "production/puzzles/v07/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v07.pdf",
+    "archived_may_vector_puzzle": "production/puzzles/may-v10/05-puzzle.svg",
+    "archived_february_back_sample": "output/pdf/giggle-dumplings-february-back-MUSTER-v02.pdf",
+    "current_february_paths": "production/month-backs/february-paths-v23/manifest.json",
+    "current_six_backs_review": "output/pdf/giggle-dumplings-six-backs-REVIEW-v24.pdf",
+    "current_six_backs_manifest": "production/month-backs/remaining-v24/manifest.json",
+    "current_three_backs_review": "output/pdf/giggle-dumplings-three-backs-REVIEW-v25.pdf",
+    "current_three_backs_manifest": "production/month-backs/refinements-v25/manifest.json",
+    "current_two_backs_review": "output/pdf/giggle-dumplings-two-backs-REVIEW-v26.pdf",
+    "current_two_backs_manifest": "production/month-backs/refinements-v26/manifest.json",
+    "current_summer_finale_review": "output/pdf/giggle-dumplings-june-july-december-REVIEW-v27.pdf",
+    "current_summer_finale_manifest": "production/month-backs/refinements-v27/manifest.json",
+    "current_june_smooth_review": "output/pdf/giggle-dumplings-june-smooth-REVIEW-v28.pdf",
+    "current_june_smooth_manifest": "production/month-backs/june-smooth-v28/manifest.json"
   },
   "issues": {
-    "february": "Mochis zwei Puschel hinter der Schleife lokal entfernt; Nutzer bestätigt diese Korrektur am 05.10.2026. Keine Freigabe weiterer Bilddetails oder des Gesamtprodukts.",
-    "april": "Sunnys falscher Pompon-Schwanz im Korrekturentwurf entfernt; Nutzerreview offen.",
-    "june": "Mochis falscher Pompon-Schwanz im Korrekturentwurf entfernt; Nutzerreview offen.",
-    "december": "Dezemberquelle identifiziert und laut Chatnotiz freigegeben: update_26-10-02/calender-image-12.png; keine Bearbeitung.",
-    "gelato": "Konkrete Produktvorlage, Bindung, Beschnitt, sichere Ränder, Auflösung und abschließende Druckprüfung offen.",
-    "imprint": "Englisches Halloween-Impressum mit angepasstem Produkttitel ohne Gelato-Angaben in v08 eingebaut; anwendbare Pflichtangaben vor Veröffentlichung prüfen.",
-    "master": "V20: Januar-Original erhalten; Mochi-Puschel im oberen Februarbild lokal entfernt. Originalrätselprüfungen und Druckprüfung offen.",
-    "lower_master": "V07 ist ältere Komponentenbasis. Aktuelle illustrierte Januar-Rückseite und Mai-Komponente im Gesamtmaster v18."
+    "open_1": "Mochis zwei Puschel hinter der Schleife lokal entfernt; Nutzer bestätigt diese Korrektur am 05.10.2026. Keine Freigabe weiterer Bilddetails oder des Gesamtprodukts.",
+    "open_2": "Sunnys falscher Pompon-Schwanz im Korrekturentwurf entfernt; Nutzerreview offen.",
+    "open_3": "Mochis falscher Pompon-Schwanz im Korrekturentwurf entfernt; Nutzerreview offen.",
+    "open_4": "Dezemberquelle identifiziert und laut Chatnotiz freigegeben: update_26-10-02/calender-image-12.png; keine Bearbeitung.",
+    "open_5": "Konkrete Produktvorlage, Bindung, Beschnitt, sichere Ränder, Auflösung und abschließende Druckprüfung offen.",
+    "open_6": "Englisches Halloween-Impressum mit angepasstem Produkttitel ohne Gelato-Angaben in v08 eingebaut; anwendbare Pflichtangaben vor Veröffentlichung prüfen.",
+    "open_7": "06.10.2026: Nutzer akzeptiert Oktober unverändert; anfängliche Irritation durch Paare innerhalb einer Zeile geklärt. Fünf Paare, D/K einzeln. Keine Druckfreigabe.",
+    "open_8": "V24: sechs weitere Rückseiten auf Originalgestaltung lokal korrigiert und visuell geprüft; Nutzerreview offen. Februar v23 und Oktober v22 bestätigt, unverändert erhalten.",
+    "open_9": "Januar-Originalrätsel: eindeutige Wegführung und Nibbles/Bao-Widerspruch noch offen. Originaltext-Abgleich aller übernommenen Rastertexte offen.",
+    "v25": "V25: Nutzerkorrekturen März/April/August umgesetzt und visuell geprüft. März dritte Samenart; April ähnliche Farben und Paar C/J; August fertige Illustrationen und Aufgabenfläche begrenzt. Nutzerreview offen; 23 andere Seiten unverändert.",
+    "v26": "V26: April-Eier ohne rechteckige Hintergrundreste und mit vollständigen Spitzen; August-Behausungen burrow/tree hollow/den/nest, Lösung 2/1/4/3. Beide Seiten visuell geprüft; 24 andere Seiten unverändert gegenüber v25. April/August vom Nutzer am 06.10.2026 bestätigt.",
+    "v27": "V27: Juni-Porträts und Juli-Referenzkontur verfeinert, beide geänderten Seiten visuell geprüft; Dezember unverändert geometrisch geprüft. Dreiseitenreview offen. 24 andere Seiten unverändert. Januar-Wegführung und März-Reihe-2-Nutzerreview weiterhin offen.",
+    "v28": "V28: vier Juni-Porträts mit glatten Oberflächen, nach Nutzerfeedback Fellwirkung entfernt; eine Seite visuell geprüft, 25 andere Masterseiten unverändert gegenüber v27. Nutzerreview offen."
   }
 }

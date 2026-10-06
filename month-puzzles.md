@@ -276,3 +276,10 @@ Für **November** würde ich auf den Karten selbst **keine Buchstaben A–D verw
 Und bei **Dezember** würde ich tatsächlich **A–D** an den vier Teilen verwenden, weil dort eine Multiple-Choice-Antwort sinnvoll ist. Lösung **C**.
 
 Damit sind jetzt sowohl **Rätselkonzept als auch Aufgabentext für alle zwölf Monate festgelegt**. Der nächste inhaltliche Schritt wäre aus meiner Sicht noch die **Lösungsseite bzw. Lösungsliste für alle 12 Monate** festzuzurren; danach können wir ohne weitere Konzeptentscheidungen in die eigentliche Produktion wechseln.
+### Nutzerkorrektur 06.10.2026 — v25
+
+März Reihe 2: drei Samenarten (Sonnenblumenkern, Eichel, Kürbiskern), periodisches Muster Sonnenblumenkern/Sonnenblumenkern/Eichel/Kürbiskern. Nach zwei Perioden und zwei Sonnenblumenkernen fehlt die Eichel, Antwort A. Reihe 1 bleibt Antwort C. April: ähnliche Lavendelfarben; Paar jetzt C/J statt C/H, versetzt statt direkt übereinander. Nur dieser eine Quellausschnitt wird dupliziert. August: Hase ohne Szenenhintergrund, Fuchs und beide Baue fertig illustriert; Zuordnung unverändert. Aufgabentexte unverändert.
+
+### Nutzerkorrektur 06.10.2026 — v26
+
+August-Behausungen links nach rechts: 1 burrow, 2 tree hollow, 3 den, 4 nest. Tiere weiterhin Owl/Rabbit/Squirrel/Fox. Lösung jetzt Owl–2, Rabbit–1, Squirrel–4, Fox–3. Keine passende Behausung und keine gleiche Baum-/Boden-Kategorie direkt unter einem Tier. April Paar C/J unverändert; vollständige Eikonturen statt rechteckiger Ausschnitte.

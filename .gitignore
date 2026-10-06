@@ -1,1 +1,4 @@
 tmp/
+
+# Generated PDF exports remain local
+/output/pdf/
