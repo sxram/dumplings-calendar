@@ -6314,10 +6314,470 @@
         "project": "dumplings-calendar",
         "note": "Aus registriertem v32-Master, v32-Zeilenmanifest und nachgereichtem historischen Master; keine PDF-/Bildänderung."
       }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v33.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v33.pdf",
+      "sha256": "c36e9841ae0a7fa8fb78c99a7a7d67c5aba5037fef902d56c68e270a323191c3",
+      "role": "working_master",
+      "usage": "V33: ausschließlich Januar-Aufgabe auf festgelegten Wortlaut korrigiert",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Januar-Wegführung weiterhin ungeklärt.",
+        "Nutzerreview und Druckfreigabe offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v32-Master; fünf native Aufgabenzeilen ersetzt, Originalgeometrie und Bilder erhalten; keine Bildgenerierung."
+      }
+    },
+    "production/january-task/v33/manifest.json": {
+      "path": "production/january-task/v33/manifest.json",
+      "sha256": "9013aea8141a8bd1a119ad4da2b91dcef240f5c6e7103d0a15571a0092735624",
+      "role": "component",
+      "usage": "V33: ausschließlich Januar-Aufgabe auf festgelegten Wortlaut korrigiert",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Januar-Wegführung weiterhin ungeklärt.",
+        "Nutzerreview und Druckfreigabe offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v32-Master; fünf native Aufgabenzeilen ersetzt, Originalgeometrie und Bilder erhalten; keine Bildgenerierung."
+      }
+    },
+    "production/january-task/v33/REVIEW.md": {
+      "path": "production/january-task/v33/REVIEW.md",
+      "sha256": "4df6055158bb2f57d9e481c413e59b313b4f24b26025197ebf8fa19da3b97c3b",
+      "role": "component",
+      "usage": "V33: ausschließlich Januar-Aufgabe auf festgelegten Wortlaut korrigiert",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Januar-Wegführung weiterhin ungeklärt.",
+        "Nutzerreview und Druckfreigabe offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v32-Master; fünf native Aufgabenzeilen ersetzt, Originalgeometrie und Bilder erhalten; keine Bildgenerierung."
+      }
+    },
+    "tools/correct-january-task-v33.py": {
+      "path": "tools/correct-january-task-v33.py",
+      "sha256": "7b687126c0eb269fd830132a1315116966c1b4cebc15a81d3b702c37044b8bb7",
+      "role": "component",
+      "usage": "V33: ausschließlich Januar-Aufgabe auf festgelegten Wortlaut korrigiert",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Januar-Wegführung weiterhin ungeklärt.",
+        "Nutzerreview und Druckfreigabe offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v32-Master; fünf native Aufgabenzeilen ersetzt, Originalgeometrie und Bilder erhalten; keine Bildgenerierung."
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v34.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v34.pdf",
+      "sha256": "f6bd5bf6dfa023daf456b5b8b29e22bfd0aff674e0b5f847745457b34967223f",
+      "role": "working_master",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "production/refinements/v34/manifest.json": {
+      "path": "production/refinements/v34/manifest.json",
+      "sha256": "2f471d7b09fb362841683b58006ce6aeb9b0ab0edc72cc12fea9468f5c9ca537",
+      "role": "component",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "production/refinements/v34/february-paths.svg": {
+      "path": "production/refinements/v34/february-paths.svg",
+      "sha256": "522637c477e558a657b93f544eef83b27bf7fdc7d77fc2d3ab6205935a9377d4",
+      "role": "component",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "tools/refine-march-june-february-v34.py": {
+      "path": "tools/refine-march-june-february-v34.py",
+      "sha256": "3039a34261ab7825ff48c06b52f35958f8a2d71a59cbf9878113a8d51ae8e903",
+      "role": "component",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v35.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v35.pdf",
+      "sha256": "39506b9acb44b9466f8ead73e34e27b65aa8768dd4d3e60a9681eab15cb0d59b",
+      "role": "working_master",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "production/refinements/v35/manifest.json": {
+      "path": "production/refinements/v35/manifest.json",
+      "sha256": "4149705d5d25892ea4f7b36342a61b32f3609c60e1b14ebbd1858db6690d596d",
+      "role": "component",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "production/refinements/v35/february-paths.svg": {
+      "path": "production/refinements/v35/february-paths.svg",
+      "sha256": "522637c477e558a657b93f544eef83b27bf7fdc7d77fc2d3ab6205935a9377d4",
+      "role": "component",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "tools/refine-march-june-february-v35.py": {
+      "path": "tools/refine-march-june-february-v35.py",
+      "sha256": "7fda1eb9354448b483de8c9c3b2ff2137909f8fb26f1a79a73fd498889754802",
+      "role": "component",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v36.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v36.pdf",
+      "sha256": "d9c61bf0d404a2416e6e2f97be5fc7cb9f9e74c58a02319a4b86d1dfd1584363",
+      "role": "working_master",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "production/refinements/v36/manifest.json": {
+      "path": "production/refinements/v36/manifest.json",
+      "sha256": "3fcb19bd427a2ee160802393d2e00f256ad2da57ab9565902ac97896219150db",
+      "role": "component",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "production/refinements/v36/february-paths.svg": {
+      "path": "production/refinements/v36/february-paths.svg",
+      "sha256": "522637c477e558a657b93f544eef83b27bf7fdc7d77fc2d3ab6205935a9377d4",
+      "role": "component",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "tools/refine-march-june-february-v36.py": {
+      "path": "tools/refine-march-june-february-v36.py",
+      "sha256": "7372f7e879f39ca5e9f3f3365ee283c1cf5cd59647c6390174357768301ddd71",
+      "role": "component",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v37.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v37.pdf",
+      "sha256": "9c4e48e17493e1f65a709371a50bdc858f3facc1a4d0142185b9c84afcbb9eb1",
+      "role": "working_master",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "production/refinements/v37/manifest.json": {
+      "path": "production/refinements/v37/manifest.json",
+      "sha256": "3704a93ffaaac51721b4a793a30e7aedb8925b690c943731f033f675b726727b",
+      "role": "component",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "production/refinements/v37/february-paths.svg": {
+      "path": "production/refinements/v37/february-paths.svg",
+      "sha256": "522637c477e558a657b93f544eef83b27bf7fdc7d77fc2d3ab6205935a9377d4",
+      "role": "component",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "tools/refine-march-june-february-v37.py": {
+      "path": "tools/refine-march-june-february-v37.py",
+      "sha256": "cd090205b0e85785b629fcbe46dac50bbbb210a850580918ee69e9874afbac66",
+      "role": "component",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v38.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v38.pdf",
+      "sha256": "c2bcbf0d9f3175dedee0ca30e03f023d56e441ef6aff7553c00c1b54d38e89a0",
+      "role": "working_master",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "production/refinements/v38/manifest.json": {
+      "path": "production/refinements/v38/manifest.json",
+      "sha256": "8bd554c19f64cdacf5e663610bf6d1ba06b709b2ccf1470c171cd697d4d53bfb",
+      "role": "component",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "production/refinements/v38/february-paths.svg": {
+      "path": "production/refinements/v38/february-paths.svg",
+      "sha256": "522637c477e558a657b93f544eef83b27bf7fdc7d77fc2d3ab6205935a9377d4",
+      "role": "component",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "tools/refine-march-june-february-v38.py": {
+      "path": "tools/refine-march-june-february-v38.py",
+      "sha256": "66ec0d18819787a68d329777ff3988e91041b0a69ca377783ca67ac0a4d19464",
+      "role": "component",
+      "usage": "Interner Reparaturstand; durch v39 ersetzt, nicht auswählen",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen; interner Reparaturstand."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v39.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v39.pdf",
+      "sha256": "ee8a7f07345bb15f476e9e72cbf33a13fad6d7864960d002d89f78f99c9f9737",
+      "role": "working_master",
+      "usage": "V39 lokale Korrekturen Februar/März/Juni",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview und Druckprüfung offen.",
+        "Generelle Schilderbehandlung noch offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "production/refinements/v39/manifest.json": {
+      "path": "production/refinements/v39/manifest.json",
+      "sha256": "c34f02263bf6955f4d3ab5e1a092791f5a4d8ad1e72fbf8fd0cbc1c7acdcab7c",
+      "role": "component",
+      "usage": "V39 lokale Korrekturen Februar/März/Juni",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview und Druckprüfung offen.",
+        "Generelle Schilderbehandlung noch offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "production/refinements/v39/february-paths.svg": {
+      "path": "production/refinements/v39/february-paths.svg",
+      "sha256": "522637c477e558a657b93f544eef83b27bf7fdc7d77fc2d3ab6205935a9377d4",
+      "role": "component",
+      "usage": "V39 lokale Korrekturen Februar/März/Juni",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview und Druckprüfung offen.",
+        "Generelle Schilderbehandlung noch offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "tools/refine-march-june-february-v39.py": {
+      "path": "tools/refine-march-june-february-v39.py",
+      "sha256": "4870e277c99a030cdeba367a0e60808cecc2f0ad66a291fb4ada95b301af01af",
+      "role": "component",
+      "usage": "V39 lokale Korrekturen Februar/März/Juni",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview und Druckprüfung offen.",
+        "Generelle Schilderbehandlung noch offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "production/refinements/v39/REVIEW.md": {
+      "path": "production/refinements/v39/REVIEW.md",
+      "sha256": "ff3d343eb25458e926a3fca9364f6806d309135dd9b563b24c6958e1ea9ab99c",
+      "role": "component",
+      "usage": "V39 lokale Korrekturen Februar/März/Juni",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview und Druckprüfung offen.",
+        "Generelle Schilderbehandlung noch offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v33-Master; lokale PDF-Text-/Konturclips und deterministische Februarwege, keine Bildgenerierung."
+      }
+    },
+    "production/JANUARY-ORIGINAL-REVIEW.md": {
+      "path": "production/JANUARY-ORIGINAL-REVIEW.md",
+      "sha256": "fe0b14aafbc715ee549ca59f7d5f1a01ec34073d66b133a6778ae8bd703bce2e",
+      "role": "component",
+      "usage": "Januar-Originalprüfung mit expliziter Nutzerbestätigung der Wegführung 07.10.2026",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzer akzeptiert Wegführung; keine behauptete mathematische Prüfung.",
+        "Druckfreigabe offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Bestehende Prüfdokumentation erstmals registriert; Nutzerbestätigung ausdrücklich ergänzt."
+      }
     }
   },
   "selection": {
-    "current_working_master": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v32.pdf",
+    "current_working_master": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v39.pdf",
     "source_lower_master": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
     "recovered_source_master": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
     "december_illustration": "update_26-10-02/calender-image-12.png",
@@ -6334,7 +6794,7 @@
     "legacy_lower_component_master": "production/puzzles/v07/giggle-dumplings-2027-lower-pages-ARBEITSMASTER-v07.pdf",
     "archived_may_vector_puzzle": "production/puzzles/may-v10/05-puzzle.svg",
     "archived_february_back_sample": "output/pdf/giggle-dumplings-february-back-MUSTER-v02.pdf",
-    "current_february_paths": "production/month-backs/february-paths-v23/manifest.json",
+    "current_february_paths": "production/refinements/v39/manifest.json",
     "current_six_backs_review": "output/pdf/giggle-dumplings-six-backs-REVIEW-v24.pdf",
     "current_six_backs_manifest": "production/month-backs/remaining-v24/manifest.json",
     "current_three_backs_review": "output/pdf/giggle-dumplings-three-backs-REVIEW-v25.pdf",
@@ -6348,7 +6808,9 @@
     "current_typography_manifest": "production/typography/v29/manifest.json",
     "current_labels_tasks_manifest": "production/labels-tasks/v31/manifest.json",
     "archived_typography_review_v29": "output/pdf/giggle-dumplings-all-backs-TYPOGRAPHY-REVIEW-v29.pdf",
-    "current_body_calendar_manifest": "production/typography/v32/manifest.json"
+    "current_body_calendar_manifest": "production/typography/v32/manifest.json",
+    "current_january_task_manifest": "production/january-task/v33/manifest.json",
+    "current_refinements_manifest": "production/refinements/v39/manifest.json"
   },
   "issues": {
     "open_1": "Mochis zwei Puschel hinter der Schleife lokal entfernt; Nutzer bestätigt diese Korrektur am 05.10.2026. Keine Freigabe weiterer Bilddetails oder des Gesamtprodukts.",
@@ -6359,7 +6821,7 @@
     "open_6": "Englisches Halloween-Impressum mit angepasstem Produkttitel ohne Gelato-Angaben in v08 eingebaut; anwendbare Pflichtangaben vor Veröffentlichung prüfen.",
     "open_7": "06.10.2026: Nutzer akzeptiert Oktober unverändert; anfängliche Irritation durch Paare innerhalb einer Zeile geklärt. Fünf Paare, D/K einzeln. Keine Druckfreigabe.",
     "open_8": "V24: sechs weitere Rückseiten auf Originalgestaltung lokal korrigiert und visuell geprüft; Nutzerreview offen. Februar v23 und Oktober v22 bestätigt, unverändert erhalten.",
-    "open_9": "Januar-Originalrätsel: eindeutige Wegführung und Nibbles/Bao-Widerspruch noch offen. Originaltext-Abgleich aller übernommenen Rastertexte offen.",
+    "open_9": "07.10.2026: Januar-Wegführung vom Nutzer bestätigt; Januar-Aufgabe seit v33 auf festgelegten Wortlaut korrigiert. Keine Druckfreigabe. Redaktioneller Abgleich dokumentiert; abweichende Textfassungen weiterhin offen.",
     "v25": "V25: Nutzerkorrekturen März/April/August umgesetzt und visuell geprüft. März dritte Samenart; April ähnliche Farben und Paar C/J; August fertige Illustrationen und Aufgabenfläche begrenzt. Nutzerreview offen; 23 andere Seiten unverändert.",
     "v26": "V26: April-Eier ohne rechteckige Hintergrundreste und mit vollständigen Spitzen; August-Behausungen burrow/tree hollow/den/nest, Lösung 2/1/4/3. Beide Seiten visuell geprüft; 24 andere Seiten unverändert gegenüber v25. April/August vom Nutzer am 06.10.2026 bestätigt.",
     "v27": "V27: Juni-Porträts und Juli-Referenzkontur verfeinert, beide geänderten Seiten visuell geprüft; Dezember unverändert geometrisch geprüft. Dreiseitenreview offen. 24 andere Seiten unverändert. Januar-Wegführung und März-Reihe-2-Nutzerreview weiterhin offen.",
@@ -6367,6 +6829,8 @@
     "v29": "Sechs große Juni-Figuren nach Nutzerklärung korrigiert, zwölf Rückseiten mit einheitlicher scharfer nativer Schrift. Alle zwölf visuell geprüft; 365 Kalenderzahlen gerechnet; vierzehn übrige Seiten unverändert. Nutzerreview und Druckfreigabe offen.",
     "v31": "V31: 151 Datumzahlen Januar-Mai nach rechts (12 Gestaltungseinheiten), ursprüngliche illustrierte Namensschilder lokal wiederhergestellt, zwölf Rätselaufgaben und Juni-Hinweise normal gesetzt, Februarfläche reduziert. Zwölf Rückseiten visuell geprüft, 14 andere Seiten unverändert. Nutzerreview offen; keine Druckfreigabe.",
     "v32_review": "V32: zwölf Rückseiten nach Nutzerbeanstandung mit fester Zeichenhöhe je Textblock; 365 natürliche Ziffern neu gesetzt/eingerückt, lokale Feldränder restauriert. Zwölf Seiten geprüft, 14 andere unverändert; Nutzerreview/Druckprüfung offen.",
-    "editorial_v32": "07.10.2026: Redaktioneller Abgleich aller zwölf unteren v32-Seiten dokumentiert unter production/editorial/v32-audit/REVIEW.md. Längere Originaltexte nicht wortgleich zur nachgereichten Kurzfassung; Challenges August/November abweichend, Juni-Sternfund nicht im Fließtext. Januar-Aufgabe nennt weiterhin Nibbles und weicht vom festgelegten Text ab. Keine PDF-Änderung oder Freigabe."
+    "editorial_v32": "07.10.2026: Redaktioneller Abgleich aller zwölf unteren v32-Seiten dokumentiert unter production/editorial/v32-audit/REVIEW.md. Längere Originaltexte nicht wortgleich zur nachgereichten Kurzfassung; Challenges August/November abweichend, Juni-Sternfund nicht im Fließtext. Januar-Aufgabe nennt weiterhin Nibbles und weicht vom festgelegten Text ab. Keine PDF-Änderung oder Freigabe.",
+    "v33": "V33: ausschließlich Januar-Aufgabe korrigiert und final visuell geprüft; 25 andere Seiten samt Bilddaten unverändert gegenüber v32, Januar-Bilddaten unverändert. Wegführung, Nutzerreview und Druckfreigabe offen.",
+    "v39": "V39: Februarwege geschlungen, Zuordnung 3/1/4/2 erhalten; März Originaltitelkonturen dunkelblau, Seed-Trail-Schild wiederhergestellt, benachbartes Seeds entfernt, Small/Steps entzerrt; Juni-Titel gemeinsame Grundlinie. Drei Seiten visuell geprüft, 23 andere Inhaltsströme unverändert zu v33. V34–v38 intern, nicht auswählen. Andere Rätselschilder unverändert; generelle Schilderwahl und Nutzerreview/Druckprüfung offen."
   }
 }

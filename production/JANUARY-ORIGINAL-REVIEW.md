@@ -20,3 +20,7 @@ Nur die Wegführung des Originalrätsels klären und belegte Fehler lokal korrig
 ## Erneute begrenzte Prüfung — 06.10.2026, v27
 
 Originalseite und vorhandener vergrößerter Rätselausschnitt gelesen; kein erneuter Export oder Bildaufruf. Es gibt verschieden gezeichnete blaue Abdrücke innerhalb verzweigter Schneekorridore. Die Illustration allein beweist weder vier getrennte Spuren noch eine einzige zweifelsfrei verfolgte Start-Ziel-Lösung. Nibbles/Bao-Widerspruch bestätigt. Kein geratenes Lösungslabel und keine ungeprüften Sperren gesetzt. Januar-Original bleibt unverändert, gezielte Weg-/Textkorrektur weiterhin erforderlich.
+
+## Nutzerbestätigung 07.10.2026
+
+Nutzer: „die januar weg ist ok“. Wegführung als Nutzerentscheidung bestätigt, unverändert erhalten. Keine nachträglich behauptete mathematische Prüfung; Januar-Aufgabe seit v33 korrigiert. Keine Druckfreigabe.

@@ -1,0 +1,38 @@
+{
+  "base": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v32.pdf",
+  "base_sha256": "b59e46f1c2ed016c96bafad243fca3cc3715aa8bb306921d442e5da1291c1f94",
+  "output": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v33.pdf",
+  "changed_page": 3,
+  "removed_native_lines": [
+    "Help Nibbles find the golden star! Use",
+    "the footprints to find the right way",
+    "through the snowy forest. There are",
+    "many dead ends - can you make it to",
+    "the star?"
+  ],
+  "task": {
+    "text": "Which footprints lead to the golden star? Follow the trail!",
+    "lines": [
+      "Which footprints lead to the",
+      "golden star? Follow the trail!"
+    ],
+    "font_size": 20,
+    "leading": 22.6,
+    "font": "ChalkboardSE regular embedded",
+    "color": "#173e59",
+    "horizontal_stretch": false,
+    "box": [
+      1193,
+      394,
+      1470,
+      480
+    ]
+  },
+  "unchanged_pages_verified": 25,
+  "verification": "Decoded content streams and image bytes equal on 25 other pages; January image bytes equal",
+  "path_geometry": "unchanged; unique solution still unverified",
+  "visual_review": "passed: final January PDF page rendered and inspected on 07.10.2026; task within existing box, title/artwork retained",
+  "user_review": "pending",
+  "print_status": "not_released",
+  "image_generation_calls": 0
+}
