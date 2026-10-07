@@ -59,3 +59,14 @@ Bei kleinen Figurenporträts auch die gerenderten Kartenausschnitte prüfen: von
 ## 06.10.2026 — v28
 
 Figuren dürfen nicht durch Fell-/Plüschtexturen vom glatten Dumpling-Stil abweichen. Bei lokalen Porträtbearbeitungen ausdrücklich glatte Flächen und breite Farbübergänge verlangen; Merkmale für Rätsellösungen erhalten.
+
+## 06.10.2026 — v29
+
+Figurenumfang bei mehreren Szenen anhand der Nutzerklärung festhalten: v28 glättete die kleinen Rätselporträts, gemeint waren sechs große Figuren. Keine erneute Vollseitenübernahme: sechs lokale native Clips. Bild-OCR erkennt Sterne und Scheunengitter als Text, kombiniert Rastertitel mit nativen Aufgaben und übersieht einzelne Beschriftungen. Tracker ausschließen, gemischte Zeilen auflösen, alle geänderten Seiten visuell prüfen. Ein Farbwert reicht nicht bei Rastertext; auf ausdrücklichen Auftrag native Schrift einsetzen, Kalender rechnerisch herstellen und ursprüngliche Wortmarkenkonturen erhalten. Glyphenmasken können Papiertextur lokal glätten; Reviewstatus nicht mit Druckfreigabe verwechseln.
+
+## 07.10.2026 — v31
+
+Wörter nicht separat anhand ihrer sichtbaren Glyphenbox skalieren: Wörter ohne Ober-/Unterlängen erhalten sonst andere Schriftgrößen und Proportionen. Ganze Aufgabenabsätze mit fester Schriftgröße und normalen Laufweiten setzen. PDF-Fontboxen können optisch getrennte Überschriften/Aufgaben überlappen; Löschung mit geprüften Positionen abgrenzen, Textinhalt erhalten und zusätzlich visuell prüfen. Illustrative Eigennamen nicht unnötig neu setzen: originale Schilder als Gestaltung erhalten, auch wenn sie dieselben Wörter wie Fließtext tragen. Kalendereinzug auch gegen Blumen/Herzen am Monatsende prüfen; zu große Verschiebung kann dekorative Motive berühren.
+
+## 07.10.2026: Schriftgrößen und Kalenderfelder
+Wortweise Glyphen-Boxanpassung erzeugt optisch unterschiedliche Zeichenhöhen; nicht erneut einsetzen. Komplette Zeilen mit fester Schriftgröße pro Block setzen. Vorhandene Zeilenbreiten sind hier bewusst horizontal angepasst; natürlicher Umbruch bleibt eine spätere Layoutentscheidung. Kalenderdatumswerte, Schriftgröße, Abstand und Feldrandintegrität getrennt prüfen. Verschobene Zahlen können frühere Abdeckungen und beschädigte Feldränder sichtbar machen. Ein grauer Färbeversuch verschlechterte die lokalen Textmasken und wurde nicht ausgewählt.

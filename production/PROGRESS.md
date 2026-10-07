@@ -132,3 +132,13 @@ Juni vier fertig illustrierte Figuren ohne Szenenreste, klare türkise Nibbles-B
 ## 06.10.2026 — v28: glatte Juni-Figuren
 
 Nutzerbemängelte Fellwirkung lokal an vier kleinen Porträts entfernt. Ruhige glatte Oberflächen und breite Farbübergänge, keine Haarstriche. Identitäten, Farben, Hinweismerkmale und restliche Seite erhalten. Ein Built-in-Bildaufruf, nur Porträtclips; Seite gerendert und geprüft. 25 weitere Masterseiten unverändert verifiziert. Nutzerreview offen.
+
+## 06.10.2026 — v29: große Juni-Figuren und Schrift
+
+Nutzerklärung: alle vier Picknick-Dumplings und Bao oben/unten links, nicht nur kleine Porträts. Sechs begrenzte Clips aus einem Bildbearbeitungsaufruf. Zwölf Rückseiten mit einheitlichem Dunkelblau und nativer Typografie; Original-Monatskonturen erhalten. OCR-Symbole/Mischzeilen lokal berichtigt, Sterntracker erhalten. Alle zwölf Seiten visuell geprüft; 365 Daten aus 2027 und 14 unveränderte übrige Seiten geprüft. Arbeitsmaster und Zwölfseitenreview gespeichert. Nutzerreview offen. Details production/typography/v29/REVIEW.md.
+
+## 07.10.2026 — v31: Zahlenabstände, Schilder und Aufgaben
+
+Januar–Mai 151 Datumzahlen im Feld nach rechts gerückt; Blumen/Herzen bleiben frei. Ursprüngliche Namensschilder inklusive Giggle House und Mai wiederhergestellt, alle zwölf Rückseiten darauf geprüft. Rätselaufgaben mit festen Absatzschriftgrößen, Juni-Hinweise gleich groß; kleinere Februar-Aufgabenfläche. Originalüberschriften/Rätselgeometrien erhalten. Alle zwölf Rückseiten geprüft, 14 übrige Seiten unverändert. Keine Bildgenerierung. V30 durch v31 ersetzt; Nutzerreview/Druckfreigabe offen.
+
+Fortschreibung 07.10.2026 — v32: zwölf untere Seiten mit Ganzzeilenkorrektur (feste Schriftgröße je Textblock, horizontale Anpassung der ganzen Zeile statt einzelner Wörter), 365 gleichmäßig gesetzten Kalenderzahlen und lokalen Feldrandreparaturen. Alle zwölf finalen Rückseiten geprüft; 14 andere Seiten samt Bilddaten unverändert. Keine Bildgenerierung. Komponenten production/typography/v32/. Nutzerreview und Druckfreigabe offen.

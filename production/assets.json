@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "project": "dumplings-calendar",
   "product": "Etsy / Gelato calendar 2027",
   "assets": {
@@ -5903,10 +5903,421 @@
         "project": "dumplings-calendar",
         "note": "Ein Built-in-Bildaufruf zur lokalen Oberflächenglättung; vier Porträtclips, restlicher Master erhalten."
       }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v29.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v29.pdf",
+      "sha256": "0e715f0979e38735a6fcf1a39d329c6e82208a534f89e19897085259976c5065",
+      "role": "output",
+      "usage": "V29: sechs große Juni-Dumplings glatt und zwölf Rückseiten mit einheitlicher nativer dunkelblauer Typografie",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview Juni und Typografie offen.",
+        "Januar-Rätsellösung/Name und redaktioneller Quellenabgleich offen.",
+        "Keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Master v28; zwölf untere Seiten gezielt mit nativer Schrift und sechs Juni-Figurenclips überarbeitet. Vierzehn andere Seiten dekodiert unverändert."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-all-backs-TYPOGRAPHY-REVIEW-v29.pdf": {
+      "path": "output/pdf/giggle-dumplings-all-backs-TYPOGRAPHY-REVIEW-v29.pdf",
+      "sha256": "a1da0535f6d71f5ab1a36022cdf419e8f007973abb12239b9a76db820fd1c71f",
+      "role": "output",
+      "usage": "V29: sechs große Juni-Dumplings glatt und zwölf Rückseiten mit einheitlicher nativer dunkelblauer Typografie",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview Juni und Typografie offen.",
+        "Januar-Rätsellösung/Name und redaktioneller Quellenabgleich offen.",
+        "Keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Master v28; zwölf untere Seiten gezielt mit nativer Schrift und sechs Juni-Figurenclips überarbeitet. Vierzehn andere Seiten dekodiert unverändert."
+      },
+      "page_count": 12,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "production/typography/v29/june-six-smooth-source.png": {
+      "path": "production/typography/v29/june-six-smooth-source.png",
+      "sha256": "d3fbe6a2e09870a53552bccbeea704c70b581678c4c05f689f9fc55c66efc4f3",
+      "role": "reference",
+      "usage": "V29: lokale Juni-Figurenclips / native Typografie; Dokumentation oder reproduzierbare Quelle",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview offen; keine Druckfreigabe.",
+        "Vollbild nur Quelle für sechs definierte PDF-Clips; nicht pauschal als neue Monatsseite auswählen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Ein Built-in-Bildaufruf für sechs große Juni-Figuren. Originale erhalten; Texte als native PDF-Schrift mit ursprünglichen Monatskonturen."
+      },
+      "pixels": [
+        1491,
+        1055
+      ],
+      "color_mode": "RGB"
+    },
+    "production/typography/v29/june-prompt.txt": {
+      "path": "production/typography/v29/june-prompt.txt",
+      "sha256": "da5ee099dc0b38ac91ea3f3c6a68ad1a6e7edbac66b113f80094836ce84c8e92",
+      "role": "component",
+      "usage": "V29: lokale Juni-Figurenclips / native Typografie; Dokumentation oder reproduzierbare Quelle",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview offen; keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Ein Built-in-Bildaufruf für sechs große Juni-Figuren. Originale erhalten; Texte als native PDF-Schrift mit ursprünglichen Monatskonturen."
+      }
+    },
+    "production/typography/v29/ocr-input.json": {
+      "path": "production/typography/v29/ocr-input.json",
+      "sha256": "31543a44a4459380287d441533c95123fc294bda4a40945157b4061847753da0",
+      "role": "component",
+      "usage": "V29: lokale Juni-Figurenclips / native Typografie; Dokumentation oder reproduzierbare Quelle",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview offen; keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Ein Built-in-Bildaufruf für sechs große Juni-Figuren. Originale erhalten; Texte als native PDF-Schrift mit ursprünglichen Monatskonturen."
+      }
+    },
+    "production/typography/v29/manifest.json": {
+      "path": "production/typography/v29/manifest.json",
+      "sha256": "7826d2fb94f310eca4d0f51fb03d02ee0d86d2b31ce47799f672be0e7fb32715",
+      "role": "component",
+      "usage": "V29: lokale Juni-Figurenclips / native Typografie; Dokumentation oder reproduzierbare Quelle",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview offen; keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Ein Built-in-Bildaufruf für sechs große Juni-Figuren. Originale erhalten; Texte als native PDF-Schrift mit ursprünglichen Monatskonturen."
+      }
+    },
+    "production/typography/v29/REVIEW.md": {
+      "path": "production/typography/v29/REVIEW.md",
+      "sha256": "c7a985653270598fb7fe1b07a5d94ddc0ff4ff2953b37c157acbcc4b43ba0898",
+      "role": "component",
+      "usage": "V29: lokale Juni-Figurenclips / native Typografie; Dokumentation oder reproduzierbare Quelle",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview offen; keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Ein Built-in-Bildaufruf für sechs große Juni-Figuren. Originale erhalten; Texte als native PDF-Schrift mit ursprünglichen Monatskonturen."
+      }
+    },
+    "tools/unify-back-typography-v29.py": {
+      "path": "tools/unify-back-typography-v29.py",
+      "sha256": "94532ee9c38d4bd9baa94e143ecf0c6ea9e5ccd0faa903991ce53e957f7fa1d5",
+      "role": "component",
+      "usage": "V29: lokale Juni-Figurenclips / native Typografie; Dokumentation oder reproduzierbare Quelle",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview offen; keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Ein Built-in-Bildaufruf für sechs große Juni-Figuren. Originale erhalten; Texte als native PDF-Schrift mit ursprünglichen Monatskonturen."
+      }
+    },
+    "tools/ocr-image-text.swift": {
+      "path": "tools/ocr-image-text.swift",
+      "sha256": "913b7ae5e03ded7a6eb62ad83770bd4a049e6c2d6aa354db009db3ee33d50edb",
+      "role": "component",
+      "usage": "V29: lokale Juni-Figurenclips / native Typografie; Dokumentation oder reproduzierbare Quelle",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview offen; keine Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Ein Built-in-Bildaufruf für sechs große Juni-Figuren. Originale erhalten; Texte als native PDF-Schrift mit ursprünglichen Monatskonturen."
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v30.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v30.pdf",
+      "sha256": "55720d3941d95ba1b6b6ee6117f8774eef074ab4ed59d905408d1ce897fad131",
+      "role": "output",
+      "usage": "Interner Zwischenstand nur Januar-Mai-Zahlen; durch v31 mit kleinerem Abstand ersetzt",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nicht auswählen: durch v31 ersetzt.",
+        "Keine Nutzer- oder Druckfreigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Vorhandener lokaler Bestand; historische Freigabe nicht automatisch übernommen"
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v31.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v31.pdf",
+      "sha256": "dddaf4dc3cb6b5d011985f1de3ee49c0045c1609a94574706bece4ad1529b06b",
+      "role": "output",
+      "usage": "V31: Januar-Mai-Zahlen im Feld; ursprüngliche Namensschilder; zwölf Rätselaufgaben normal gesetzt, Februarfläche kleiner",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview der aktuellen Korrekturen offen.",
+        "Januar-Wegführung/Name und Quellen-Wortlautabgleich offen.",
+        "Keine Druckfreigabe.",
+        "07.10.2026: Nutzer meldet weiterhin Kalenderzahlen- und Schriftgrößenfehler; durch v32 fortgeschrieben, keine Freigabe."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "V29 über internen v30; 12 lokale Rückseitenkorrekturen, alle geprüft; 14 andere Seiten unverändert. Keine Bildgenerierung."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "tools/shift-calendar-dates-v30.py": {
+      "path": "tools/shift-calendar-dates-v30.py",
+      "sha256": "c9e3927cc1a436b461b633fd4051a0b4968f141877da7cdc6e48d3f142352829",
+      "role": "component",
+      "usage": "V30/V31: gezielte Zahlenabstände und Wiederherstellung originaler Schilder; normaler Rätselaufgabensatz",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview und Druckfreigabe offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Lokale native PDF-Änderungen; keine Bildgenerierung. V30 interner Zwischenstand, durch v31 ersetzt."
+      }
+    },
+    "production/calendar-dates/v30/manifest.json": {
+      "path": "production/calendar-dates/v30/manifest.json",
+      "sha256": "4fef3af190e469e279afd5cd8eab9310b2942ef59f9482df1c2969d96f7e40d1",
+      "role": "component",
+      "usage": "V30/V31: gezielte Zahlenabstände und Wiederherstellung originaler Schilder; normaler Rätselaufgabensatz",
+      "design_status": "reference_only",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview und Druckfreigabe offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Lokale native PDF-Änderungen; keine Bildgenerierung. V30 interner Zwischenstand, durch v31 ersetzt."
+      }
+    },
+    "tools/refine-labels-tasks-v31.py": {
+      "path": "tools/refine-labels-tasks-v31.py",
+      "sha256": "f76fb6c2863e04cf4b84b957235c812312de09dbaef2f672db39c2868da43d3f",
+      "role": "component",
+      "usage": "V30/V31: gezielte Zahlenabstände und Wiederherstellung originaler Schilder; normaler Rätselaufgabensatz",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview und Druckfreigabe offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Lokale native PDF-Änderungen; keine Bildgenerierung. V30 interner Zwischenstand, durch v31 ersetzt."
+      }
+    },
+    "production/labels-tasks/v31/manifest.json": {
+      "path": "production/labels-tasks/v31/manifest.json",
+      "sha256": "8f0768ed2b2538b8e78ad5355c8d97ad752b4684ea27609495ecb7414a90d200",
+      "role": "component",
+      "usage": "V30/V31: gezielte Zahlenabstände und Wiederherstellung originaler Schilder; normaler Rätselaufgabensatz",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview und Druckfreigabe offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Lokale native PDF-Änderungen; keine Bildgenerierung. V30 interner Zwischenstand, durch v31 ersetzt."
+      }
+    },
+    "production/labels-tasks/v31/REVIEW.md": {
+      "path": "production/labels-tasks/v31/REVIEW.md",
+      "sha256": "1ce2c11c253f02926fda8d2ed7b3e75afa869e09044d9f5020c62337c5fac795",
+      "role": "component",
+      "usage": "V30/V31: gezielte Zahlenabstände und Wiederherstellung originaler Schilder; normaler Rätselaufgabensatz",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview und Druckfreigabe offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Lokale native PDF-Änderungen; keine Bildgenerierung. V30 interner Zwischenstand, durch v31 ersetzt."
+      }
+    },
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v32.pdf": {
+      "path": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v32.pdf",
+      "sha256": "b59e46f1c2ed016c96bafad243fca3cc3715aa8bb306921d442e5da1291c1f94",
+      "role": "output",
+      "usage": "V32 Arbeitsmaster: einheitliche Zeichenhöhe in Textblöcken, 365 neu gesetzte Zahlen und restaurierte Feldränder",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview offen.",
+        "Produktgröße/Lesbarkeit und Druckprüfung offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus v31; zwölf lokale Rückseitenkorrekturen, keine Bildgenerierung; Originalquellen erhalten."
+      },
+      "page_count": 26,
+      "page_sizes_pt": [
+        [
+          0.0,
+          0.0,
+          841.89,
+          595.276
+        ]
+      ]
+    },
+    "production/typography/v32/manifest.json": {
+      "path": "production/typography/v32/manifest.json",
+      "sha256": "2449ca8947430140844ced3fc26c2233583c270ecf6f5a7ce65f52e49ada6cbb",
+      "role": "component",
+      "usage": "V32 Herkunft und Zeilen-/Kalendergeometrie",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview offen.",
+        "Produktgröße/Lesbarkeit und Druckprüfung offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus v31; zwölf lokale Rückseitenkorrekturen, keine Bildgenerierung; Originalquellen erhalten."
+      }
+    },
+    "production/typography/v32/REVIEW.md": {
+      "path": "production/typography/v32/REVIEW.md",
+      "sha256": "d9834dfc162188d1397987a19f7fc56d310b5390bdd06afc7883f4dbed165a42",
+      "role": "component",
+      "usage": "V32 Prüfbericht und Grenzen",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview offen.",
+        "Produktgröße/Lesbarkeit und Druckprüfung offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus v31; zwölf lokale Rückseitenkorrekturen, keine Bildgenerierung; Originalquellen erhalten."
+      }
+    },
+    "tools/normalize-body-fonts-v32.py": {
+      "path": "tools/normalize-body-fonts-v32.py",
+      "sha256": "10640a449fa70073fb7f1de9edb7c53961c2fe554f9de284403e4f79a15d9c06",
+      "role": "component",
+      "usage": "V32 reproduzierbare native Ganzzeilenkorrektur",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview offen.",
+        "Produktgröße/Lesbarkeit und Druckprüfung offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus v31; zwölf lokale Rückseitenkorrekturen, keine Bildgenerierung; Originalquellen erhalten."
+      }
+    },
+    "tools/fix-calendar-numerals-v32.py": {
+      "path": "tools/fix-calendar-numerals-v32.py",
+      "sha256": "e7bad96b525642cbf45bd2e1f803212a78a59bb1ce4ca3c17e485d77bd166b1e",
+      "role": "component",
+      "usage": "V32 reproduzierbare native Datumskorrektur",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Nutzerreview offen.",
+        "Produktgröße/Lesbarkeit und Druckprüfung offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus v31; zwölf lokale Rückseitenkorrekturen, keine Bildgenerierung; Originalquellen erhalten."
+      }
+    },
+    "production/editorial/v32-audit/REVIEW.md": {
+      "path": "production/editorial/v32-audit/REVIEW.md",
+      "sha256": "7c80d32fb8925515bae2fe8e0263382cdca46ce5975c3fad652062e8eb62e955",
+      "role": "component",
+      "usage": "V32 redaktioneller Wortlautabgleich aller zwölf unteren Monatsseiten",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Quellenabweichungen dokumentiert; keine automatische Freigabe oder Textübernahme.",
+        "Januar-Aufgabe/Wegführung und redaktionelle Entscheidungen offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v32-Master, v32-Zeilenmanifest und nachgereichtem historischen Master; keine PDF-/Bildänderung."
+      }
+    },
+    "production/editorial/v32-audit/comparison.json": {
+      "path": "production/editorial/v32-audit/comparison.json",
+      "sha256": "296606e3d0e7ce9bdd9c068d42a5d11db8837c071e001fd7c0d394625178597e",
+      "role": "component",
+      "usage": "V32 redaktioneller Wortlautabgleich aller zwölf unteren Monatsseiten",
+      "design_status": "review_pending",
+      "print_status": "not_released",
+      "issues": [
+        "Quellenabweichungen dokumentiert; keine automatische Freigabe oder Textübernahme.",
+        "Januar-Aufgabe/Wegführung und redaktionelle Entscheidungen offen."
+      ],
+      "origin": {
+        "project": "dumplings-calendar",
+        "note": "Aus registriertem v32-Master, v32-Zeilenmanifest und nachgereichtem historischen Master; keine PDF-/Bildänderung."
+      }
     }
   },
   "selection": {
-    "current_working_master": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v28.pdf",
+    "current_working_master": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v32.pdf",
     "source_lower_master": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
     "recovered_source_master": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
     "december_illustration": "update_26-10-02/calender-image-12.png",
@@ -5933,7 +6344,11 @@
     "current_summer_finale_review": "output/pdf/giggle-dumplings-june-july-december-REVIEW-v27.pdf",
     "current_summer_finale_manifest": "production/month-backs/refinements-v27/manifest.json",
     "current_june_smooth_review": "output/pdf/giggle-dumplings-june-smooth-REVIEW-v28.pdf",
-    "current_june_smooth_manifest": "production/month-backs/june-smooth-v28/manifest.json"
+    "current_june_smooth_manifest": "production/month-backs/june-smooth-v28/manifest.json",
+    "current_typography_manifest": "production/typography/v29/manifest.json",
+    "current_labels_tasks_manifest": "production/labels-tasks/v31/manifest.json",
+    "archived_typography_review_v29": "output/pdf/giggle-dumplings-all-backs-TYPOGRAPHY-REVIEW-v29.pdf",
+    "current_body_calendar_manifest": "production/typography/v32/manifest.json"
   },
   "issues": {
     "open_1": "Mochis zwei Puschel hinter der Schleife lokal entfernt; Nutzer bestätigt diese Korrektur am 05.10.2026. Keine Freigabe weiterer Bilddetails oder des Gesamtprodukts.",
@@ -5948,6 +6363,10 @@
     "v25": "V25: Nutzerkorrekturen März/April/August umgesetzt und visuell geprüft. März dritte Samenart; April ähnliche Farben und Paar C/J; August fertige Illustrationen und Aufgabenfläche begrenzt. Nutzerreview offen; 23 andere Seiten unverändert.",
     "v26": "V26: April-Eier ohne rechteckige Hintergrundreste und mit vollständigen Spitzen; August-Behausungen burrow/tree hollow/den/nest, Lösung 2/1/4/3. Beide Seiten visuell geprüft; 24 andere Seiten unverändert gegenüber v25. April/August vom Nutzer am 06.10.2026 bestätigt.",
     "v27": "V27: Juni-Porträts und Juli-Referenzkontur verfeinert, beide geänderten Seiten visuell geprüft; Dezember unverändert geometrisch geprüft. Dreiseitenreview offen. 24 andere Seiten unverändert. Januar-Wegführung und März-Reihe-2-Nutzerreview weiterhin offen.",
-    "v28": "V28: vier Juni-Porträts mit glatten Oberflächen, nach Nutzerfeedback Fellwirkung entfernt; eine Seite visuell geprüft, 25 andere Masterseiten unverändert gegenüber v27. Nutzerreview offen."
+    "v28": "V28: vier Juni-Porträts mit glatten Oberflächen, nach Nutzerfeedback Fellwirkung entfernt; eine Seite visuell geprüft, 25 andere Masterseiten unverändert gegenüber v27. Nutzerreview offen.",
+    "v29": "Sechs große Juni-Figuren nach Nutzerklärung korrigiert, zwölf Rückseiten mit einheitlicher scharfer nativer Schrift. Alle zwölf visuell geprüft; 365 Kalenderzahlen gerechnet; vierzehn übrige Seiten unverändert. Nutzerreview und Druckfreigabe offen.",
+    "v31": "V31: 151 Datumzahlen Januar-Mai nach rechts (12 Gestaltungseinheiten), ursprüngliche illustrierte Namensschilder lokal wiederhergestellt, zwölf Rätselaufgaben und Juni-Hinweise normal gesetzt, Februarfläche reduziert. Zwölf Rückseiten visuell geprüft, 14 andere Seiten unverändert. Nutzerreview offen; keine Druckfreigabe.",
+    "v32_review": "V32: zwölf Rückseiten nach Nutzerbeanstandung mit fester Zeichenhöhe je Textblock; 365 natürliche Ziffern neu gesetzt/eingerückt, lokale Feldränder restauriert. Zwölf Seiten geprüft, 14 andere unverändert; Nutzerreview/Druckprüfung offen.",
+    "editorial_v32": "07.10.2026: Redaktioneller Abgleich aller zwölf unteren v32-Seiten dokumentiert unter production/editorial/v32-audit/REVIEW.md. Längere Originaltexte nicht wortgleich zur nachgereichten Kurzfassung; Challenges August/November abweichend, Juni-Sternfund nicht im Fließtext. Januar-Aufgabe nennt weiterhin Nibbles und weicht vom festgelegten Text ab. Keine PDF-Änderung oder Freigabe."
   }
 }

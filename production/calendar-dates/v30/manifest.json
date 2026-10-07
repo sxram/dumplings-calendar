@@ -1,0 +1,951 @@
+{
+  "base": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v29.pdf",
+  "output": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v30.pdf",
+  "offset_design_units": 22,
+  "offset_mm": 4.379357797140304,
+  "changed_pages": [
+    3,
+    5,
+    7,
+    9,
+    11
+  ],
+  "unchanged_pages": 21,
+  "change_count": 151,
+  "months": [
+    {
+      "month": 1,
+      "dates": [
+        {
+          "day": 1,
+          "operation": 18607,
+          "x_before": 494.2578,
+          "x_after": 516.2578
+        },
+        {
+          "day": 2,
+          "operation": 18618,
+          "x_before": 614.4796,
+          "x_after": 636.4796
+        },
+        {
+          "day": 3,
+          "operation": 18629,
+          "x_before": 733.3784,
+          "x_after": 755.3784
+        },
+        {
+          "day": 4,
+          "operation": 18640,
+          "x_before": 24.76632,
+          "x_after": 46.76632
+        },
+        {
+          "day": 5,
+          "operation": 18651,
+          "x_before": 141.992,
+          "x_after": 163.992
+        },
+        {
+          "day": 6,
+          "operation": 18662,
+          "x_before": 260.2981,
+          "x_after": 282.2981
+        },
+        {
+          "day": 7,
+          "operation": 18673,
+          "x_before": 380.5584,
+          "x_after": 402.5584
+        },
+        {
+          "day": 8,
+          "operation": 18684,
+          "x_before": 497.5946,
+          "x_after": 519.5946
+        },
+        {
+          "day": 9,
+          "operation": 18695,
+          "x_before": 616.5906,
+          "x_after": 638.5906
+        },
+        {
+          "day": 10,
+          "operation": 18706,
+          "x_before": 731.2077,
+          "x_after": 753.2077
+        },
+        {
+          "day": 11,
+          "operation": 18717,
+          "x_before": 20.82121,
+          "x_after": 42.82121
+        },
+        {
+          "day": 12,
+          "operation": 18728,
+          "x_before": 139.2858,
+          "x_after": 161.2858
+        },
+        {
+          "day": 13,
+          "operation": 18739,
+          "x_before": 257.5927,
+          "x_after": 279.5927
+        },
+        {
+          "day": 14,
+          "operation": 18750,
+          "x_before": 376.0889,
+          "x_after": 398.0889
+        },
+        {
+          "day": 15,
+          "operation": 18761,
+          "x_before": 494.2846,
+          "x_after": 516.2846
+        },
+        {
+          "day": 16,
+          "operation": 18772,
+          "x_before": 612.8238,
+          "x_after": 634.8238
+        },
+        {
+          "day": 17,
+          "operation": 18783,
+          "x_before": 731.1243,
+          "x_after": 753.1243
+        },
+        {
+          "day": 18,
+          "operation": 18794,
+          "x_before": 21.08545,
+          "x_after": 43.08545
+        },
+        {
+          "day": 19,
+          "operation": 18805,
+          "x_before": 139.4283,
+          "x_after": 161.4283
+        },
+        {
+          "day": 20,
+          "operation": 18816,
+          "x_before": 259.5365,
+          "x_after": 281.5365
+        },
+        {
+          "day": 21,
+          "operation": 18827,
+          "x_before": 377.7787,
+          "x_after": 399.7787
+        },
+        {
+          "day": 22,
+          "operation": 18838,
+          "x_before": 496.1204,
+          "x_after": 518.1204
+        },
+        {
+          "day": 23,
+          "operation": 18849,
+          "x_before": 614.5312,
+          "x_after": 636.5312
+        },
+        {
+          "day": 24,
+          "operation": 18860,
+          "x_before": 732.9786,
+          "x_after": 754.9786
+        },
+        {
+          "day": 25,
+          "operation": 18871,
+          "x_before": 22.71839,
+          "x_after": 44.71839
+        },
+        {
+          "day": 26,
+          "operation": 18882,
+          "x_before": 141.1115,
+          "x_after": 163.1115
+        },
+        {
+          "day": 27,
+          "operation": 18893,
+          "x_before": 259.5148,
+          "x_after": 281.5148
+        },
+        {
+          "day": 28,
+          "operation": 18904,
+          "x_before": 377.8849,
+          "x_after": 399.8849
+        },
+        {
+          "day": 29,
+          "operation": 18915,
+          "x_before": 496.271,
+          "x_after": 518.271
+        },
+        {
+          "day": 30,
+          "operation": 18926,
+          "x_before": 615.125,
+          "x_after": 637.125
+        },
+        {
+          "day": 31,
+          "operation": 18937,
+          "x_before": 733.3834,
+          "x_after": 755.3834
+        }
+      ]
+    },
+    {
+      "month": 2,
+      "dates": [
+        {
+          "day": 1,
+          "operation": 21189,
+          "x_before": 21.81517,
+          "x_after": 43.815169999999995
+        },
+        {
+          "day": 2,
+          "operation": 21200,
+          "x_before": 141.6314,
+          "x_after": 163.6314
+        },
+        {
+          "day": 3,
+          "operation": 21211,
+          "x_before": 259.9923,
+          "x_after": 281.9923
+        },
+        {
+          "day": 4,
+          "operation": 21222,
+          "x_before": 379.4568,
+          "x_after": 401.4568
+        },
+        {
+          "day": 5,
+          "operation": 21233,
+          "x_before": 495.9773,
+          "x_after": 517.9773
+        },
+        {
+          "day": 6,
+          "operation": 21244,
+          "x_before": 613.6862,
+          "x_after": 635.6862
+        },
+        {
+          "day": 7,
+          "operation": 21255,
+          "x_before": 733.5448,
+          "x_after": 755.5448
+        },
+        {
+          "day": 8,
+          "operation": 21266,
+          "x_before": 25.48562,
+          "x_after": 47.48562
+        },
+        {
+          "day": 9,
+          "operation": 21277,
+          "x_before": 143.9535,
+          "x_after": 165.9535
+        },
+        {
+          "day": 10,
+          "operation": 21288,
+          "x_before": 257.6046,
+          "x_after": 279.6046
+        },
+        {
+          "day": 11,
+          "operation": 21299,
+          "x_before": 375.1172,
+          "x_after": 397.1172
+        },
+        {
+          "day": 12,
+          "operation": 21310,
+          "x_before": 493.0004,
+          "x_after": 515.0004
+        },
+        {
+          "day": 13,
+          "operation": 21321,
+          "x_before": 610.7104,
+          "x_after": 632.7104
+        },
+        {
+          "day": 14,
+          "operation": 21332,
+          "x_before": 728.6284,
+          "x_after": 750.6284
+        },
+        {
+          "day": 15,
+          "operation": 21343,
+          "x_before": 21.84459,
+          "x_after": 43.84459
+        },
+        {
+          "day": 16,
+          "operation": 21354,
+          "x_before": 139.81,
+          "x_after": 161.81
+        },
+        {
+          "day": 17,
+          "operation": 21365,
+          "x_before": 257.5128,
+          "x_after": 279.5128
+        },
+        {
+          "day": 18,
+          "operation": 21376,
+          "x_before": 375.4078,
+          "x_after": 397.4078
+        },
+        {
+          "day": 19,
+          "operation": 21387,
+          "x_before": 493.1573,
+          "x_after": 515.1573000000001
+        },
+        {
+          "day": 20,
+          "operation": 21398,
+          "x_before": 612.8485,
+          "x_after": 634.8485
+        },
+        {
+          "day": 21,
+          "operation": 21409,
+          "x_before": 730.4871,
+          "x_after": 752.4871
+        },
+        {
+          "day": 22,
+          "operation": 21420,
+          "x_before": 23.86404,
+          "x_after": 45.86404
+        },
+        {
+          "day": 23,
+          "operation": 21431,
+          "x_before": 141.6881,
+          "x_after": 163.6881
+        },
+        {
+          "day": 24,
+          "operation": 21442,
+          "x_before": 259.5525,
+          "x_after": 281.5525
+        },
+        {
+          "day": 25,
+          "operation": 21453,
+          "x_before": 377.2041,
+          "x_after": 399.2041
+        },
+        {
+          "day": 26,
+          "operation": 21464,
+          "x_before": 495.0087,
+          "x_after": 517.0087
+        },
+        {
+          "day": 27,
+          "operation": 21475,
+          "x_before": 612.8247,
+          "x_after": 634.8247
+        },
+        {
+          "day": 28,
+          "operation": 21486,
+          "x_before": 730.604,
+          "x_after": 752.604
+        }
+      ]
+    },
+    {
+      "month": 3,
+      "dates": [
+        {
+          "day": 1,
+          "operation": 22943,
+          "x_before": 23.45072,
+          "x_after": 45.450720000000004
+        },
+        {
+          "day": 2,
+          "operation": 22954,
+          "x_before": 142.3859,
+          "x_after": 164.3859
+        },
+        {
+          "day": 3,
+          "operation": 22965,
+          "x_before": 259.8659,
+          "x_after": 281.8659
+        },
+        {
+          "day": 4,
+          "operation": 22976,
+          "x_before": 378.4493,
+          "x_after": 400.4493
+        },
+        {
+          "day": 5,
+          "operation": 22987,
+          "x_before": 494.0888,
+          "x_after": 516.0888
+        },
+        {
+          "day": 6,
+          "operation": 22998,
+          "x_before": 610.9168,
+          "x_after": 632.9168
+        },
+        {
+          "day": 7,
+          "operation": 23009,
+          "x_before": 729.8944,
+          "x_after": 751.8944
+        },
+        {
+          "day": 8,
+          "operation": 23020,
+          "x_before": 27.12116,
+          "x_after": 49.12116
+        },
+        {
+          "day": 9,
+          "operation": 23031,
+          "x_before": 144.708,
+          "x_after": 166.708
+        },
+        {
+          "day": 10,
+          "operation": 23042,
+          "x_before": 257.4781,
+          "x_after": 279.4781
+        },
+        {
+          "day": 11,
+          "operation": 23053,
+          "x_before": 374.1097,
+          "x_after": 396.1097
+        },
+        {
+          "day": 12,
+          "operation": 23064,
+          "x_before": 491.112,
+          "x_after": 513.1120000000001
+        },
+        {
+          "day": 13,
+          "operation": 23075,
+          "x_before": 607.9409,
+          "x_after": 629.9409
+        },
+        {
+          "day": 14,
+          "operation": 23086,
+          "x_before": 724.9779,
+          "x_after": 746.9779
+        },
+        {
+          "day": 15,
+          "operation": 23097,
+          "x_before": 23.48013,
+          "x_after": 45.48013
+        },
+        {
+          "day": 16,
+          "operation": 23108,
+          "x_before": 140.5646,
+          "x_after": 162.5646
+        },
+        {
+          "day": 17,
+          "operation": 23119,
+          "x_before": 257.3863,
+          "x_after": 279.3863
+        },
+        {
+          "day": 18,
+          "operation": 23130,
+          "x_before": 374.4004,
+          "x_after": 396.4004
+        },
+        {
+          "day": 19,
+          "operation": 23141,
+          "x_before": 491.2688,
+          "x_after": 513.2688
+        },
+        {
+          "day": 20,
+          "operation": 23152,
+          "x_before": 610.0791,
+          "x_after": 632.0791
+        },
+        {
+          "day": 21,
+          "operation": 23163,
+          "x_before": 726.8367,
+          "x_after": 748.8367
+        },
+        {
+          "day": 22,
+          "operation": 23174,
+          "x_before": 25.49958,
+          "x_after": 47.49958
+        },
+        {
+          "day": 23,
+          "operation": 23185,
+          "x_before": 142.4427,
+          "x_after": 164.4427
+        },
+        {
+          "day": 24,
+          "operation": 23196,
+          "x_before": 259.426,
+          "x_after": 281.426
+        },
+        {
+          "day": 25,
+          "operation": 23207,
+          "x_before": 376.1966,
+          "x_after": 398.1966
+        },
+        {
+          "day": 26,
+          "operation": 23218,
+          "x_before": 493.1203,
+          "x_after": 515.1203
+        },
+        {
+          "day": 27,
+          "operation": 23229,
+          "x_before": 610.0552,
+          "x_after": 632.0552
+        },
+        {
+          "day": 28,
+          "operation": 23240,
+          "x_before": 726.9536,
+          "x_after": 748.9536
+        },
+        {
+          "day": 29,
+          "operation": 23251,
+          "x_before": 25.66515,
+          "x_after": 47.66515
+        },
+        {
+          "day": 30,
+          "operation": 23262,
+          "x_before": 143.0958,
+          "x_after": 165.0958
+        },
+        {
+          "day": 31,
+          "operation": 23273,
+          "x_before": 259.8713,
+          "x_after": 281.8713
+        }
+      ]
+    },
+    {
+      "month": 4,
+      "dates": [
+        {
+          "day": 1,
+          "operation": 22799,
+          "x_before": 355.9336,
+          "x_after": 377.9336
+        },
+        {
+          "day": 2,
+          "operation": 22810,
+          "x_before": 467.6597,
+          "x_after": 489.6597
+        },
+        {
+          "day": 3,
+          "operation": 22821,
+          "x_before": 577.9305,
+          "x_after": 599.9305
+        },
+        {
+          "day": 4,
+          "operation": 22832,
+          "x_before": 689.305,
+          "x_after": 711.305
+        },
+        {
+          "day": 5,
+          "operation": 22843,
+          "x_before": 29.99458,
+          "x_after": 51.99458
+        },
+        {
+          "day": 6,
+          "operation": 22854,
+          "x_before": 139.6135,
+          "x_after": 161.6135
+        },
+        {
+          "day": 7,
+          "operation": 22865,
+          "x_before": 251.382,
+          "x_after": 273.382
+        },
+        {
+          "day": 8,
+          "operation": 22876,
+          "x_before": 359.604,
+          "x_after": 381.604
+        },
+        {
+          "day": 9,
+          "operation": 22887,
+          "x_before": 469.9818,
+          "x_after": 491.9818
+        },
+        {
+          "day": 10,
+          "operation": 22898,
+          "x_before": 575.5428,
+          "x_after": 597.5428
+        },
+        {
+          "day": 11,
+          "operation": 22909,
+          "x_before": 684.9653,
+          "x_after": 706.9653
+        },
+        {
+          "day": 12,
+          "operation": 22920,
+          "x_before": 27.01777,
+          "x_after": 49.01777
+        },
+        {
+          "day": 13,
+          "operation": 22931,
+          "x_before": 136.6376,
+          "x_after": 158.6376
+        },
+        {
+          "day": 14,
+          "operation": 22942,
+          "x_before": 246.4655,
+          "x_after": 268.4655
+        },
+        {
+          "day": 15,
+          "operation": 22953,
+          "x_before": 355.963,
+          "x_after": 377.963
+        },
+        {
+          "day": 16,
+          "operation": 22964,
+          "x_before": 465.8383,
+          "x_after": 487.8383
+        },
+        {
+          "day": 17,
+          "operation": 22975,
+          "x_before": 575.451,
+          "x_after": 597.451
+        },
+        {
+          "day": 18,
+          "operation": 22986,
+          "x_before": 685.256,
+          "x_after": 707.256
+        },
+        {
+          "day": 19,
+          "operation": 22997,
+          "x_before": 27.17458,
+          "x_after": 49.17458
+        },
+        {
+          "day": 20,
+          "operation": 23008,
+          "x_before": 138.7758,
+          "x_after": 160.7758
+        },
+        {
+          "day": 21,
+          "operation": 23019,
+          "x_before": 248.3243,
+          "x_after": 270.3243
+        },
+        {
+          "day": 22,
+          "operation": 23030,
+          "x_before": 357.9824,
+          "x_after": 379.9824
+        },
+        {
+          "day": 23,
+          "operation": 23041,
+          "x_before": 467.7165,
+          "x_after": 489.7165
+        },
+        {
+          "day": 24,
+          "operation": 23052,
+          "x_before": 577.4907,
+          "x_after": 599.4907
+        },
+        {
+          "day": 25,
+          "operation": 23063,
+          "x_before": 687.0522,
+          "x_after": 709.0522
+        },
+        {
+          "day": 26,
+          "operation": 23074,
+          "x_before": 29.02602,
+          "x_after": 51.02602
+        },
+        {
+          "day": 27,
+          "operation": 23085,
+          "x_before": 138.7519,
+          "x_after": 160.7519
+        },
+        {
+          "day": 28,
+          "operation": 23096,
+          "x_before": 248.4411,
+          "x_after": 270.4411
+        },
+        {
+          "day": 29,
+          "operation": 23107,
+          "x_before": 358.148,
+          "x_after": 380.148
+        },
+        {
+          "day": 30,
+          "operation": 23118,
+          "x_before": 468.3696,
+          "x_after": 490.3696
+        }
+      ]
+    },
+    {
+      "month": 5,
+      "dates": [
+        {
+          "day": 1,
+          "operation": 18567,
+          "x_before": 569.4999,
+          "x_after": 591.4999
+        },
+        {
+          "day": 2,
+          "operation": 18578,
+          "x_before": 680.4767,
+          "x_after": 702.4767
+        },
+        {
+          "day": 3,
+          "operation": 18589,
+          "x_before": 26.33128,
+          "x_after": 48.33128
+        },
+        {
+          "day": 4,
+          "operation": 18600,
+          "x_before": 136.9883,
+          "x_after": 158.9883
+        },
+        {
+          "day": 5,
+          "operation": 18611,
+          "x_before": 244.969,
+          "x_after": 266.969
+        },
+        {
+          "day": 6,
+          "operation": 18622,
+          "x_before": 354.0301,
+          "x_after": 376.0301
+        },
+        {
+          "day": 7,
+          "operation": 18633,
+          "x_before": 465.0455,
+          "x_after": 487.0455
+        },
+        {
+          "day": 8,
+          "operation": 18644,
+          "x_before": 572.8367,
+          "x_after": 594.8367
+        },
+        {
+          "day": 9,
+          "operation": 18655,
+          "x_before": 682.5877,
+          "x_after": 704.5877
+        },
+        {
+          "day": 10,
+          "operation": 18666,
+          "x_before": 24.16063,
+          "x_after": 46.16063
+        },
+        {
+          "day": 11,
+          "operation": 18677,
+          "x_before": 133.0432,
+          "x_after": 155.0432
+        },
+        {
+          "day": 12,
+          "operation": 18688,
+          "x_before": 242.2628,
+          "x_after": 264.26279999999997
+        },
+        {
+          "day": 13,
+          "operation": 18699,
+          "x_before": 351.3248,
+          "x_after": 373.3248
+        },
+        {
+          "day": 14,
+          "operation": 18710,
+          "x_before": 460.5759,
+          "x_after": 482.5759
+        },
+        {
+          "day": 15,
+          "operation": 18721,
+          "x_before": 569.5267,
+          "x_after": 591.5267
+        },
+        {
+          "day": 16,
+          "operation": 18732,
+          "x_before": 678.8209,
+          "x_after": 700.8209
+        },
+        {
+          "day": 17,
+          "operation": 18743,
+          "x_before": 24.07718,
+          "x_after": 46.07718
+        },
+        {
+          "day": 18,
+          "operation": 18754,
+          "x_before": 133.3075,
+          "x_after": 155.3075
+        },
+        {
+          "day": 19,
+          "operation": 18765,
+          "x_before": 242.4054,
+          "x_after": 264.4054
+        },
+        {
+          "day": 20,
+          "operation": 18776,
+          "x_before": 353.2686,
+          "x_after": 375.2686
+        },
+        {
+          "day": 21,
+          "operation": 18787,
+          "x_before": 462.2657,
+          "x_after": 484.2657
+        },
+        {
+          "day": 22,
+          "operation": 18798,
+          "x_before": 571.3625,
+          "x_after": 593.3625
+        },
+        {
+          "day": 23,
+          "operation": 18809,
+          "x_before": 680.5283,
+          "x_after": 702.5283
+        },
+        {
+          "day": 24,
+          "operation": 18820,
+          "x_before": 25.93144,
+          "x_after": 47.931439999999995
+        },
+        {
+          "day": 25,
+          "operation": 18831,
+          "x_before": 134.9404,
+          "x_after": 156.9404
+        },
+        {
+          "day": 26,
+          "operation": 18842,
+          "x_before": 244.0885,
+          "x_after": 266.0885
+        },
+        {
+          "day": 27,
+          "operation": 18853,
+          "x_before": 353.2469,
+          "x_after": 375.2469
+        },
+        {
+          "day": 28,
+          "operation": 18864,
+          "x_before": 462.372,
+          "x_after": 484.372
+        },
+        {
+          "day": 29,
+          "operation": 18875,
+          "x_before": 571.513,
+          "x_after": 593.513
+        },
+        {
+          "day": 30,
+          "operation": 18886,
+          "x_before": 681.1221,
+          "x_after": 703.1221
+        },
+        {
+          "day": 31,
+          "operation": 18897,
+          "x_before": 26.33625,
+          "x_after": 48.33625
+        }
+      ]
+    }
+  ],
+  "visual_review": "pending",
+  "user_review": "pending",
+  "print_status": "not_released"
+}

@@ -1,0 +1,699 @@
+{
+  "base": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v30.pdf",
+  "sources": {
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v29.pdf": "0e715f0979e38735a6fcf1a39d329c6e82208a534f89e19897085259976c5065",
+    "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v30.pdf": "55720d3941d95ba1b6b6ee6117f8774eef074ab4ed59d905408d1ce897fad131",
+    "tools/refine-labels-tasks-v31.py": "f76fb6c2863e04cf4b84b957235c812312de09dbaef2f672db39c2868da43d3f"
+  },
+  "months": [
+    {
+      "month": 1,
+      "task": {
+        "text": "Help Nibbles find the golden star! Use the footprints to find the right way through the snowy forest. There are many dead ends - can you make it to the star?",
+        "font": "ChalkboardSE regular embedded",
+        "size": 14.5,
+        "leading": 16.384999999999998,
+        "lines": [
+          "Help Nibbles find the golden star! Use",
+          "the footprints to find the right way",
+          "through the snowy forest. There are",
+          "many dead ends - can you make it to",
+          "the star?"
+        ],
+        "box": [
+          1193,
+          394,
+          1470,
+          480
+        ],
+        "horizontal_stretch": false
+      },
+      "title": {
+        "text": "Follow the Footprints!",
+        "status": "retained unchanged from v29"
+      },
+      "clues": [],
+      "restored_brand": [
+        25,
+        45,
+        176,
+        140
+      ],
+      "original_brand_unchanged": false,
+      "restored_may_small_sign": false,
+      "removed_text_tokens": [
+        "Giggle",
+        "Dumplings",
+        "Help Nibbles find the golden star!",
+        "Use the footprints to find the right way",
+        "through the snowy forest. There are many",
+        "dead ends - can you make it to the star?"
+      ],
+      "visual_review": "checked in final twelve-page render; user review pending",
+      "user_review": "pending"
+    },
+    {
+      "month": 2,
+      "task": {
+        "text": "Follow each path. Which mailbox gets each letter?",
+        "font": "ChalkboardSE regular embedded",
+        "size": 21.5,
+        "leading": 24.294999999999998,
+        "lines": [
+          "Follow each path. Which",
+          "mailbox gets each letter?"
+        ],
+        "box": [
+          1177,
+          448,
+          1443,
+          501
+        ],
+        "horizontal_stretch": false
+      },
+      "title": {
+        "text": "Special Delivery",
+        "status": "retained unchanged from v29"
+      },
+      "clues": [],
+      "restored_brand": [
+        25,
+        45,
+        176,
+        140
+      ],
+      "original_brand_unchanged": false,
+      "restored_may_small_sign": false,
+      "removed_text_tokens": [
+        "Giggle",
+        "Dumplings",
+        "Follow",
+        "each",
+        "path.",
+        "Which",
+        "mailbox",
+        "gets",
+        "each",
+        "letter?"
+      ],
+      "visual_review": "checked in final twelve-page render; user review pending",
+      "user_review": "pending"
+    },
+    {
+      "month": 3,
+      "task": {
+        "text": "What comes next? Complete the two patterns!",
+        "font": "ChalkboardSE regular embedded",
+        "size": 20.0,
+        "leading": 22.599999999999998,
+        "lines": [
+          "What comes next?",
+          "Complete the two patterns!"
+        ],
+        "box": [
+          1118,
+          453,
+          1380,
+          512
+        ],
+        "horizontal_stretch": false
+      },
+      "title": {
+        "text": "Seed Trail",
+        "status": "retained unchanged from v29"
+      },
+      "clues": [],
+      "restored_brand": [
+        25,
+        45,
+        176,
+        140
+      ],
+      "original_brand_unchanged": false,
+      "restored_may_small_sign": false,
+      "removed_text_tokens": [
+        "Giggle",
+        "Dumplings",
+        "What",
+        "comes",
+        "next?",
+        "Complete",
+        "the",
+        "two",
+        "patterns!"
+      ],
+      "visual_review": "checked in final twelve-page render; user review pending",
+      "user_review": "pending"
+    },
+    {
+      "month": 4,
+      "task": {
+        "text": "Two eggs are exactly the same. Can you find them?",
+        "font": "ChalkboardSE regular embedded",
+        "size": 22.5,
+        "leading": 25.424999999999997,
+        "lines": [
+          "Two eggs are exactly",
+          "the same. Can you find",
+          "them?"
+        ],
+        "box": [
+          1190,
+          435,
+          1449,
+          516
+        ],
+        "horizontal_stretch": false
+      },
+      "title": {
+        "text": "Find the Matching Eggs!",
+        "status": "retained unchanged from v29"
+      },
+      "clues": [],
+      "restored_brand": [
+        25,
+        45,
+        176,
+        140
+      ],
+      "original_brand_unchanged": false,
+      "restored_may_small_sign": false,
+      "removed_text_tokens": [
+        "Giggle",
+        "Dumplings",
+        "Two",
+        "eggs",
+        "are",
+        "exactly",
+        "the",
+        "same.",
+        "Can",
+        "you",
+        "find",
+        "them?"
+      ],
+      "visual_review": "checked in final twelve-page render; user review pending",
+      "user_review": "pending"
+    },
+    {
+      "month": 5,
+      "task": {
+        "text": "Eight butterflies are hiding in the picture. Can you find them all?",
+        "font": "ChalkboardSE regular embedded",
+        "size": 20.0,
+        "leading": 22.599999999999998,
+        "lines": [
+          "Eight butterflies are hiding in",
+          "the picture. Can you find them",
+          "all?"
+        ],
+        "box": [
+          1157,
+          397,
+          1465,
+          469
+        ],
+        "horizontal_stretch": false
+      },
+      "title": {
+        "text": "Find the Butterflies!",
+        "status": "retained unchanged from v29"
+      },
+      "clues": [],
+      "restored_brand": [
+        25,
+        45,
+        176,
+        140
+      ],
+      "original_brand_unchanged": false,
+      "restored_may_small_sign": true,
+      "removed_text_tokens": [
+        "Giggle",
+        "Dumplings",
+        "Happy",
+        "Nature",
+        "Happy",
+        "Future",
+        "A Rriahter",
+        "Eight",
+        "butterflies",
+        "are",
+        "hiding",
+        "in",
+        "the",
+        "picture.",
+        "Can",
+        "you",
+        "find",
+        "them",
+        "all?"
+      ],
+      "visual_review": "checked in final twelve-page render; user review pending",
+      "user_review": "pending"
+    },
+    {
+      "month": 6,
+      "task": {
+        "text": "The strawberries are gone! Read the clues and find out who took them.",
+        "font": "ChalkboardSE regular embedded",
+        "size": 16.5,
+        "leading": 18.645,
+        "lines": [
+          "The strawberries are gone! Read the clues and find out who took them."
+        ],
+        "box": [
+          899,
+          725,
+          1464,
+          767
+        ],
+        "horizontal_stretch": false
+      },
+      "title": {
+        "text": "Who Took the Strawberries?",
+        "status": "retained unchanged from v29"
+      },
+      "clues": [
+        {
+          "text": "Clue 1: Small footprints were found beside the basket.",
+          "font": "ChalkboardSE regular embedded",
+          "size": 17,
+          "leading": 19.209999999999997,
+          "lines": [
+            "Clue 1: Small footprints were found",
+            "beside the basket."
+          ],
+          "box": [
+            1142,
+            772,
+            1460,
+            819
+          ],
+          "horizontal_stretch": false
+        },
+        {
+          "text": "Clue 2: Whoever took the strawberries did not have wings.",
+          "font": "ChalkboardSE regular embedded",
+          "size": 17,
+          "leading": 19.209999999999997,
+          "lines": [
+            "Clue 2: Whoever took the strawberries",
+            "did not have wings."
+          ],
+          "box": [
+            1142,
+            820,
+            1460,
+            867
+          ],
+          "horizontal_stretch": false
+        },
+        {
+          "text": "Clue 3: A turquoise circle was found beside the empty basket.",
+          "font": "ChalkboardSE regular embedded",
+          "size": 17,
+          "leading": 19.209999999999997,
+          "lines": [
+            "Clue 3: A turquoise circle was found",
+            "beside the empty basket."
+          ],
+          "box": [
+            1142,
+            868,
+            1460,
+            915
+          ],
+          "horizontal_stretch": false
+        }
+      ],
+      "restored_brand": [
+        17,
+        44,
+        163,
+        141
+      ],
+      "original_brand_unchanged": false,
+      "restored_may_small_sign": false,
+      "removed_text_tokens": [
+        "Giggle",
+        "Dumplings",
+        "The",
+        "strawberries",
+        "are",
+        "gone!",
+        "Read",
+        "the",
+        "clues",
+        "and",
+        "find",
+        "out",
+        "who",
+        "took",
+        "them.",
+        "Clue",
+        "1:",
+        "Small",
+        "footprints",
+        "were",
+        "found",
+        "beside",
+        "the",
+        "basket.",
+        "Clue",
+        "2:",
+        "Whoever",
+        "took",
+        "the",
+        "strawberries",
+        "did",
+        "not",
+        "have",
+        "wings.",
+        "Clue",
+        "3:",
+        "A",
+        "turquoise",
+        "circle",
+        "was",
+        "found",
+        "beside",
+        "the",
+        "empty",
+        "basket."
+      ],
+      "visual_review": "checked in final twelve-page render; user review pending",
+      "user_review": "pending"
+    },
+    {
+      "month": 7,
+      "task": {
+        "text": "Look carefully! Which shadow matches the sandcastle exactly?",
+        "font": "ChalkboardSE regular embedded",
+        "size": 19.5,
+        "leading": 22.034999999999997,
+        "lines": [
+          "Look carefully! Which shadow matches the sandcastle exactly?"
+        ],
+        "box": [
+          875,
+          742,
+          1450,
+          774
+        ],
+        "horizontal_stretch": false
+      },
+      "title": {
+        "text": "Which Shadow Belongs to the Castle?",
+        "status": "retained unchanged from v29"
+      },
+      "clues": [],
+      "restored_brand": [
+        17,
+        44,
+        163,
+        141
+      ],
+      "original_brand_unchanged": false,
+      "restored_may_small_sign": false,
+      "removed_text_tokens": [
+        "Giggle",
+        "Dumplings",
+        "Look",
+        "carefully!",
+        "Which",
+        "shadow",
+        "matches",
+        "the",
+        "sandcastle",
+        "exactly?"
+      ],
+      "visual_review": "checked in final twelve-page render; user review pending",
+      "user_review": "pending"
+    },
+    {
+      "month": 8,
+      "task": {
+        "text": "Match each woodland animal to its home.",
+        "font": "ChalkboardSE regular embedded",
+        "size": 22.0,
+        "leading": 24.86,
+        "lines": [
+          "Match each woodland animal to its home."
+        ],
+        "box": [
+          887,
+          679,
+          1332,
+          708
+        ],
+        "horizontal_stretch": false
+      },
+      "title": {
+        "text": "Who Lives Here?",
+        "status": "retained unchanged from v29"
+      },
+      "clues": [],
+      "restored_brand": [
+        17,
+        44,
+        163,
+        141
+      ],
+      "original_brand_unchanged": false,
+      "restored_may_small_sign": false,
+      "removed_text_tokens": [
+        "Giggle",
+        "Dimplings",
+        "Match",
+        "each",
+        "woodland",
+        "animal",
+        "to",
+        "its",
+        "home."
+      ],
+      "visual_review": "checked in final twelve-page render; user review pending",
+      "user_review": "pending"
+    },
+    {
+      "month": 9,
+      "task": {
+        "text": "These two pictures look almost the same. Can you find all 6 differences?",
+        "font": "ChalkboardSE regular embedded",
+        "size": 15.5,
+        "leading": 17.514999999999997,
+        "lines": [
+          "These two pictures look almost the same. Can you find all 6 differences?"
+        ],
+        "box": [
+          902,
+          686,
+          1441,
+          720
+        ],
+        "horizontal_stretch": false
+      },
+      "title": {
+        "text": "Find the 6 Differences!",
+        "status": "retained unchanged from v29"
+      },
+      "clues": [],
+      "restored_brand": [
+        17,
+        44,
+        163,
+        141
+      ],
+      "original_brand_unchanged": false,
+      "restored_may_small_sign": false,
+      "removed_text_tokens": [
+        "Giggle",
+        "Dumplings",
+        "These",
+        "two",
+        "pictures",
+        "look",
+        "almost",
+        "the",
+        "same.",
+        "Can",
+        "you",
+        "find",
+        "all",
+        "6",
+        "differences?"
+      ],
+      "visual_review": "checked in final twelve-page render; user review pending",
+      "user_review": "pending"
+    },
+    {
+      "month": 10,
+      "task": {
+        "text": "Find the 5 matching pairs. Which 2 pumpkins are left without a partner?",
+        "font": "ChalkboardSE regular embedded",
+        "size": 19.5,
+        "leading": 22.034999999999997,
+        "lines": [
+          "Find the 5 matching pairs. Which 2",
+          "pumpkins are left without a partner?"
+        ],
+        "box": [
+          1084,
+          634,
+          1432,
+          690
+        ],
+        "horizontal_stretch": false
+      },
+      "title": {
+        "text": "Pumpkin Pairs",
+        "status": "retained unchanged from v29"
+      },
+      "clues": [],
+      "restored_brand": [
+        17,
+        44,
+        163,
+        141
+      ],
+      "original_brand_unchanged": false,
+      "restored_may_small_sign": false,
+      "removed_text_tokens": [
+        "Giggle",
+        "Dumplings",
+        "Find",
+        "the",
+        "5",
+        "matching",
+        "pairs.",
+        "Which",
+        "2",
+        "pumpkins",
+        "are",
+        "left",
+        "without",
+        "a",
+        "partner?"
+      ],
+      "visual_review": "checked in final twelve-page render; user review pending",
+      "user_review": "pending"
+    },
+    {
+      "month": 11,
+      "task": {
+        "text": "What happened first? Put the 4 pictures in the correct order.",
+        "font": "ChalkboardSE regular embedded",
+        "size": 16.0,
+        "leading": 18.08,
+        "lines": [
+          "What happened first? Put the 4",
+          "pictures in the correct order."
+        ],
+        "box": [
+          1227,
+          644,
+          1472,
+          698
+        ],
+        "horizontal_stretch": false
+      },
+      "title": {
+        "text": "Put the Storm Story in Order!",
+        "status": "retained unchanged from v29"
+      },
+      "clues": [],
+      "restored_brand": null,
+      "original_brand_unchanged": true,
+      "restored_may_small_sign": false,
+      "removed_text_tokens": [
+        "What",
+        "happened",
+        "first?",
+        "Put",
+        "the",
+        "4",
+        "pictures",
+        "in",
+        "the",
+        "correct",
+        "order."
+      ],
+      "visual_review": "checked in final twelve-page render; user review pending",
+      "user_review": "pending"
+    },
+    {
+      "month": 12,
+      "task": {
+        "text": "One piece is missing. Which piece completes the star exactly?",
+        "font": "ChalkboardSE regular embedded",
+        "size": 18.0,
+        "leading": 20.339999999999996,
+        "lines": [
+          "One piece is missing. Which piece",
+          "completes the star exactly?"
+        ],
+        "box": [
+          1185,
+          662,
+          1471,
+          728
+        ],
+        "horizontal_stretch": false
+      },
+      "title": {
+        "text": "Complete the Last Star!",
+        "status": "retained unchanged from v29"
+      },
+      "clues": [],
+      "restored_brand": [
+        169,
+        85,
+        313,
+        182
+      ],
+      "original_brand_unchanged": false,
+      "restored_may_small_sign": false,
+      "removed_text_tokens": [
+        "GIGGLE",
+        "HOUSE",
+        "One",
+        "piece",
+        "is",
+        "missing.",
+        "Which",
+        "piece",
+        "completes",
+        "the",
+        "star",
+        "exactly?"
+      ],
+      "visual_review": "checked in final twelve-page render; user review pending",
+      "user_review": "pending"
+    }
+  ],
+  "changed_pages": [
+    3,
+    5,
+    7,
+    9,
+    11,
+    13,
+    15,
+    17,
+    19,
+    21,
+    23,
+    25
+  ],
+  "visual_review": "all twelve lower pages checked",
+  "user_review": "pending",
+  "print_status": "not_released",
+  "image_generation_calls": 0,
+  "calendar_shift_from_v29_design_units": 12,
+  "calendar_date_count_shifted": 151,
+  "output": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v31.pdf",
+  "unchanged_other_pages": 14,
+  "verification": "All declared task text lines and titles retained as native PDF text; other 14 pages content/images unchanged versus v29.",
+  "date": "2026-10-07"
+}

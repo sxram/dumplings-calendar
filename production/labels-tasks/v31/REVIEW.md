@@ -1,0 +1,8 @@
+# v31 — Arbeitsmaster, Nutzerreview offen
+
+- Januar bis Mai: alle 151 nativen Datumszahlen um 12 Gestaltungseinheiten (ca. 2,39 mm) nach rechts gegenüber v29 gerückt. Gleicher Abstand je Monat, Größe/Höhe und Kalenderdaten erhalten. Der größere interne v30-Abstand wurde im finalen v31 begrenzt, um Blumen/Herzen nicht zu berühren.
+- Alle zwölf unteren Seiten auf Namensschilder geprüft: zehn Giggle-Dumplings-Schilder und Dezember Giggle House aus unveränderten Originalquellen mit lokalen PDF-Clips wiederhergestellt; November hatte keine in v29 ersetzte Beschriftung. Mai zusätzlich ursprüngliches kleines Happy-Nature-Schild erhalten. Illustrative Eigennamen/Schilder sind nach Nutzervorgabe von der einheitlichen Textfarbe ausgenommen. Alle oberen Seiten/Front/Schlussseite wurden nicht verändert.
+- Zwölf Rätselaufgaben und drei Juni-Hinweise als normale Absätze mit jeweils fester Schriftgröße und natürlichen Buchstabenproportionen gesetzt; keine Anpassung einzelner Wörter oder horizontale Streckung. Überschriften und Rätselgeometrien aus v29 erhalten. Januar benötigt wegen des längeren Originalwortlauts eine kleinere Satzgröße.
+- Februar Aufgabenhintergrund von 91 auf 53 Gestaltungseinheiten Höhe begrenzt. Frei werdender kleiner Streifen mit benachbarter Original-Winterszene gefüllt; keine Bildgenerierung.
+
+Alle zwölf finalen Rückseiten visuell geprüft. Aufgaben/Überschriften erhalten; 14 andere Masterseiten samt Bilddaten unverändert gegenüber v29 geprüft. Originalquellen/ältere PDFs erhalten. Nutzerreview, Januar-Wegführung/Nibbles-Bao-Widerspruch, Wortlautabgleich zur nachgereichten Fassung und Druckprüfung offen. V30 ist ein überholter interner Zwischenstand, nicht auswählen.

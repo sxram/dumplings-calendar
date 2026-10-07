@@ -1,0 +1,201 @@
+{
+  "master": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v32.pdf",
+  "source": "update_26-10-02/giggle_dumplings_2027_current_master_v4.pdf",
+  "source_sha256": "127549545f169456743a346accb2db341c1854af6d762907b1798de1dd91e16d",
+  "master_sha256": "b59e46f1c2ed016c96bafad243fca3cc3715aa8bb306921d442e5da1291c1f94",
+  "method": "Native PDF text plus existing v32 line manifest; no render/OCR/image generation; no PDF edits",
+  "months": [
+    {
+      "month": 1,
+      "page": 3,
+      "current_editorial": {
+        "story": "Adventures It's a bright and snowy day and the Giggle Dumplings discover mysterious footprints in the fresh snow. Together they follow the trail through the forest, across frozen streams and up to a little hill. What will they find at the end of the footprints? Their journey has just begun!",
+        "job": "Winter Ranger Bao Explores the snowy world Looks for animal tracks Keeps the team on track Believes in big adventures Nature always has amazing stories to tell!",
+        "challenge": "Make someone smile on a cold day. It can be a kind word, a small help or a nice drawing! Kindness makes the world warmer!",
+        "footer-left": "Did you know? Different animals leave different footprints in the snow. Can you match them to the right animal?",
+        "footer-right": "Fox Deer Squirrel Bird Rabbit"
+      },
+      "recovered_page_text": "January\n2\n0\n2\n7\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nSunday\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\nThe First Star\nThe Dumplings discover mysterious footprints in the snow. The trail leads them\nthrough the winter forest to the first golden star.\nFollow the Footprints!\nBao's Job This Month\nWinter Ranger Bao\nTracks footprints\nGuides the team\nKnows winter safety\nGiggle Challenge\nMake someone smile on a cold day.\nDid you know?\nFresh snow can preserve animal tracks for hours.\n",
+      "recovered_job": "Winter Ranger Bao Tracks footprints Guides the team Knows winter safety",
+      "recovered_challenge": "Make someone smile on a cold day.",
+      "recovered_fact": "Fresh snow can preserve animal tracks for hours.",
+      "manifest_lines_verified_in_master": true
+    },
+    {
+      "month": 2,
+      "page": 5,
+      "current_editorial": {
+        "story": "It's February and the Giggle Dumplings spread friendship notes throughout the snowy village. Mail Carrier Bao delivers four special letters to different mailboxes. Following the last note, they cross the old stone bridge-and there it is: the second shining star! Two stars sparkle now, and the Dumplings wonder: what other adventures are still waiting?",
+        "job": "Mail Carrier Bao Delivers friendship notes Brings joy to the village Helps friends stay connected Believes in the power of kind words A small note POST can make a big difference!",
+        "challenge": "Leave someone a kind little note. It can be a thank you, a friendly message or a drawing! Kindness travels far!",
+        "footer-left": "Even a small message can make someone smile, Did you know? and a smile can brighten their whole day!",
+        "footer-right": "Kindness helps friends, families and communities feel happier and more connected"
+      },
+      "recovered_page_text": "February\n2\n0\n2\n7\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nSunday\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\nThe Secret Valentine\nFriendly letters lead the Dumplings through the snowy village. At the old bridge\nthey discover the second golden star.\nSpecial Delivery\nA\nB\nC\nD\nBao's Job This Month\nMail Carrier Bao\nCarries letters\nFinds addresses\nDelivers kind notes\nGiggle Challenge\nLeave someone a kind little note.\nDid you know?\nHandwritten notes can make people feel remembered.\n",
+      "recovered_job": "Mail Carrier Bao Carries letters Finds addresses Delivers kind notes",
+      "recovered_challenge": "Leave someone a kind little note.",
+      "recovered_fact": "Handwritten notes can make people feel remembered.",
+      "manifest_lines_verified_in_master": true
+    },
+    {
+      "month": 3,
+      "page": 7,
+      "current_editorial": {
+        "story": "In March, spring arrives in the village and the Giggle Dumplings want to plant seeds in the garden. Gardener Bao notices a little trail of seeds on the ground. Curious, he follows the trail through the village and fields. At the old tree, he makes a surprising discovery - the trail led to a third shining star! But then Bao realizes the reason for the missing seeds: his own seed bag has a small hole! Even small mistakes can lead to wonderful adventures!",
+        "job": "Gardener Bao Plants seeds and flowers Cares for the village garden Helps nature and animal friends Shows that patience leads to beautiful results A greener world starts with small steps!",
+        "challenge": "Plant something (or take care of a plant). It can be a flower, a herb or even just a small seed in a pot! Seeds Kindness helps things grow!",
+        "footer-left": "Did you know? Seeds can travel in many ways - by wind, by water, by animals or even on people's shoes! In nature, everything is connected.",
+        "footer-right": "Healthy plants make clean air, provide food for animals and create colorful places for everyone to enjoy."
+      },
+      "recovered_page_text": "March\n2\n0\n2\n7\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nSunday\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\nThe Missing Seeds\nA bag of special seeds has gone missing. A tiny trail reveals a hole in Bao's own\nbag - and the third star.\nSeed Trail\n\u0000\n\u0000\n\u0000\n\u0000\n?\n\u0000\n\u0000\n\u0000\n\u0000\n\u0000\n\u0000\n?\n\u0000\n\u0000\n\u0000\n\u0000\n\u0000\n\u0000\n?\nBao's Job This Month\nGardener Bao\nPlants seeds\nChecks the soil\nCares for sprouts\nGiggle Challenge\nPlant or care for something green.\nDid you know?\nSeeds need the right mix of water, air and warmth.\n",
+      "recovered_job": "Gardener Bao Plants seeds Checks the soil Cares for sprouts",
+      "recovered_challenge": "Plant or care for something green.",
+      "recovered_fact": "Seeds need the right mix of water, air and warmth.",
+      "manifest_lines_verified_in_master": true
+    },
+    {
+      "month": 4,
+      "page": 9,
+      "current_editorial": {
+        "story": "In April, the Giggle Dumplings explore the village and discover a huge, mysterious egg in the meadow! Egg Detective Bao investigates and follows a trail of colorful eggs. Inside the giant egg, they find the fourth shining star! What a surprise! Maybe there are still more special eggs waiting somewhere?",
+        "job": "Egg Detective Bao Explores the village Follows curious clues Helps friends find lost things Brings joy and surprises Believes that curiosity opens new adventures Small discoveries can lead to big happiness!",
+        "challenge": "Hide a little surprise for someone. It can be a note, a small treat or a kind message. Make their day brighter! Kindness spreads happiness!",
+        "footer-left": "Did you know? Many animals lay eggs - not only birds! Turtles, frogs, snakes and even some lizards lay eggs, too.",
+        "footer-right": "Curiosity, kindness and small surprises can make the world a happier place!"
+      },
+      "recovered_page_text": "April\n2\n0\n2\n7\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nSunday\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\nThe Giant Egg\nThe Dumplings discover a giant mysterious egg. When the secret is revealed, the\nfourth golden star is waiting inside.\nFind the Matching Eggs\nBao's Job This Month\nEgg Detective Bao\nStudies clues\nExamines the egg\nRecords discoveries\nGiggle Challenge\nHide a little surprise for someone.\nDid you know?\nEggshell patterns and colors can vary greatly in nature.\n",
+      "recovered_job": "Egg Detective Bao Studies clues Examines the egg Records discoveries",
+      "recovered_challenge": "Hide a little surprise for someone.",
+      "recovered_fact": "Eggshell patterns and colors can vary greatly in nature.",
+      "manifest_lines_verified_in_master": true
+    },
+    {
+      "month": 5,
+      "page": 11,
+      "current_editorial": {
+        "story": "In May, the Giggle Dumplings follow a trail of beautiful butterflies through the blooming meadows to a very old tree at the edge of the forest. Inside the tree hollow, they find the fifth shining star! The butterflies show them that nature is full of little wonders. Where will the next adventure lead?",
+        "job": "Butterfly Explorer Bao Follows the butterflies Observes nature closely Learns about flowers and insects Helps to protect habitats Shares the beauty of nature with friends Small discoveries can lead to big happiness!",
+        "challenge": "Do something good for nature! For example: Plant a flower or a small herb Water a plant Pick up litter Build a small insect hotel Look for butterflies and other insects",
+        "footer-left": "Did you know? Butterflies help flowers grow by carrying pollen. They need clean air, colorful meadows and many different plants",
+        "footer-right": "Together we can make a big difference - for the butterflies, for the animals and for our future!"
+      },
+      "recovered_page_text": "May\n2\n0\n2\n7\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nSunday\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\nThe Butterfly Trail\nA trail of butterflies leads the friends across the meadow to an old tree hollow,\nwhere they discover star number five.\nFind the Butterflies\nFind exactly 8 butterflies.\nBao's Job This Month\nButterfly Explorer Bao\nWatches butterflies\nStudies nature\nFollows tiny clues\nGiggle Challenge\nDo one small thing to help nature.\nDid you know?\nButterflies taste with sensors on their feet.\n",
+      "recovered_job": "Butterfly Explorer Bao Watches butterflies Studies nature Follows tiny clues",
+      "recovered_challenge": "Do one small thing to help nature.",
+      "recovered_fact": "Butterflies taste with sensors on their feet.",
+      "manifest_lines_verified_in_master": true
+    },
+    {
+      "month": 6,
+      "page": 13,
+      "current_editorial": {
+        "story": "In June, the Giggle Dumplings plan a picnic in the meadows. But when they arrive, their strawberries are missing! Can they find out who took them?",
+        "job": "Looks for clues Finds what's missing Learns about nature and how to take care of it",
+        "challenge": "Be thoughtful and share with others! A picnic is even more fun when everyone has something to enjoy. How can you make someone else's day brighter?",
+        "footer-left": "Picnics are a great way to enjoy nature. Did you know? Please always leave the place clean for others!",
+        "footer-right": "Kind People Make a Brighter World"
+      },
+      "recovered_page_text": "June\n2\n0\n2\n7\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nSunday\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\nThe Picnic Mystery\nDuring a lakeside picnic the strawberries disappear. The clues lead to Nibbles -\nand to the sixth golden star near the dock.\nPicnic Clues\n\u0000  The basket is not by the tree.\n\u0000  Nibbles was near the dock.\n\u0000  The berries were beside something blue.\n\u0000  Which clue solves the mystery?\nBao's Job This Month\nPicnic Inspector Bao\nChecks picnic clues\nUses a clipboard\nSolves snack mysteries\nGiggle Challenge\nShare a snack with someone.\nDid you know?\nPicnics became especially popular in Europe in the 1800s.\n",
+      "recovered_job": "Picnic Inspector Bao Checks picnic clues Uses a clipboard Solves snack mysteries",
+      "recovered_challenge": "Share a snack with someone.",
+      "recovered_fact": "Picnics became especially popular in Europe in the 1800s.",
+      "manifest_lines_verified_in_master": true
+    },
+    {
+      "month": 7,
+      "page": 15,
+      "current_editorial": {
+        "story": "In July, the Giggle Dumplings build a giant sandcastle at the beach. While digging a new tower, they discover a sparkling star! Can you find where the star was hidden?",
+        "job": "Plans the sandcastle Measures and builds Finds the best place for towers Learns about sand, the sea and the animals that live there",
+        "challenge": "Build something together! Working together makes everything more fun. This month, build or create something with someone else. It can be a sandcastle, a cushion fort, a drawing or anything you like!",
+        "footer-left": "Did you know? Wet sand sticks together much better than dry sand That's why it's perfect for building sandcastles!",
+        "footer-right": ""
+      },
+      "recovered_page_text": "July\n2\n0\n2\n7\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nSunday\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\nThe Castle in the Sand\nThe friends build their biggest sandcastle ever. While digging the foundation for a\nnew tower, they uncover the seventh star.\nWhich Shadow Belongs to the Castle?\nA\nB\nC\nD\nBao's Job This Month\nSandcastle Architect Bao\nDraws plans\nMeasures towers\nBuilds with sand\nGiggle Challenge\nHelp someone build or create\nsomething.\nDid you know?\nDamp sand holds together better than completely dry sand.\n",
+      "recovered_job": "Sandcastle Architect Bao Draws plans Measures towers Builds with sand",
+      "recovered_challenge": "Help someone build or create something.",
+      "recovered_fact": "Damp sand holds together better than completely dry sand.",
+      "manifest_lines_verified_in_master": true
+    },
+    {
+      "month": 8,
+      "page": 17,
+      "current_editorial": {
+        "story": "On a warm summer night, the Giggle Dumplings take a walk through the forest. Fireflies show them the way to a hidden tree stump. Inside, they find what has disappeared - star number 8!",
+        "job": "Forest Ranger Explores the forest Finds hidden places Learns about plants and animals Helps protect nature",
+        "challenge": "Be kind to nature! Look around you: What can you do today to help the environment? Maybe pick up some litter, water a plant or simply notice the beauty around you.",
+        "footer-left": "Did you know? Fireflies are not just pretty - they are actually beetles! They light up using a special chemical reaction in their bodies.",
+        "footer-right": "Kind People Make a Brighter World"
+      },
+      "recovered_page_text": "August\n2\n0\n2\n7\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nSunday\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\nThe Night in the Woods\nOn an evening forest walk, glowing fireflies guide the Dumplings to an old hollow\nstump containing the eighth golden star.\nWho Lives Here?\nOwl\nFrog\nHedgehog\nSquirrel\nPond\nLeaf pile\nTree hollow\nNest\nDraw lines to match each animal to its home.\nBao's Job This Month\nForest Ranger Bao\nCarries a lantern\nReads the map\nKnows forest paths\nGiggle Challenge\nLook at the stars with someone.\nDid you know?\nMany forest animals are most active around dusk.\n",
+      "recovered_job": "Forest Ranger Bao Carries a lantern Reads the map Knows forest paths",
+      "recovered_challenge": "Look at the stars with someone.",
+      "recovered_fact": "Many forest animals are most active around dusk.",
+      "manifest_lines_verified_in_master": true
+    },
+    {
+      "month": 9,
+      "page": 19,
+      "current_editorial": {
+        "story": "In September, the Giggle Dumplings explore ancient ruins. They find a mysterious stone circle with twelve star-shaped spaces and discover the ninth star!",
+        "job": "Explores ancient ruins Cleans and uncovers hidden treasures Looks for clues about the stars Learns about history and how people lived in the past",
+        "challenge": "Be curious and explore! This month, look around your neighborhood or on a walk. Can you find something new and interesting? It could be a special building, a plant, a rock or a hidden place!",
+        "footer-left": "Many ancient ruins are hundreds or even thousands of years old. Did you know? Archaeologists carefully dig and clean to learn more about how people lived long ago.",
+        "footer-right": ""
+      },
+      "recovered_page_text": "September\n2\n0\n2\n7\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nSunday\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\nThe Twelve Spaces\nAt ancient ruins the friends find star number nine and a stone circle with twelve\nstar-shaped spaces. At last, the stars seem connected.\nFind the 6 Differences!\nFinal artwork: exactly 6 controlled differences.\nBao's Job This Month\nArchaeologist Bao\nUses a brush\nStudies ruins\nRecords old clues\nGiggle Challenge\nDiscover something you never\nnoticed before.\nDid you know?\nArchaeologists study objects and sites to learn about the past.\n",
+      "recovered_job": "Archaeologist Bao Uses a brush Studies ruins Records old clues",
+      "recovered_challenge": "Discover something you never noticed before.",
+      "recovered_fact": "Archaeologists study objects and sites to learn about the past.",
+      "manifest_lines_verified_in_master": true
+    },
+    {
+      "month": 10,
+      "page": 21,
+      "current_editorial": {
+        "story": "In October, the Giggle Dumplings visit a pumpkin farm. They discover a tiny door in a huge pumpkin and find the tenth star!",
+        "job": "Carves and decorates pumpkins Uses creativity and imagination Looks for hidden places and small details Learns about pumpkins, plants and the changing seasons",
+        "challenge": "Be creative and kind! Try something creative this month. Maybe carve a pumpkin, make a drawing or help decorate something together.",
+        "footer-left": "Pumpkins are actually a type of berry! Did you know? They can be orange, yellow, white, green or even striped.",
+        "footer-right": ""
+      },
+      "recovered_page_text": "October\n2\n0\n2\n7\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nSunday\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\nThe Pumpkin Door\nAt a pumpkin farm the Dumplings find a tiny door in a giant pumpkin. Behind it\nwaits the tenth golden star.\nPumpkin Pairs\n5 pairs + 2 unmatched pumpkins.\nBao's Job This Month\nPumpkin Carver Bao\nCarves pumpkins\nSketches designs\nWorks carefully\nGiggle Challenge\nMake something funny with autumn\nleaves.\nDid you know?\nPumpkins are fruits and belong to the squash family.\n",
+      "recovered_job": "Pumpkin Carver Bao Carves pumpkins Sketches designs Works carefully",
+      "recovered_challenge": "Make something funny with autumn leaves.",
+      "recovered_fact": "Pumpkins are fruits and belong to the squash family.",
+      "manifest_lines_verified_in_master": true
+    },
+    {
+      "month": 11,
+      "page": 23,
+      "current_editorial": {
+        "story": "In November, a big storm sweeps through the forest. After the wind calms down, the Giggle Dumplings discover a clue under an uprooted tree and find the eleventh star!",
+        "job": "Reports about the autumn storm Observes the wind and the weather Looks for clues after the storm Learns about nature and how weather can change the forest",
+        "challenge": "Be observant and think about what happens next! Look at the pictures and put the storm story in the right order. What happens first? What comes next? Can you find the correct sequence?",
+        "footer-left": "Did you know? Storms can be very strong and move trees, leaves and even whole branches. After a storm, animals often find new places to live and new things are discovered in the forest.",
+        "footer-right": ""
+      },
+      "recovered_page_text": "November\n2\n0\n2\n7\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nSunday\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\nThe Stormy Clue\nA strong autumn storm sweeps through the forest. After it calms, exposed roots\nreveal the eleventh golden star.\nPut the Storm Story in Order!\nA\nTree falls\nB\nClouds gather\nC\nStar appears\nD\nWind rises\nBao's Job This Month\nWeather Reporter Bao\nReports the weather\nObserves the wind\nChecks storm clues\nGiggle Challenge\nHelp someone when things get\ndifficult.\nDid you know?\nStrong wind can move branches and expose roots.\n",
+      "recovered_job": "Weather Reporter Bao Reports the weather Observes the wind Checks storm clues",
+      "recovered_challenge": "Help someone when things get difficult.",
+      "recovered_fact": "Strong wind can move branches and expose roots.",
+      "manifest_lines_verified_in_master": true
+    },
+    {
+      "month": 12,
+      "page": 25,
+      "current_editorial": {
+        "story": "In December, the Giggle Dumplings find the twelfth and last star. All twelve stars open the gate to the magical Giggle House. As the night falls, the five friends watch a beautiful silver firework light up the sky. Their adventure was just the beginning ...",
+        "job": "Explores and finds the last star Uses a map and a key Looks for clues and hidden paths Discovers the magical Giggle House with all friends",
+        "challenge": "Do one thing that makes someone's day brighter.",
+        "footer-left": "",
+        "footer-right": ""
+      },
+      "recovered_page_text": "December\n2\n0\n2\n7\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nSunday\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\nThe Last Star\nThe twelfth star completes the set and opens the way to the Giggle House. At\nnight, the five friends watch a silver star-shaped firework in the distance.\nComplete the Last Star!\nA\nB\nC\nD\nOnly C matches the missing piece.\nBao's Job This Month\nTreasure Hunter Bao\nUses map and compass\nFollows the last clue\nFinds hidden paths\nGiggle Challenge\nDo one thing that makes someone's\nday brighter.\nDid you know?\nA new year can be a good time to begin a new adventure.\nComplete the Last Star!\n Which piece fits the empty space exactly?\nA\nB\nC\nD\nCompare the corners and edge lengths. Only one piece fits.\n",
+      "recovered_job": "Treasure Hunter Bao Uses map and compass Follows the last clue Finds hidden paths",
+      "recovered_challenge": "Do one thing that makes someone's day brighter.",
+      "recovered_fact": "A new year can be a good time to begin a new adventure. Complete the Last Star! Which piece fits the empty space exactly? A B C D Compare the corners and edge lengths. Only one piece fits.",
+      "manifest_lines_verified_in_master": true
+    }
+  ]
+}

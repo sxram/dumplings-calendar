@@ -1,0 +1,5446 @@
+{
+  "base": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v31.pdf",
+  "months": [
+    {
+      "month": 1,
+      "lines": [
+        {
+          "text": "Make someone smile",
+          "x": 574.6802610500348,
+          "baseline": 340.4957,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 173.48822024433127,
+          "new_width": 173.48822024433127,
+          "overshoot": 63.93056428605547,
+          "old_sizes": [
+            29.46883
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7916204789908026
+        },
+        {
+          "text": "on a cold day.",
+          "x": 602.7515382791896,
+          "baseline": 319.9145,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 113.00848117171358,
+          "new_width": 113.00848117171358,
+          "overshoot": 52.24234755756822,
+          "old_sizes": [
+            22.66595
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.740848657426408
+        },
+        {
+          "text": "It can be a kind word,",
+          "x": 568.1744631964726,
+          "baseline": 294.2348,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 186.4999889855618,
+          "new_width": 186.4999889855618,
+          "overshoot": 78.4127181967587,
+          "old_sizes": [
+            24.51843
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.762672568195484
+        },
+        {
+          "text": "a small help or",
+          "x": 598.2834878619594,
+          "baseline": 273.723,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 124.17590890270253,
+          "new_width": 124.17590890270253,
+          "overshoot": 52.91138391497705,
+          "old_sizes": [
+            20.34322
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7596473985841565
+        },
+        {
+          "text": "a nice drawing!",
+          "x": 596.1534718990862,
+          "baseline": 249.3673,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 130.54183455932105,
+          "new_width": 130.54183455932105,
+          "overshoot": 47.03385604841378,
+          "old_sizes": [
+            22.24581
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7963945982054248
+        },
+        {
+          "text": "Kindness",
+          "x": 624.4924228371731,
+          "baseline": 182.3888,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 69.52667277526984,
+          "new_width": 69.52667277526984,
+          "overshoot": 28.152885235779905,
+          "old_sizes": [
+            17.7719
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7710985154610196
+        },
+        {
+          "text": "makes the world warmer!",
+          "x": 617.0165985618734,
+          "baseline": 158.69,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 199.48786362813905,
+          "new_width": 199.48786362813905,
+          "overshoot": 100.58948443815933,
+          "old_sizes": [
+            29.36578
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7201871572660995
+        },
+        {
+          "text": "Did you know?",
+          "x": 110.33687487857404,
+          "baseline": 101.6421,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 179.66310838500058,
+          "new_width": 179.66310838500058,
+          "overshoot": -12.94708628555307,
+          "old_sizes": [
+            23.34115
+          ],
+          "word_count": 1,
+          "horizontal_scale": 1.4009573762573284
+        },
+        {
+          "text": "Different animals leave different footprints in the snow.",
+          "x": 323.1221210997898,
+          "baseline": 99.01837,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 375.1685226670673,
+          "new_width": 375.1685226670673,
+          "overshoot": 296.49335578597146,
+          "old_sizes": [
+            18.68019
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7261378010472986
+        },
+        {
+          "text": "Can you match them to the right animal?",
+          "x": 323.12206365742156,
+          "baseline": 75.18865,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 273.2441228232018,
+          "new_width": 273.2441228232018,
+          "overshoot": 218.11278325414634,
+          "old_sizes": [
+            22.49718
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7229314481523639
+        },
+        {
+          "text": "Fox",
+          "x": 769.854688010081,
+          "baseline": 35.46601,
+          "font_size": 20,
+          "column": "footer-right",
+          "old_width": 23.854654882814543,
+          "new_width": 23.854654882814543,
+          "overshoot": 16.308881028787674,
+          "old_sizes": [
+            21.6598
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7721195518221444
+        },
+        {
+          "text": "Rabbit",
+          "x": 839.0266485109001,
+          "baseline": 32.42375,
+          "font_size": 20,
+          "column": "footer-right",
+          "old_width": 45.98741742670518,
+          "new_width": 45.98741742670518,
+          "overshoot": 31.63910191031141,
+          "old_sizes": [
+            25.47297
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7701445738558138
+        },
+        {
+          "text": "Deer Squirrel",
+          "x": 932.4999630086677,
+          "baseline": 35.44132,
+          "font_size": 20,
+          "column": "footer-right",
+          "old_width": 123.61085811437783,
+          "new_width": 123.61085811437783,
+          "overshoot": 34.77367227236252,
+          "old_sizes": [
+            19.14005,
+            19.94116
+          ],
+          "word_count": 2,
+          "horizontal_scale": 1.0145821385226912
+        },
+        {
+          "text": "Bird",
+          "x": 1103.8197980225482,
+          "baseline": 32.93627,
+          "font_size": 20,
+          "column": "footer-right",
+          "old_width": 30.360485268165576,
+          "new_width": 30.360485268165576,
+          "overshoot": 15.692553405867585,
+          "old_sizes": [
+            23.7414
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8570255510820288
+        },
+        {
+          "text": "Every",
+          "x": 1351.0402605163524,
+          "baseline": 108.9824,
+          "font_size": 22,
+          "column": "footer-sign",
+          "old_width": 43.3720890346483,
+          "new_width": 43.3720890346483,
+          "overshoot": 21.929568423915242,
+          "old_sizes": [
+            18.36575
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7849406186528959
+        },
+        {
+          "text": "footprint",
+          "x": 1338.0286470425783,
+          "baseline": 86.83102,
+          "font_size": 22,
+          "column": "footer-sign",
+          "old_width": 67.22677738730454,
+          "new_width": 67.22677738730454,
+          "overshoot": 38.00858172871759,
+          "old_sizes": [
+            20.20269
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7549727438452163
+        },
+        {
+          "text": "tells a story!",
+          "x": 1322.730916307637,
+          "baseline": 61.78175,
+          "font_size": 22,
+          "column": "footer-sign",
+          "old_width": 97.82206104556758,
+          "new_width": 97.82206104556758,
+          "overshoot": 56.109430667139634,
+          "old_sizes": [
+            23.64608
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7510346910841788
+        },
+        {
+          "text": "Winter Ranger Bao",
+          "x": 260.2325255692305,
+          "baseline": 348.7087,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 199.5117634525949,
+          "new_width": 199.5117634525949,
+          "overshoot": 26.386579088841614,
+          "old_sizes": [
+            33.45504
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.9567920742962734
+        },
+        {
+          "text": "Explores the snowy world",
+          "x": 297.09888471829845,
+          "baseline": 314.0266,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 177.82558735805407,
+          "new_width": 177.82558735805407,
+          "overshoot": 124.63629109498464,
+          "old_sizes": [
+            24.44997
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6369212123188914
+        },
+        {
+          "text": "Looks for animal tracks",
+          "x": 297.0988745733711,
+          "baseline": 284.9043,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 166.98259819909282,
+          "new_width": 166.98259819909282,
+          "overshoot": 111.43287141416687,
+          "old_sizes": [
+            25.12822
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6497405297448621
+        },
+        {
+          "text": "Keeps the team on track",
+          "x": 296.5988872184067,
+          "baseline": 260.1454,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 174.3987702137215,
+          "new_width": 174.3987702137215,
+          "overshoot": 120.90951707909625,
+          "old_sizes": [
+            29.25708
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6397788656622642
+        },
+        {
+          "text": "Believes in big adventures",
+          "x": 297.09882574154057,
+          "baseline": 233.1102,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 177.82568432661054,
+          "new_width": 177.82568432661054,
+          "overshoot": 128.16989578388672,
+          "old_sizes": [
+            22.24581
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6295662547944737
+        },
+        {
+          "text": "Nature always has",
+          "x": 281.918635313564,
+          "baseline": 203.6491,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 145.29660694353572,
+          "new_width": 145.29660694353572,
+          "overshoot": 75.08571349845326,
+          "old_sizes": [
+            18.52949
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7142345048662703
+        },
+        {
+          "text": "amazing stories to tell!",
+          "x": 281.9853645595184,
+          "baseline": 180.6387,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 176.7247397449661,
+          "new_width": 176.7247397449661,
+          "overshoot": 98.41559174674666,
+          "old_sizes": [
+            22.49718
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6958332875169428
+        },
+        {
+          "text": "Explore",
+          "x": 1405.2560537267916,
+          "baseline": 783.6728,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 58.552321060194345,
+          "new_width": 58.552321060194345,
+          "overshoot": 29.416739713286333,
+          "old_sizes": [
+            21.39809
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7866197161610932
+        },
+        {
+          "text": "Discover",
+          "x": 1403.086952249997,
+          "baseline": 753.1238,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 65.058141498851,
+          "new_width": 65.058141498851,
+          "overshoot": 31.81699662269598,
+          "old_sizes": [
+            31.20054
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7936700374266709
+        },
+        {
+          "text": "Be Kind",
+          "x": 1401.982443916813,
+          "baseline": 727.1118,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 60.97874295039901,
+          "new_width": 60.97874295039901,
+          "overshoot": 25.783687988827523,
+          "old_sizes": [
+            30.73812
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8306105112900528
+        },
+        {
+          "text": "Adventures",
+          "x": 786.7116699665545,
+          "baseline": 863.0281,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 72.71927474465167,
+          "new_width": 72.71927474465167,
+          "overshoot": 58.34370868076272,
+          "old_sizes": [
+            26.12291
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6010790556399765
+        },
+        {
+          "text": "It's a bright and snowy day and the Giggle Dumplings",
+          "x": 902.139484766652,
+          "baseline": 857.6167,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 451.06949752076457,
+          "new_width": 451.06949752076457,
+          "overshoot": 184.30729805934607,
+          "old_sizes": [
+            22.25801
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7690847788484428
+        },
+        {
+          "text": "discover mysterious footprints in the fresh snow.",
+          "x": 904.3081355500784,
+          "baseline": 831.661,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 414.2032896680249,
+          "new_width": 414.2032896680249,
+          "overshoot": 165.55361640932324,
+          "old_sizes": [
+            22.70398
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7739799660339498
+        },
+        {
+          "text": "Together they follow the trail through the forest,",
+          "x": 904.3081153102617,
+          "baseline": 805.8001,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 414.20335892413254,
+          "new_width": 414.20335892413254,
+          "overshoot": 187.12923776095045,
+          "old_sizes": [
+            22.57656
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7462098478857913
+        },
+        {
+          "text": "across frozen streams and up to a little hill.",
+          "x": 904.3080978704106,
+          "baseline": 777.5297,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 355.65135138886103,
+          "new_width": 355.65135138886103,
+          "overshoot": 175.69671490948156,
+          "old_sizes": [
+            25.7239
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7251159615367199
+        },
+        {
+          "text": "What will they find at the end of the footprints?",
+          "x": 904.3081776201901,
+          "baseline": 739.1494,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 394.6862322545609,
+          "new_width": 394.6862322545609,
+          "overshoot": 196.84967934764916,
+          "old_sizes": [
+            27.82803
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7228246725562117
+        },
+        {
+          "text": "Their journey has just begun!",
+          "x": 906.4767853584257,
+          "baseline": 702.6939,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 242.88367877277608,
+          "new_width": 242.88367877277608,
+          "overshoot": 107.8433930504284,
+          "old_sizes": [
+            28.65974
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7502243381708795
+        }
+      ],
+      "visual_review": "inspected final export"
+    },
+    {
+      "month": 2,
+      "lines": [
+        {
+          "text": "Leave someone",
+          "x": 607.2093504227881,
+          "baseline": 349.5455,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 130.11617666245877,
+          "new_width": 130.11617666245877,
+          "overshoot": 43.00647527124292,
+          "old_sizes": [
+            31.19669
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8142157586536479
+        },
+        {
+          "text": "a kind little note.",
+          "x": 600.7034720390011,
+          "baseline": 324.4738,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 149.63376349164423,
+          "new_width": 149.63376349164423,
+          "overshoot": 59.745242033217664,
+          "old_sizes": [
+            27.9703
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.774209636616916
+        },
+        {
+          "text": "It can be a thank you,",
+          "x": 581.1860619886409,
+          "baseline": 306.2787,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 193.0057903385723,
+          "new_width": 193.0057903385723,
+          "overshoot": 76.21630910894157,
+          "old_sizes": [
+            19.864
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7766435468306829
+        },
+        {
+          "text": "a friendly message",
+          "x": 602.8720859300103,
+          "baseline": 284.1438,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 158.3081843541189,
+          "new_width": 158.3081843541189,
+          "overshoot": 63.2233073585883,
+          "old_sizes": [
+            19.7086
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7741587063960446
+        },
+        {
+          "text": "or a drawing!",
+          "x": 617.8676095941303,
+          "baseline": 254.3449,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 115.30564344694642,
+          "new_width": 115.30564344694642,
+          "overshoot": 40.062312354158564,
+          "old_sizes": [
+            30.01058
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.803991057380166
+        },
+        {
+          "text": "Kindness",
+          "x": 644.0755866793276,
+          "baseline": 176.6395,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 69.39535610914231,
+          "new_width": 69.39535610914231,
+          "overshoot": 28.284201901907437,
+          "old_sizes": [
+            22.52717
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7696421235143845
+        },
+        {
+          "text": "travels far!",
+          "x": 637.5697911667246,
+          "baseline": 152.1488,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 95.41853706070242,
+          "new_width": 95.41853706070242,
+          "overshoot": 39.69527509399373,
+          "old_sizes": [
+            28.48355
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7650593241896634
+        },
+        {
+          "text": "Did you know?",
+          "x": 82.40697776693966,
+          "baseline": 100.2868,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 207.59300503771445,
+          "new_width": 207.59300503771445,
+          "overshoot": -40.876982938266934,
+          "old_sizes": [
+            23.34115
+          ],
+          "word_count": 1,
+          "horizontal_scale": 1.6187460758153678
+        },
+        {
+          "text": "Even a small message can make someone smile,",
+          "x": 338.3023504160964,
+          "baseline": 100.7855,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 303.6047194381306,
+          "new_width": 303.6047194381306,
+          "overshoot": 251.50246288231153,
+          "old_sizes": [
+            16.8903
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7110088787172864
+        },
+        {
+          "text": "and a smile can brighten their whole day!",
+          "x": 336.1336771333141,
+          "baseline": 77.28265,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 266.73827517371535,
+          "new_width": 266.73827517371535,
+          "overshoot": 227.2617248262847,
+          "old_sizes": [
+            22.24581
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7019428294045141
+        },
+        {
+          "text": "Kindness helps friends, families and communities",
+          "x": 895.633754983874,
+          "baseline": 98.47733,
+          "font_size": 20,
+          "column": "footer-right",
+          "old_width": 307.94185768795205,
+          "new_width": 307.94185768795205,
+          "overshoot": 258.3984738037608,
+          "old_sizes": [
+            16.70579
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7068619215938634
+        },
+        {
+          "text": "feel happier and more connected",
+          "x": 893.4651243804325,
+          "baseline": 74.86223,
+          "font_size": 20,
+          "column": "footer-right",
+          "old_width": 210.3545714854796,
+          "new_width": 210.3545714854796,
+          "overshoot": 177.77802519960335,
+          "old_sizes": [
+            21.75956
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7045554670405589
+        },
+        {
+          "text": "Be Kind",
+          "x": 1359.715377343453,
+          "baseline": 103.3392,
+          "font_size": 22,
+          "column": "footer-sign",
+          "old_width": 60.72097555540017,
+          "new_width": 60.72097555540017,
+          "overshoot": 26.04145538382636,
+          "old_sizes": [
+            25.17649
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8270993810601619
+        },
+        {
+          "text": "Spread Joy",
+          "x": 1346.703863346292,
+          "baseline": 86.93542,
+          "font_size": 22,
+          "column": "footer-sign",
+          "old_width": 82.40695395423518,
+          "new_width": 82.40695395423518,
+          "overshoot": 49.80520074189744,
+          "old_sizes": [
+            18.14961
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7366193880978905
+        },
+        {
+          "text": "Make a Difference",
+          "x": 1328.9078578041317,
+          "baseline": 57.60229,
+          "font_size": 22,
+          "column": "footer-sign",
+          "old_width": 122.35377996335728,
+          "new_width": 122.35377996335728,
+          "overshoot": 98.31583329631124,
+          "old_sizes": [
+            28.98108
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6552779045510075
+        },
+        {
+          "text": "Mail Carrier Bao",
+          "x": 266.73834391925044,
+          "baseline": 358.5826,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 186.5000274535103,
+          "new_width": 186.5000274535103,
+          "overshoot": 8.054668679086404,
+          "old_sizes": [
+            38.21382
+          ],
+          "word_count": 1,
+          "horizontal_scale": 1.0384827527898381
+        },
+        {
+          "text": "Delivers friendship notes",
+          "x": 310.1104695307341,
+          "baseline": 324.7077,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 153.97087589834894,
+          "new_width": 153.97087589834894,
+          "overshoot": 136.48216277568423,
+          "old_sizes": [
+            23.93803
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5742814156281149
+        },
+        {
+          "text": "Brings joy to the village",
+          "x": 310.11051559518813,
+          "baseline": 294.3729,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 151.8024290334265,
+          "new_width": 151.8024290334265,
+          "overshoot": 135.31801295552384,
+          "old_sizes": [
+            24.74739
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5727653186714152
+        },
+        {
+          "text": "Helps friends stay connected",
+          "x": 310.1104642745782,
+          "baseline": 266.225,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 171.31968337552604,
+          "new_width": 171.31968337552604,
+          "overshoot": 170.1278304366287,
+          "old_sizes": [
+            23.46561
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5435574023799294
+        },
+        {
+          "text": "Believes in the power",
+          "x": 309.8778741499832,
+          "baseline": 242.4527,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 137.08734981864768,
+          "new_width": 137.08734981864768,
+          "overshoot": 115.84524686643525,
+          "old_sizes": [
+            20.53708
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5871575968587959
+        },
+        {
+          "text": "of kind words",
+          "x": 307.9244082943524,
+          "baseline": 215.1587,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 93.28494268502999,
+          "new_width": 93.28494268502999,
+          "overshoot": 64.69737775695899,
+          "old_sizes": [
+            25.32661
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6396835267772332
+        },
+        {
+          "text": "POST",
+          "x": 221.1976356387558,
+          "baseline": 184.975,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 41.203474827257025,
+          "new_width": 41.203474827257025,
+          "overshoot": 22.805364951748516,
+          "old_sizes": [
+            29.54246
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6973583318123056
+        },
+        {
+          "text": "A small note",
+          "x": 317.9608428788865,
+          "baseline": 194.0671,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 105.00387564116897,
+          "new_width": 105.00387564116897,
+          "overshoot": 43.095571872643205,
+          "old_sizes": [
+            17.63868
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7680933353965237
+        },
+        {
+          "text": "can make a big difference!",
+          "x": 283.25313352694275,
+          "baseline": 179.9167,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 185.16533803430542,
+          "new_width": 185.16533803430542,
+          "overshoot": 131.23024207619187,
+          "old_sizes": [
+            21.6413
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6340031134456491
+        },
+        {
+          "text": "Kind",
+          "x": 1407.4248244727569,
+          "baseline": 949.2924,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 39.03488713743445,
+          "new_width": 39.03488713743445,
+          "overshoot": 9.287764796267219,
+          "old_sizes": [
+            28.61751
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.9546690319797367
+        },
+        {
+          "text": "Notes",
+          "x": 1403.0876448812542,
+          "baseline": 927.3301,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 52.04652941716199,
+          "new_width": 52.04652941716199,
+          "overshoot": 14.461757875655692,
+          "old_sizes": [
+            26.42877
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.9248401555572668
+        },
+        {
+          "text": "Stronger",
+          "x": 1371.9995792654947,
+          "baseline": 864.4316,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 92.00004360523076,
+          "new_width": 92.00004360523076,
+          "overshoot": 11.252995068802406,
+          "old_sizes": [
+            19.42938
+          ],
+          "word_count": 1,
+          "horizontal_scale": 1.0530181547874466
+        },
+        {
+          "text": "Friends",
+          "x": 1381.9996610382964,
+          "baseline": 834.6647,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 74.00002763142993,
+          "new_width": 74.00002763142993,
+          "overshoot": 8.39555247906732,
+          "old_sizes": [
+            30.07553
+          ],
+          "word_count": 1,
+          "horizontal_scale": 1.061398900190885
+        },
+        {
+          "text": "A Kinder",
+          "x": 1390.0751648364908,
+          "baseline": 769.6878,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 71.56395624366883,
+          "new_width": 71.56395624366883,
+          "overshoot": 28.528861435889198,
+          "old_sizes": [
+            25.52444
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8449715635179037
+        },
+        {
+          "text": "World",
+          "x": 1400.9186270933867,
+          "baseline": 745.6281,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 49.87792301110221,
+          "new_width": 49.87792301110221,
+          "overshoot": 21.025944392212722,
+          "old_sizes": [
+            28.93154
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8313599588376216
+        },
+        {
+          "text": "1",
+          "x": 1413.9997234288226,
+          "baseline": 454.3049,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 24.999996445655597,
+          "new_width": 24.999996445655597,
+          "overshoot": -10.204416335158358,
+          "old_sizes": [
+            45.9918
+          ],
+          "word_count": 1,
+          "horizontal_scale": 1.9969105722258003
+        },
+        {
+          "text": "It's February and the Giggle Dumplings spread",
+          "x": 902.1395604322191,
+          "baseline": 826.9876,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 401.1918066051452,
+          "new_width": 401.1918066051452,
+          "overshoot": 149.54852488656763,
+          "old_sizes": [
+            19.81937
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7891640257730316
+        },
+        {
+          "text": "friendship notes throughout the snowy village.",
+          "x": 902.1395070063148,
+          "baseline": 803.2549,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 405.529218308409,
+          "new_width": 405.529218308409,
+          "overshoot": 144.52161042087278,
+          "old_sizes": [
+            20.6129
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7986958602517282
+        },
+        {
+          "text": "Mail Carrier Bao delivers four special letters to",
+          "x": 904.3081379742795,
+          "baseline": 777.7622,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 412.03509082030735,
+          "new_width": 412.03509082030735,
+          "overshoot": 156.68977105814577,
+          "old_sizes": [
+            22.69993
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7848634345161861
+        },
+        {
+          "text": "different mailboxes. Following the last note, they",
+          "x": 904.3081481072146,
+          "baseline": 753.3496,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 416.37211290398056,
+          "new_width": 416.37211290398056,
+          "overshoot": 173.64114676452778,
+          "old_sizes": [
+            20.6129
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7645078845054096
+        },
+        {
+          "text": "cross the old stone bridge-and there it is:",
+          "x": 904.3081880101159,
+          "baseline": 728.1241,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 368.6629818192649,
+          "new_width": 368.6629818192649,
+          "overshoot": 130.79558171664672,
+          "old_sizes": [
+            23.20719
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7996356977912826
+        },
+        {
+          "text": "the second shining star!",
+          "x": 904.3081792695288,
+          "baseline": 701.4533,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 210.35450208405643,
+          "new_width": 210.35450208405643,
+          "overshoot": 69.78472443528062,
+          "old_sizes": [
+            24.22219
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8134670990414277
+        },
+        {
+          "text": "Two stars sparkle now, and the Dumplings wonder:",
+          "x": 906.4767980223166,
+          "baseline": 668.9779,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 425.0465159400337,
+          "new_width": 425.0465159400337,
+          "overshoot": 173.55679897709354,
+          "old_sizes": [
+            21.01598
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7692357316778062
+        },
+        {
+          "text": "what other adventures are still waiting?",
+          "x": 906.4767155307491,
+          "baseline": 644.578,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 344.8082120962281,
+          "new_width": 344.8082120962281,
+          "overshoot": 135.97631829051238,
+          "old_sizes": [
+            21.88453
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7769431131039896
+        }
+      ],
+      "visual_review": "inspected final export"
+    },
+    {
+      "month": 3,
+      "lines": [
+        {
+          "text": "Plant something",
+          "x": 617.6306175587638,
+          "baseline": 346.5494,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 122.43429144568336,
+          "new_width": 122.43429144568336,
+          "overshoot": 65.68504557089128,
+          "old_sizes": [
+            21.18755
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7050691926182513
+        },
+        {
+          "text": "(or take care of a plant).",
+          "x": 587.6918538473856,
+          "baseline": 322.274,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 186.49991709315327,
+          "new_width": 186.49991709315327,
+          "overshoot": 114.81279008916721,
+          "old_sizes": [
+            19.9052
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6705378566349784
+        },
+        {
+          "text": "It can be a flower, a herb",
+          "x": 581.1860459177309,
+          "baseline": 297.3648,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 199.51161545868592,
+          "new_width": 199.51161545868592,
+          "overshoot": 115.50495912694947,
+          "old_sizes": [
+            22.32584
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6861149566427677
+        },
+        {
+          "text": "or even just a small seed",
+          "x": 587.2676261033694,
+          "baseline": 274.2955,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 191.81702879112606,
+          "new_width": 191.81702879112606,
+          "overshoot": 107.34098225859776,
+          "old_sizes": [
+            24.04822
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6946221512211062
+        },
+        {
+          "text": "in a pot!",
+          "x": 639.37128175,
+          "baseline": 251.483,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 74.46682275,
+          "new_width": 74.46682275,
+          "overshoot": 24.04588443232045,
+          "old_sizes": [
+            22.625
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8189034046460337
+        },
+        {
+          "text": "Seeds",
+          "x": 597.8393319887679,
+          "baseline": 186.1473,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 50.32797649578845,
+          "new_width": 50.32797649578845,
+          "overshoot": 16.869813559460184,
+          "old_sizes": [
+            44.18127
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.811365589437946
+        },
+        {
+          "text": "Kindness",
+          "x": 665.7616435430847,
+          "baseline": 175.6843,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 65.05812980422013,
+          "new_width": 65.05812980422013,
+          "overshoot": 32.62142820682962,
+          "old_sizes": [
+            17.7719
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7215393072649412
+        },
+        {
+          "text": "helps things grow!",
+          "x": 644.4065255773475,
+          "baseline": 158.5527,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 136.72334157810735,
+          "new_width": 136.72334157810735,
+          "overshoot": 77.53964184730708,
+          "old_sizes": [
+            22.49718
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6912857788514969
+        },
+        {
+          "text": "Did you know? Seeds can travel in many ways - by wind, by water,",
+          "x": 119.27321413699349,
+          "baseline": 103.28145,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 552.994421317503,
+          "new_width": 552.994421317503,
+          "overshoot": 243.0077886272485,
+          "old_sizes": [
+            23.34115,
+            14.93466
+          ],
+          "word_count": 2,
+          "horizontal_scale": 0.903129085235392
+        },
+        {
+          "text": "by animals or even on people's shoes!",
+          "x": 329.6279106383565,
+          "baseline": 85.95834,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 240.7149253771263,
+          "new_width": 240.7149253771263,
+          "overshoot": 196.9756823576804,
+          "old_sizes": [
+            18.40866
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7149557186291411
+        },
+        {
+          "text": "In nature, everything is connected.",
+          "x": 327.4592906346603,
+          "baseline": 62.13275,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 229.87209132886733,
+          "new_width": 229.87209132886733,
+          "overshoot": 186.27155507997247,
+          "old_sizes": [
+            22.24581
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7181023218937692
+        },
+        {
+          "text": "Healthy plants make clean air, provide food for animals",
+          "x": 841.418571419439,
+          "baseline": 107.208,
+          "font_size": 20,
+          "column": "footer-right",
+          "old_width": 340.47093903055804,
+          "new_width": 340.47093903055804,
+          "overshoot": 317.343425610326,
+          "old_sizes": [
+            16.04699
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6728527750855025
+        },
+        {
+          "text": "and create colorful places for everyone to enjoy.",
+          "x": 841.4185967966706,
+          "baseline": 83.77345,
+          "font_size": 20,
+          "column": "footer-right",
+          "old_width": 307.94166675929534,
+          "new_width": 307.94166675929534,
+          "overshoot": 278.39424484291465,
+          "old_sizes": [
+            21.75956
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6827556676396744
+        },
+        {
+          "text": "Steps",
+          "x": 1364.0524196199951,
+          "baseline": 107.5343,
+          "font_size": 22,
+          "column": "footer-sign",
+          "old_width": 45.54069619337906,
+          "new_width": 45.54069619337906,
+          "overshoot": 20.249359055239722,
+          "old_sizes": [
+            13.36932
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8180692746131015
+        },
+        {
+          "text": "Big Change",
+          "x": 1338.1901863155106,
+          "baseline": 85.7385,
+          "font_size": 22,
+          "column": "footer-sign",
+          "old_width": 92.7575463706728,
+          "new_width": 92.7575463706728,
+          "overshoot": 36.17947020391287,
+          "old_sizes": [
+            22.5737
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.850202352388783
+        },
+        {
+          "text": "Gardener Bao",
+          "x": 281.83362960592683,
+          "baseline": 349.3253,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 156.309326727878,
+          "new_width": 156.309326727878,
+          "overshoot": 2.9945406754369515,
+          "old_sizes": [
+            36.10459
+          ],
+          "word_count": 1,
+          "horizontal_scale": 1.0629691966390862
+        },
+        {
+          "text": "Plants seeds and flowers",
+          "x": 297.0988128171646,
+          "baseline": 319.119,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 160.4767723830235,
+          "new_width": 160.4767723830235,
+          "overshoot": 132.9066530313412,
+          "old_sizes": [
+            25.11109
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5925687059612722
+        },
+        {
+          "text": "Cares for the village garden",
+          "x": 297.0987974393093,
+          "baseline": 293.5145,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 177.82553720393736,
+          "new_width": 177.82553720393736,
+          "overshoot": 157.21534677396323,
+          "old_sizes": [
+            21.67693
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5749875349052596
+        },
+        {
+          "text": "Helps nature and animal friends",
+          "x": 297.09880727889174,
+          "baseline": 267.4709,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 190.83709632972113,
+          "new_width": 190.83709632972113,
+          "overshoot": 185.2004727310524,
+          "old_sizes": [
+            21.77511
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5497859913489622
+        },
+        {
+          "text": "Shows that patience",
+          "x": 297.0988511448936,
+          "baseline": 243.5864,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 134.45343388834925,
+          "new_width": 134.45343388834925,
+          "overshoot": 108.79739484093253,
+          "old_sizes": [
+            17.08147
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5987970831313535
+        },
+        {
+          "text": "leads to beautiful results",
+          "x": 297.09883607427855,
+          "baseline": 217.3983,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 162.64545707028873,
+          "new_width": 162.64545707028873,
+          "overshoot": 139.67277497391024,
+          "old_sizes": [
+            25.11109
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5828270560067286
+        },
+        {
+          "text": "A greener world",
+          "x": 307.5267761503293,
+          "baseline": 187.7898,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 125.35550919223135,
+          "new_width": 125.35550919223135,
+          "overshoot": 66.01023666412226,
+          "old_sizes": [
+            20.06014
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7096452973713242
+        },
+        {
+          "text": "starts with small steps!",
+          "x": 288.142323875,
+          "baseline": 163.3818,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 169.67984475000003,
+          "new_width": 169.67984475000003,
+          "overshoot": 111.17761381353597,
+          "old_sizes": [
+            22.625
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.654495104928524
+        },
+        {
+          "text": "Plant",
+          "x": 1405.2556558629956,
+          "baseline": 938.7592,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 41.203462367787324,
+          "new_width": 41.203462367787324,
+          "overshoot": 20.765598405693353,
+          "old_sizes": [
+            22.45932
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7857953690489216
+        },
+        {
+          "text": "Kindness",
+          "x": 1392.243815308271,
+          "baseline": 916.0751,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 67.22675786194736,
+          "new_width": 67.22675786194736,
+          "overshoot": 30.452800149102387,
+          "old_sizes": [
+            26.62838
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8133718698537749
+        },
+        {
+          "text": "Growing",
+          "x": 1393.0614853723994,
+          "baseline": 863.3365,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 65.71584597151514,
+          "new_width": 65.71584597151514,
+          "overshoot": 27.797966183181018,
+          "old_sizes": [
+            19.49294
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8305102723672839
+        },
+        {
+          "text": "Together",
+          "x": 1392.244149981523,
+          "baseline": 837.8859,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 67.22669894902765,
+          "new_width": 67.22669894902765,
+          "overshoot": 38.69816292942541,
+          "old_sizes": [
+            24.34499
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7500574814319355
+        },
+        {
+          "text": "Caring",
+          "x": 1400.919081284567,
+          "baseline": 780.3716,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 52.04650116305402,
+          "new_width": 52.04650116305402,
+          "overshoot": 21.988857952968104,
+          "old_sizes": [
+            16.90815
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8308124943126941
+        },
+        {
+          "text": "for Nature",
+          "x": 1385.7386681900302,
+          "baseline": 754.1375,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 80.23837334462246,
+          "new_width": 80.23837334462246,
+          "overshoot": 46.65886422443833,
+          "old_sizes": [
+            25.11109
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7472752781287518
+        },
+        {
+          "text": "Brighter",
+          "x": 1396.5080083488303,
+          "baseline": 699.0078,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 65.20420172625518,
+          "new_width": 65.20420172625518,
+          "overshoot": 32.27425131241887,
+          "old_sizes": [
+            18.95565
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7905286627851584
+        },
+        {
+          "text": "Tomorrows",
+          "x": 1387.851689112049,
+          "baseline": 675.8193,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 82.51782630220464,
+          "new_width": 82.51782630220464,
+          "overshoot": 42.1385272889556,
+          "old_sizes": [
+            22.57095
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7823192692440152
+        },
+        {
+          "text": "Seeds",
+          "x": 1390.0756738580992,
+          "baseline": 593.9834,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 43.37210494942997,
+          "new_width": 43.37210494942997,
+          "overshoot": 23.825685105818664,
+          "old_sizes": [
+            38.2897
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7627920824601446
+        },
+        {
+          "text": "?",
+          "x": 1384.0553662096002,
+          "baseline": 475.664,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 11.89000023199992,
+          "new_width": 11.89000023199992,
+          "overshoot": -0.19718255244190708,
+          "old_sizes": [
+            41.992
+          ],
+          "word_count": 1,
+          "horizontal_scale": 1.2017478456510977
+        },
+        {
+          "text": "In March, spring arrives in the village and the Giggle",
+          "x": 884.790698566945,
+          "baseline": 817.8232,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 414.2034755358824,
+          "new_width": 414.2034755358824,
+          "overshoot": 218.32912114920055,
+          "old_sizes": [
+            19.17016
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7094028579430545
+        },
+        {
+          "text": "Dumplings want to plant seeds in the garden. Gardener Bao",
+          "x": 884.7907199393052,
+          "baseline": 796.0721,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 461.9127141278374,
+          "new_width": 461.9127141278374,
+          "overshoot": 245.20109802685886,
+          "old_sizes": [
+            18.87795
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7076731237653759
+        },
+        {
+          "text": "notices a little trail of seeds on the ground. Curious, he",
+          "x": 884.7906699888194,
+          "baseline": 774.564,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 435.8895922090903,
+          "new_width": 435.8895922090903,
+          "overshoot": 227.92919232129657,
+          "old_sizes": [
+            17.95166
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7113593888838878
+        },
+        {
+          "text": "follows the trail through the village and fields.",
+          "x": 884.790704738269,
+          "baseline": 745.5603,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 359.98846180284875,
+          "new_width": 359.98846180284875,
+          "overshoot": 201.841372451295,
+          "old_sizes": [
+            28.47315
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6941381117721288
+        },
+        {
+          "text": "At the old tree, he makes a surprising discovery - the trail",
+          "x": 884.7906994604937,
+          "baseline": 716.053,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 457.5755128514147,
+          "new_width": 457.5755128514147,
+          "overshoot": 248.5040451596351,
+          "old_sizes": [
+            19.08873
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7020551720621758
+        },
+        {
+          "text": "led to a third shining star! But then Bao realizes the reason",
+          "x": 884.7906607995302,
+          "baseline": 692.7914,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 459.7440375389036,
+          "new_width": 459.7440375389036,
+          "overshoot": 256.5918740633065,
+          "old_sizes": [
+            21.03946
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6952828032216848
+        },
+        {
+          "text": "for the missing seeds: his own seed bag has a small hole!",
+          "x": 884.7906987364014,
+          "baseline": 666.3925,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 435.88935328278455,
+          "new_width": 435.88935328278455,
+          "overshoot": 239.16258041887306,
+          "old_sizes": [
+            23.76761
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6995216848975756
+        },
+        {
+          "text": "Even small mistakes can lead to wonderful adventures!",
+          "x": 886.9593312131923,
+          "baseline": 630.8978,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 427.215342006779,
+          "new_width": 427.215342006779,
+          "overshoot": 220.94598396007189,
+          "old_sizes": [
+            28.31075
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7140454111743992
+        }
+      ],
+      "visual_review": "inspected final export"
+    },
+    {
+      "month": 4,
+      "lines": [
+        {
+          "text": "Hide a little surprise",
+          "x": 583.2638641209527,
+          "baseline": 350.5809,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 147.64658831935776,
+          "new_width": 147.64658831935776,
+          "overshoot": 98.18987576904007,
+          "old_sizes": [
+            19.08712
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6506376963744047
+        },
+        {
+          "text": "for someone.",
+          "x": 607.2092544292301,
+          "baseline": 322.4406,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 99.75577696993685,
+          "new_width": 99.75577696993685,
+          "overshoot": 49.464112532825595,
+          "old_sizes": [
+            27.01405
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7242248921655825
+        },
+        {
+          "text": "It can be a note, a small treat",
+          "x": 557.3313692156702,
+          "baseline": 302.9785,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 206.01736767539603,
+          "new_width": 206.01736767539603,
+          "overshoot": 163.9295936505709,
+          "old_sizes": [
+            21.9037
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6032904847992331
+        },
+        {
+          "text": "or a kind message.",
+          "x": 591.701135147561,
+          "baseline": 283.2735,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 130.83971291417652,
+          "new_width": 130.83971291417652,
+          "overshoot": 88.04868487587879,
+          "old_sizes": [
+            19.35583
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6475584076395072
+        },
+        {
+          "text": "Make their day brighter!",
+          "x": 572.5116505024698,
+          "baseline": 257.7777,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 169.1512541956747,
+          "new_width": 169.1512541956747,
+          "overshoot": 126.15703309714303,
+          "old_sizes": [
+            24.04611
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6205284441056425
+        },
+        {
+          "text": "Kindness",
+          "x": 661.4244009858315,
+          "baseline": 164.863,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 60.72094729199023,
+          "new_width": 60.72094729199023,
+          "overshoot": 36.95861071905952,
+          "old_sizes": [
+            17.7719
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6734369767065091
+        },
+        {
+          "text": "spreads happiness!",
+          "x": 644.0227339304639,
+          "baseline": 150.0403,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 128.3972659780519,
+          "new_width": 128.3972659780519,
+          "overshoot": 88.04914286172712,
+          "old_sizes": [
+            22.37079
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.642639620996687
+        },
+        {
+          "text": "Did you know? Many animals lay eggs - not only birds!",
+          "x": 121.01449390005243,
+          "baseline": 101.30879999999999,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 436.316805289075,
+          "new_width": 436.316805289075,
+          "overshoot": 207.87987979379807,
+          "old_sizes": [
+            23.34115,
+            14.72072
+          ],
+          "word_count": 2,
+          "horizontal_scale": 0.8804948240347251
+        },
+        {
+          "text": "Turtles, frogs, snakes and even some lizards lay eggs, too.",
+          "x": 323.12205568386236,
+          "baseline": 79.27793,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 357.8197889820994,
+          "new_width": 357.8197889820994,
+          "overshoot": 334.21115024442,
+          "old_sizes": [
+            21.6413
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6721747530488208
+        },
+        {
+          "text": "Curiosity, kindness and small surprises",
+          "x": 943.3430652943673,
+          "baseline": 100.7181,
+          "font_size": 20,
+          "column": "footer-right",
+          "old_width": 232.04080540084283,
+          "new_width": 232.04080540084283,
+          "overshoot": 218.11831062125668,
+          "old_sizes": [
+            16.98508
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6701031619368266
+        },
+        {
+          "text": "can make the world a happier place!",
+          "x": 939.005815543179,
+          "baseline": 77.44495,
+          "font_size": 20,
+          "column": "footer-right",
+          "old_width": 219.02892318720149,
+          "new_width": 219.02892318720149,
+          "overshoot": 214.40975084594777,
+          "old_sizes": [
+            21.98277
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6569270745821479
+        },
+        {
+          "text": "Surprises",
+          "x": 1353.146673528544,
+          "baseline": 100.7802,
+          "font_size": 22,
+          "column": "footer-sign",
+          "old_width": 76.02659994859664,
+          "new_width": 76.02659994859664,
+          "overshoot": 32.052958062453115,
+          "old_sizes": [
+            17.21163
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8313285118346135
+        },
+        {
+          "text": "Big Joy",
+          "x": 1355.3776752755266,
+          "baseline": 74.38581,
+          "font_size": 22,
+          "column": "footer-sign",
+          "old_width": 65.05809162119908,
+          "new_width": 65.05809162119908,
+          "overshoot": 20.813731583220815,
+          "old_sizes": [
+            26.87352
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8953674521303138
+        },
+        {
+          "text": "Egg Detective Bao",
+          "x": 270.8990829780473,
+          "baseline": 351.6667,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 178.1785700981958,
+          "new_width": 178.1785700981958,
+          "overshoot": 37.52087741561641,
+          "old_sizes": [
+            31.13855
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8948877083270466
+        },
+        {
+          "text": "Explores the village",
+          "x": 303.60465293537237,
+          "baseline": 324.6102,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 117.10465347802875,
+          "new_width": 117.10465347802875,
+          "overshoot": 117.18263933965085,
+          "old_sizes": [
+            18.63856
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5414863652034335
+        },
+        {
+          "text": "Follows curious clues",
+          "x": 303.6046217812691,
+          "baseline": 297.485,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 121.44183577841216,
+          "new_width": 121.44183577841216,
+          "overshoot": 123.61893770225086,
+          "old_sizes": [
+            27.08504
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5368545397590024
+        },
+        {
+          "text": "Helps friends find lost things",
+          "x": 303.60462580556015,
+          "baseline": 277.253,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 169.15127060634603,
+          "new_width": 169.15127060634603,
+          "overshoot": 172.46861889641644,
+          "old_sizes": [
+            20.6129
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5364067358322231
+        },
+        {
+          "text": "Brings joy and surprises",
+          "x": 303.6046232363337,
+          "baseline": 253.4786,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 145.29637364256934,
+          "new_width": 145.29637364256934,
+          "overshoot": 136.6527976281489,
+          "old_sizes": [
+            21.16173
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5582722732258562
+        },
+        {
+          "text": "Believes that curiosity",
+          "x": 303.6046502944252,
+          "baseline": 233.9039,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 132.28482731605578,
+          "new_width": 132.28482731605578,
+          "overshoot": 133.51848760107134,
+          "old_sizes": [
+            15.26283
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5391526549260992
+        },
+        {
+          "text": "opens new adventures",
+          "x": 305.2854502808055,
+          "baseline": 211.4926,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 128.77192272402664,
+          "new_width": 128.77192272402664,
+          "overshoot": 129.56177893343198,
+          "old_sizes": [
+            22.37079
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5400105189114588
+        },
+        {
+          "text": "Small discoveries",
+          "x": 316.6692159544752,
+          "baseline": 187.1359,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 129.772430334631,
+          "new_width": 129.772430334631,
+          "overshoot": 69.23530447199886,
+          "old_sizes": [
+            17.81372
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7064388711614037
+        },
+        {
+          "text": "can lead to big happiness!",
+          "x": 274.95332578529656,
+          "baseline": 167.666,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 194.7150408741404,
+          "new_width": 194.7150408741404,
+          "overshoot": 111.16562210928504,
+          "old_sizes": [
+            22.24581
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6896195798155077
+        },
+        {
+          "text": "Curiosity",
+          "x": 1392.19283377614,
+          "baseline": 952.6729,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 62.992929958025115,
+          "new_width": 62.992929958025115,
+          "overshoot": 40.05900374363236,
+          "old_sizes": [
+            15.17202
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7224142941938405
+        },
+        {
+          "text": "Leads",
+          "x": 1405.1237574620216,
+          "baseline": 930.7505,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 41.467962388576325,
+          "new_width": 41.467962388576325,
+          "overshoot": 24.17844645120269,
+          "old_sizes": [
+            21.71136
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7465388096610617
+        },
+        {
+          "text": "to Discoveries",
+          "x": 1379.2324461272394,
+          "baseline": 911.9531,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 93.25005824602363,
+          "new_width": 93.25005824602363,
+          "overshoot": 69.50132296944602,
+          "old_sizes": [
+            20.55571
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6771347405331892
+        },
+        {
+          "text": "Explore",
+          "x": 1396.5810534627374,
+          "baseline": 862.9051,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 58.55230306248268,
+          "new_width": 58.55230306248268,
+          "overshoot": 29.416757710998,
+          "old_sizes": [
+            16.41088
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7866194743712788
+        },
+        {
+          "text": "Together",
+          "x": 1392.0628314862297,
+          "baseline": 837.6628,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 67.59000287775143,
+          "new_width": 67.59000287775143,
+          "overshoot": 38.33485900070163,
+          "old_sizes": [
+            25.41033
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7541109130897877
+        },
+        {
+          "text": "Kindness",
+          "x": 1392.2441438690455,
+          "baseline": 785.7836,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 65.05815445870599,
+          "new_width": 65.05815445870599,
+          "overshoot": 32.621403552343764,
+          "old_sizes": [
+            18.08927
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7871340880364828
+        },
+        {
+          "text": "in Small",
+          "x": 1391.8874881986053,
+          "baseline": 764.2234,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 63.60389001104954,
+          "new_width": 63.60389001104954,
+          "overshoot": 30.111027116022285,
+          "old_sizes": [
+            26.00512
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8020946499637679
+        },
+        {
+          "text": "Surprises",
+          "x": 1389.9050908343663,
+          "baseline": 745.4088,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 71.90550877084888,
+          "new_width": 71.90550877084888,
+          "overshoot": 36.17404924020087,
+          "old_sizes": [
+            21.43095
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7862655917744217
+        },
+        {
+          "text": "A Brighter",
+          "x": 1385.4909339176695,
+          "baseline": 692.4776,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 78.56415859706681,
+          "new_width": 78.56415859706681,
+          "overshoot": 45.632526485806125,
+          "old_sizes": [
+            19.91703
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7475928283215093
+        },
+        {
+          "text": "Tomorrow",
+          "x": 1385.7379114547011,
+          "baseline": 667.5543,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 75.90115510540932,
+          "new_width": 75.90115510540932,
+          "overshoot": 37.55077859624815,
+          "old_sizes": [
+            24.79323
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7906552334353396
+        },
+        {
+          "text": "E",
+          "x": 1391.4848238582854,
+          "baseline": 510.7651,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 9.030003049556854,
+          "new_width": 9.030003049556854,
+          "overshoot": 5.19099142558127,
+          "old_sizes": [
+            31.6223
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.750427250674835
+        },
+        {
+          "text": "In April, the Giggle Dumplings explore the village and",
+          "x": 843.5872200201158,
+          "baseline": 822.6477,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 396.8544491822157,
+          "new_width": 396.8544491822157,
+          "overshoot": 241.53892098353026,
+          "old_sizes": [
+            21.03946
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6734494331748968
+        },
+        {
+          "text": "discover a huge, mysterious egg in the meadow!",
+          "x": 845.7558674518043,
+          "baseline": 802.0926,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 351.31403905030925,
+          "new_width": 351.31403905030925,
+          "overshoot": 211.8373421651604,
+          "old_sizes": [
+            16.45532
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6758222063661231
+        },
+        {
+          "text": "Egg Detective Bao investigates and follows a trail of",
+          "x": 843.5871935294665,
+          "baseline": 779.3004,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 381.6744765511876,
+          "new_width": 381.6744765511876,
+          "overshoot": 245.25591018914395,
+          "old_sizes": [
+            20.6129
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6595320496112959
+        },
+        {
+          "text": "colorful eggs. Inside the giant egg, they find the",
+          "x": 843.587211956098,
+          "baseline": 756.9803,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 353.48257891119385,
+          "new_width": 353.48257891119385,
+          "overshoot": 230.0665923595244,
+          "old_sizes": [
+            18.3952
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.656224838179874
+        },
+        {
+          "text": "fourth shining star!",
+          "x": 843.5871942523219,
+          "baseline": 728.389,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 149.633708899035,
+          "new_width": 149.633708899035,
+          "overshoot": 78.90772756505339,
+          "old_sizes": [
+            27.74534
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7092945032140513
+        },
+        {
+          "text": "What a surprise! Maybe there are still more special",
+          "x": 843.5872221620707,
+          "baseline": 690.0471,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 383.842891558116,
+          "new_width": 383.842891558116,
+          "overshoot": 237.8013073369117,
+          "old_sizes": [
+            19.34695
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6689192948749402
+        },
+        {
+          "text": "eggs waiting somewhere?",
+          "x": 843.5872038885897,
+          "baseline": 663.1855,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 193.00580144028197,
+          "new_width": 193.00580144028197,
+          "overshoot": 103.68149137739766,
+          "old_sizes": [
+            26.57704
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7047474674133144
+        }
+      ],
+      "visual_review": "inspected final export"
+    },
+    {
+      "month": 5,
+      "lines": [
+        {
+          "text": "Do something good for nature!",
+          "x": 555.1628293583002,
+          "baseline": 351.3181,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 216.8603421785483,
+          "new_width": 216.8603421785483,
+          "overshoot": 140.53192301482193,
+          "old_sizes": [
+            25.75143
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6573506486856451
+        },
+        {
+          "text": "For example:",
+          "x": 620.2209762074984,
+          "baseline": 326.5798,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 80.23842310329144,
+          "new_width": 80.23842310329144,
+          "overshoot": 70.64776474201247,
+          "old_sizes": [
+            18.9173
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5760961927874996
+        },
+        {
+          "text": "Plant a flower or a small herb",
+          "x": 574.6802440339281,
+          "baseline": 300.447,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 188.6685943160162,
+          "new_width": 188.6685943160162,
+          "overshoot": 174.0098587226579,
+          "old_sizes": [
+            24.3534
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5635597468314146
+        },
+        {
+          "text": "Water a plant",
+          "x": 574.6802772750276,
+          "baseline": 284.9392,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 91.08139869919,
+          "new_width": 91.08139869919,
+          "overshoot": 79.9440156654509,
+          "old_sizes": [
+            16.56194
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5769406589308398
+        },
+        {
+          "text": "Pick up litter",
+          "x": 574.5786585945469,
+          "baseline": 265.2389,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 86.94726211276782,
+          "new_width": 86.94726211276782,
+          "overshoot": 71.63837324634824,
+          "old_sizes": [
+            17.11724
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5939558590885784
+        },
+        {
+          "text": "Build a small insect hotel",
+          "x": 574.6802392132707,
+          "baseline": 239.8693,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 160.47681346232264,
+          "new_width": 160.47681346232264,
+          "overshoot": 138.9110318415448,
+          "old_sizes": [
+            24.9212
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5806844999816156
+        },
+        {
+          "text": "Look for butterflies and",
+          "x": 572.5116218754287,
+          "baseline": 220.6536,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 156.1394805313114,
+          "new_width": 156.1394805313114,
+          "overshoot": 129.601955932777,
+          "old_sizes": [
+            20.69418
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5919726099304444
+        },
+        {
+          "text": "other insects",
+          "x": 574.598893324107,
+          "baseline": 199.64,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 89.07552198814403,
+          "new_width": 89.07552198814403,
+          "overshoot": 65.17199182401069,
+          "old_sizes": [
+            24.64869
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6256080229036315
+        },
+        {
+          "text": "Did you know?",
+          "x": 114.28715594034415,
+          "baseline": 95.23035,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 174.7861413691791,
+          "new_width": 174.7861413691791,
+          "overshoot": -8.070119269731578,
+          "old_sizes": [
+            23.34115
+          ],
+          "word_count": 1,
+          "horizontal_scale": 1.3629282951844486
+        },
+        {
+          "text": "Butterflies help flowers grow by carrying pollen.",
+          "x": 301.43604460669496,
+          "baseline": 93.69892,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 286.2558645349651,
+          "new_width": 286.2558645349651,
+          "overshoot": 295.7706548020516,
+          "old_sizes": [
+            13.82071
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6393740002076692
+        },
+        {
+          "text": "They need clean air, colorful meadows and many different plants",
+          "x": 299.2674545083925,
+          "baseline": 73.73877,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 373.00003244485214,
+          "new_width": 373.00003244485214,
+          "overshoot": 398.7259344059767,
+          "old_sizes": [
+            17.76956
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6283318988954492
+        },
+        {
+          "text": "Together we can make a big difference -",
+          "x": 919.4884219532282,
+          "baseline": 95.74135,
+          "font_size": 20,
+          "column": "footer-right",
+          "old_width": 223.36639096266276,
+          "new_width": 223.36639096266276,
+          "overshoot": 266.92753168927106,
+          "old_sizes": [
+            13.98603
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5922494545330182
+        },
+        {
+          "text": "for the butterflies, for the animals and for our future!",
+          "x": 917.3197605483039,
+          "baseline": 74.11306,
+          "font_size": 20,
+          "column": "footer-right",
+          "old_width": 294.9302295372021,
+          "new_width": 294.9302295372021,
+          "overshoot": 360.38468758986994,
+          "old_sizes": [
+            19.97021
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5850764088802451
+        },
+        {
+          "text": "Ideas",
+          "x": 1368.3897287824273,
+          "baseline": 105.2186,
+          "font_size": 22,
+          "column": "footer-sign",
+          "old_width": 45.54067675818328,
+          "new_width": 45.54067675818328,
+          "overshoot": 18.152140921374745,
+          "old_sizes": [
+            22.52717
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8450057913264416
+        },
+        {
+          "text": "Brighten",
+          "x": 1357.5465470731976,
+          "baseline": 88.883,
+          "font_size": 22,
+          "column": "footer-sign",
+          "old_width": 67.22674323606111,
+          "new_width": 67.22674323606111,
+          "overshoot": 32.147842399298014,
+          "old_sizes": [
+            18.38316
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7994980502593406
+        },
+        {
+          "text": "the World",
+          "x": 1350.3944647370347,
+          "baseline": 61.2674,
+          "font_size": 22,
+          "column": "footer-sign",
+          "old_width": 77.04296064521623,
+          "new_width": 77.04296064521623,
+          "overshoot": 43.50510565312632,
+          "old_sizes": [
+            27.45511
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7553067790094538
+        },
+        {
+          "text": "Butterfly Explorer Bao",
+          "x": 264.56975661589837,
+          "baseline": 351.7555,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 201.68020799718096,
+          "new_width": 201.68020799718096,
+          "overshoot": 69.3518362017141,
+          "old_sizes": [
+            27.86655
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8061293735312379
+        },
+        {
+          "text": "Follows the butterflies",
+          "x": 294.93023433191087,
+          "baseline": 321.2833,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 138.7906245698204,
+          "new_width": 138.7906245698204,
+          "overshoot": 132.24141962907464,
+          "old_sizes": [
+            25.11109
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5547554732690599
+        },
+        {
+          "text": "Observes nature closely",
+          "x": 299.2426759832496,
+          "baseline": 300.5737,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 141.0087735869044,
+          "new_width": 141.0087735869044,
+          "overshoot": 143.32492807055422,
+          "old_sizes": [
+            22.10182
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5372543030554228
+        },
+        {
+          "text": "Learns about flowers and insects",
+          "x": 299.2674161610718,
+          "baseline": 273.4782,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 182.16277222598677,
+          "new_width": 182.16277222598677,
+          "overshoot": 209.1300454535713,
+          "old_sizes": [
+            25.73464
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5043358690177374
+        },
+        {
+          "text": "Helps to protect habitats",
+          "x": 299.26745835826165,
+          "baseline": 255.2849,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 143.12795839218302,
+          "new_width": 143.12795839218302,
+          "overshoot": 159.93723497798277,
+          "old_sizes": [
+            18.76159
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5116235438782729
+        },
+        {
+          "text": "Shares the beauty",
+          "x": 299.18714507875916,
+          "baseline": 234.6778,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 110.75945231690929,
+          "new_width": 110.75945231690929,
+          "overshoot": 110.1399951969029,
+          "old_sizes": [
+            17.71041
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.543185635034914
+        },
+        {
+          "text": "of nature with friends",
+          "x": 297.0988203445852,
+          "baseline": 208.6013,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 136.62211105342942,
+          "new_width": 136.62211105342942,
+          "overshoot": 126.85413204049331,
+          "old_sizes": [
+            25.73464
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5617481304444881
+        },
+        {
+          "text": "Small discoveries",
+          "x": 301.594749123824,
+          "baseline": 181.6383,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 124.87991386426427,
+          "new_width": 124.87991386426427,
+          "overshoot": 74.12782094236559,
+          "old_sizes": [
+            17.37814
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6798056039601027
+        },
+        {
+          "text": "can lead to big happiness!",
+          "x": 271.0356756088801,
+          "baseline": 162.969,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 185.0382839688328,
+          "new_width": 185.0382839688328,
+          "overshoot": 120.84237901459267,
+          "old_sizes": [
+            22.24581
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.655347543094274
+        },
+        {
+          "text": "Curiosity",
+          "x": 1390.0754826565137,
+          "baseline": 971.8349,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 65.05815400646748,
+          "new_width": 65.05815400646748,
+          "overshoot": 37.99377969519,
+          "old_sizes": [
+            15.38518
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7460986564596024
+        },
+        {
+          "text": "Leads",
+          "x": 1400.9184836094078,
+          "baseline": 949.6898,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 45.54070741665146,
+          "new_width": 45.54070741665146,
+          "overshoot": 20.105701423127556,
+          "old_sizes": [
+            21.9556
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8198595626033334
+        },
+        {
+          "text": "to Discoveries",
+          "x": 1377.0643495217314,
+          "baseline": 929.1814,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 97.58718820429158,
+          "new_width": 97.58718820429158,
+          "overshoot": 65.16419301117807,
+          "old_sizes": [
+            24.37653
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7086287837991163
+        },
+        {
+          "text": "Be Kind",
+          "x": 1394.38522722802,
+          "baseline": 876.0145,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 58.60692870955745,
+          "new_width": 58.60692870955745,
+          "overshoot": 28.155502229669082,
+          "old_sizes": [
+            22.21274
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7983032884128461
+        },
+        {
+          "text": "to Nature",
+          "x": 1387.8239595341436,
+          "baseline": 855.4851,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 71.7293161498028,
+          "new_width": 71.7293161498028,
+          "overshoot": 44.45189931981048,
+          "old_sizes": [
+            24.43373
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7296447162527149
+        },
+        {
+          "text": "Explore",
+          "x": 1394.293725337522,
+          "baseline": 808.2932,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 56.62148380063741,
+          "new_width": 56.62148380063741,
+          "overshoot": 31.34757697284327,
+          "old_sizes": [
+            14.53372
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7606799305204093
+        },
+        {
+          "text": "Together",
+          "x": 1389.8908612132204,
+          "baseline": 783.5521,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 67.59642565637637,
+          "new_width": 67.59642565637637,
+          "overshoot": 38.32843622207669,
+          "old_sizes": [
+            25.42939
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.754182572909986
+        },
+        {
+          "text": "Small",
+          "x": 1400.918486173313,
+          "baseline": 731.7826,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 43.372107156521906,
+          "new_width": 43.372107156521906,
+          "overshoot": 20.636732622483635,
+          "old_sizes": [
+            24.42234
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8007947808195757
+        },
+        {
+          "text": "Actions",
+          "x": 1394.197730035745,
+          "baseline": 713.9978,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 56.813124525634066,
+          "new_width": 56.813124525634066,
+          "overshoot": 28.31173735281898,
+          "old_sizes": [
+            19.93471
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7887564461034399
+        },
+        {
+          "text": "Big Impact",
+          "x": 1383.4771642673343,
+          "baseline": 694.2772,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 80.42292238482037,
+          "new_width": 80.42292238482037,
+          "overshoot": 47.594757173190715,
+          "old_sizes": [
+            22.83935
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.742438640018182
+        },
+        {
+          "text": "In May, the Giggle Dumplings follow a trail of beautiful",
+          "x": 815.3953129865224,
+          "baseline": 852.4332,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 381.6744480825985,
+          "new_width": 381.6744480825985,
+          "overshoot": 283.9542811991696,
+          "old_sizes": [
+            18.01215
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6211881096773555
+        },
+        {
+          "text": "butterflies through the blooming meadows to a very old tree",
+          "x": 815.3953995871723,
+          "baseline": 829.2057,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 407.69768427838403,
+          "new_width": 407.69768427838403,
+          "overshoot": 317.7454096442681,
+          "old_sizes": [
+            20.61289
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6088313404616608
+        },
+        {
+          "text": "at the edge of the forest. Inside the tree hollow, they find",
+          "x": 815.395401536495,
+          "baseline": 805.2511,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 394.6862475476021,
+          "new_width": 394.6862475476021,
+          "overshoot": 316.2485590822323,
+          "old_sizes": [
+            20.6129
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6014289414292207
+        },
+        {
+          "text": "the fifth shining star!",
+          "x": 815.395326196282,
+          "baseline": 779.1216,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 153.97100641201928,
+          "new_width": 153.97100641201928,
+          "overshoot": 104.16159027306367,
+          "old_sizes": [
+            23.56398
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6461869820203925
+        },
+        {
+          "text": "The butterflies show them that nature is full of",
+          "x": 817.5639356835736,
+          "baseline": 739.8895,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 331.79655025653165,
+          "new_width": 331.79655025653165,
+          "overshoot": 245.4034497434684,
+          "old_sizes": [
+            26.82381
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6227412730040008
+        },
+        {
+          "text": "little wonders. Where will the next adventure lead?",
+          "x": 817.5640010422137,
+          "baseline": 715.3283,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 357.8195851926014,
+          "new_width": 357.8195851926014,
+          "overshoot": 263.22129878529927,
+          "old_sizes": [
+            28.93154
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6241745011628661
+        }
+      ],
+      "visual_review": "inspected final export"
+    },
+    {
+      "month": 6,
+      "lines": [
+        {
+          "text": "Be thoughtful",
+          "x": 548.5461004470726,
+          "baseline": 330.408,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 123.83213118673098,
+          "new_width": 123.83213118673098,
+          "overshoot": 39.55129422763369,
+          "old_sizes": [
+            25.09658
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8210837489302467
+        },
+        {
+          "text": "and share with others!",
+          "x": 518.2965114423082,
+          "baseline": 297.6759,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 193.00571168279805,
+          "new_width": 193.00571168279805,
+          "overshoot": 74.55008942217438,
+          "old_sizes": [
+            32.02196
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7814800506144289
+        },
+        {
+          "text": "A picnic is even more",
+          "x": 535.6453733284403,
+          "baseline": 267.8515,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 158.308127437062,
+          "new_width": 158.308127437062,
+          "overshoot": 91.14822615409827,
+          "old_sizes": [
+            16.71611
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6874969064577388
+        },
+        {
+          "text": "fun when everyone",
+          "x": 545.5278413124441,
+          "baseline": 246.0307,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 138.14190162227544,
+          "new_width": 138.14190162227544,
+          "overshoot": 84.16528069816658,
+          "old_sizes": [
+            19.3212
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6731843982519129
+        },
+        {
+          "text": "has something to enjoy.",
+          "x": 529.139536919378,
+          "baseline": 225.0087,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 175.65688665369964,
+          "new_width": 175.65688665369964,
+          "overshoot": 105.51659400928384,
+          "old_sizes": [
+            19.38677
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6767884371342859
+        },
+        {
+          "text": "How can you make",
+          "x": 548.6569407803595,
+          "baseline": 203.1933,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 136.6220790827092,
+          "new_width": 136.6220790827092,
+          "overshoot": 81.63427450845103,
+          "old_sizes": [
+            18.85406
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6781349083511685
+        },
+        {
+          "text": "someone else's day",
+          "x": 546.3336215321133,
+          "baseline": 179.2956,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 139.41614773556216,
+          "new_width": 139.41614773556216,
+          "overshoot": 80.62142132521137,
+          "old_sizes": [
+            21.95743
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6864016935450872
+        },
+        {
+          "text": "brighter?",
+          "x": 578.9435206061554,
+          "baseline": 155.4545,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 71.71171617679522,
+          "new_width": 71.71171617679522,
+          "overshoot": 37.17226172375727,
+          "old_sizes": [
+            22.37079
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7134905798152998
+        },
+        {
+          "text": "Picnics are a great way to enjoy nature.",
+          "x": 305.77329051829975,
+          "baseline": 108.0675,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 266.7384580218063,
+          "new_width": 266.7384580218063,
+          "overshoot": 218.84386242018275,
+          "old_sizes": [
+            18.80413
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7141116569333058
+        },
+        {
+          "text": "Did you know?",
+          "x": 108.05364189632922,
+          "baseline": 97.88746,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 181.94639608363042,
+          "new_width": 181.94639608363042,
+          "overshoot": -15.230373984182904,
+          "old_sizes": [
+            23.34115
+          ],
+          "word_count": 1,
+          "horizontal_scale": 1.4187617478518486
+        },
+        {
+          "text": "Please always leave the place clean for others!",
+          "x": 297.09886437171383,
+          "baseline": 83.77345,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 327.45905317231416,
+          "new_width": 327.45905317231416,
+          "overshoot": 238.27796340227155,
+          "old_sizes": [
+            21.75956
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.75246405423762
+        },
+        {
+          "text": "Kind People",
+          "x": 1259.9591940661346,
+          "baseline": 91.0402,
+          "font_size": 20,
+          "column": "footer-right",
+          "old_width": 101.92442987125446,
+          "new_width": 101.92442987125446,
+          "overshoot": 32.95954802929805,
+          "old_sizes": [
+            21.15766
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.9823387543502161
+        },
+        {
+          "text": "Make a Brighter World",
+          "x": 1216.5874560854065,
+          "baseline": 66.45435,
+          "font_size": 20,
+          "column": "footer-right",
+          "old_width": 179.9942348745858,
+          "new_width": 179.9942348745858,
+          "overshoot": 95.0024502082872,
+          "old_sizes": [
+            22.22098
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8508920944499588
+        },
+        {
+          "text": "Looks for clues",
+          "x": 309.9280486417102,
+          "baseline": 314.0244,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 110.96368345423258,
+          "new_width": 110.96368345423258,
+          "overshoot": 67.18659278886136,
+          "old_sizes": [
+            30.40406
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6747710955630845
+        },
+        {
+          "text": "Finds what's missing",
+          "x": 310.1105171179337,
+          "baseline": 264.0001,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 145.29653139526,
+          "new_width": 145.29653139526,
+          "overshoot": 88.38744650529253,
+          "old_sizes": [
+            23.21077
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.673578809691369
+        },
+        {
+          "text": "Learns about",
+          "x": 307.92090289174985,
+          "baseline": 211.859,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 104.13487702963414,
+          "new_width": 104.13487702963414,
+          "overshoot": 49.5093218653935,
+          "old_sizes": [
+            28.15686
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7342469436535378
+        },
+        {
+          "text": "nature and how to",
+          "x": 307.94190680463646,
+          "baseline": 192.2174,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 143.12785432210808,
+          "new_width": 143.12785432210808,
+          "overshoot": 75.24341639612402,
+          "old_sizes": [
+            21.92386
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.710052998297964
+        },
+        {
+          "text": "take care of it",
+          "x": 307.5532541344088,
+          "baseline": 167.4664,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 113.54468276338332,
+          "new_width": 113.54468276338332,
+          "overshoot": 63.60006861783219,
+          "old_sizes": [
+            28.36182
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6943854599204096
+        },
+        {
+          "text": "Good",
+          "x": 1394.41318874727,
+          "baseline": 750.7492,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 45.54071579575884,
+          "new_width": 45.54071579575884,
+          "overshoot": 10.423925088219065,
+          "old_sizes": [
+            27.81435
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.9616937603873845
+        },
+        {
+          "text": "Friends",
+          "x": 1390.0760458253906,
+          "baseline": 724.3963,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 62.88950721038418,
+          "new_width": 62.88950721038418,
+          "overshoot": 19.506072900113068,
+          "old_sizes": [
+            31.4033
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.9020382278654382
+        },
+        {
+          "text": "Make Every",
+          "x": 1377.0640762856012,
+          "baseline": 703.3863,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 93.25001755784479,
+          "new_width": 93.25001755784479,
+          "overshoot": 44.851639900718766,
+          "old_sizes": [
+            24.37161
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7979959707420006
+        },
+        {
+          "text": "Adventure",
+          "x": 1385.7379251273007,
+          "baseline": 674.6134,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 82.40699025007143,
+          "new_width": 82.40699025007143,
+          "overshoot": 37.45157328584018,
+          "old_sizes": [
+            28.35891
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8125416867462156
+        },
+        {
+          "text": "Brighter",
+          "x": 1394.412653087988,
+          "baseline": 652.3773,
+          "font_size": 22,
+          "column": "small-right-sign",
+          "old_width": 69.39534367792908,
+          "new_width": 69.39534367792908,
+          "overshoot": 28.08310936074497,
+          "old_sizes": [
+            26.55817
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8413416127927259
+        },
+        {
+          "text": "In June, the Giggle Dumplings plan a picnic in the meadows.",
+          "x": 867.441906962439,
+          "baseline": 917.2742,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 503.1159869058364,
+          "new_width": 503.1159869058364,
+          "overshoot": 208.9105324311803,
+          "old_sizes": [
+            25.30499
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7654803639273018
+        },
+        {
+          "text": "But when they arrive, their strawberries are missing!",
+          "x": 940.2850266601362,
+          "baseline": 888.87,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 379.43010657266325,
+          "new_width": 379.43010657266325,
+          "overshoot": 253.8494514383865,
+          "old_sizes": [
+            26.74184,
+            26.74184,
+            20.42162,
+            22.89614,
+            26.41321,
+            26.17199,
+            36.27637,
+            19.49546
+          ],
+          "word_count": 8,
+          "horizontal_scale": 0.6490802946669771
+        },
+        {
+          "text": "Can they find out who took them?",
+          "x": 1008.0197407478635,
+          "baseline": 867.1808,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 243.96037139759608,
+          "new_width": 243.96037139759608,
+          "overshoot": 161.4959821935642,
+          "old_sizes": [
+            27.55609,
+            20.42162,
+            25.1757,
+            25.77961,
+            26.09256,
+            25.36136,
+            26.41321
+          ],
+          "word_count": 7,
+          "horizontal_scale": 0.6518344083316341
+        }
+      ],
+      "visual_review": "inspected final export"
+    },
+    {
+      "month": 7,
+      "lines": [
+        {
+          "text": "Build something together!",
+          "x": 503.1163188776466,
+          "baseline": 319.432,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 212.52345103429246,
+          "new_width": 212.52345103429246,
+          "overshoot": 89.45002962869103,
+          "old_sizes": [
+            28.69858
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7624303237324178
+        },
+        {
+          "text": "Working together makes",
+          "x": 522.6337446252321,
+          "baseline": 290.3828,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 177.8256273282649,
+          "new_width": 177.8256273282649,
+          "overshoot": 113.71912405295063,
+          "old_sizes": [
+            21.16503
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6607713865296927
+        },
+        {
+          "text": "everything more fun.",
+          "x": 537.8139614707371,
+          "baseline": 267.8697,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 151.8023007749116,
+          "new_width": 151.8023007749116,
+          "overshoot": 95.12587602066858,
+          "old_sizes": [
+            18.44762
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6659932237797894
+        },
+        {
+          "text": "This month, build or create",
+          "x": 513.9593469556282,
+          "baseline": 242.2281,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 197.3430758843408,
+          "new_width": 197.3430758843408,
+          "overshoot": 124.1663163808526,
+          "old_sizes": [
+            24.64701
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.664952058481996
+        },
+        {
+          "text": "something with someone",
+          "x": 522.6337681431481,
+          "baseline": 222.828,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 179.99411046276066,
+          "new_width": 179.99411046276066,
+          "overshoot": 103.67881771403495,
+          "old_sizes": [
+            18.72659
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6873888915704476
+        },
+        {
+          "text": "else. It can be a sandcastle,",
+          "x": 513.959340575399,
+          "baseline": 198.6618,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 197.34315217849849,
+          "new_width": 197.34315217849849,
+          "overshoot": 141.71983124691593,
+          "old_sizes": [
+            22.45719
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6305271448396498
+        },
+        {
+          "text": "a cushion fort, a drawing",
+          "x": 522.6337574311293,
+          "baseline": 177.539,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 177.82558530758013,
+          "new_width": 177.82558530758013,
+          "overshoot": 118.80424894656358,
+          "old_sizes": [
+            20.48185
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6494437235809524
+        },
+        {
+          "text": "or anything you like!",
+          "x": 542.151159125552,
+          "baseline": 153.0252,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 138.79065906899189,
+          "new_width": 138.79065906899189,
+          "overshoot": 104.40271109675399,
+          "old_sizes": [
+            22.22098
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6182592363528138
+        },
+        {
+          "text": "Did you know? Wet sand sticks together much better than dry sand",
+          "x": 106.26164128684967,
+          "baseline": 92.30535499999999,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 566.0054942399829,
+          "new_width": 566.0054942399829,
+          "overshoot": 244.1315223346029,
+          "old_sizes": [
+            23.34115,
+            18.39318
+          ],
+          "word_count": 2,
+          "horizontal_scale": 0.908250243425626
+        },
+        {
+          "text": "That's why it's perfect for building sandcastles!",
+          "x": 303.60467456760097,
+          "baseline": 71.73967,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 318.7849271768876,
+          "new_width": 318.7849271768876,
+          "overshoot": 247.29684077891358,
+          "old_sizes": [
+            17.40808
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7320857670906498
+        },
+        {
+          "text": "Plans the sandcastle",
+          "x": 307.9419029061569,
+          "baseline": 317.0111,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 136.62203804854175,
+          "new_width": 136.62203804854175,
+          "overshoot": 107.34702272493894,
+          "old_sizes": [
+            29.06032
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.606663842606425
+        },
+        {
+          "text": "Measures and builds",
+          "x": 307.94181316121666,
+          "baseline": 284.4099,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 138.79082199467774,
+          "new_width": 138.79082199467774,
+          "overshoot": 99.1163603257643,
+          "old_sizes": [
+            26.80374
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6319974132813234
+        },
+        {
+          "text": "Finds the best place",
+          "x": 310.0525366960993,
+          "baseline": 246.3483,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 141.07521315771635,
+          "new_width": 141.07521315771635,
+          "overshoot": 99.07285314062622,
+          "old_sizes": [
+            16.27676
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6364052114872857
+        },
+        {
+          "text": "for towers",
+          "x": 307.7057954092385,
+          "baseline": 217.9848,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 80.71046906559116,
+          "new_width": 80.71046906559116,
+          "overshoot": 44.060801652640905,
+          "old_sizes": [
+            28.36182
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7007730303971907
+        },
+        {
+          "text": "Learns about sand,",
+          "x": 310.0246199845746,
+          "baseline": 181.6658,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 123.78227713196026,
+          "new_width": 123.78227713196026,
+          "overshoot": 98.20888308903426,
+          "old_sizes": [
+            22.248
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6040666968876667
+        },
+        {
+          "text": "the sea and the animals",
+          "x": 305.77327699889145,
+          "baseline": 158.0476,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 153.97085970054718,
+          "new_width": 153.97085970054718,
+          "overshoot": 130.39157123867938,
+          "old_sizes": [
+            24.8368
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5865815822598639
+        },
+        {
+          "text": "that live there",
+          "x": 305.6630772353813,
+          "baseline": 133.2297,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 97.807531273949,
+          "new_width": 97.807531273949,
+          "overshoot": 78.7626344719074,
+          "old_sizes": [
+            29.98494
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6000909521295953
+        },
+        {
+          "text": "In July, the Giggle Dumplings build a giant sandcastle at the beach.",
+          "x": 865.2732793609028,
+          "baseline": 917.3305,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 539.9823714822311,
+          "new_width": 539.9823714822311,
+          "overshoot": 273.17121967799005,
+          "old_sizes": [
+            25.22571
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.719397797412938
+        },
+        {
+          "text": "While digging a new tower, they discover a sparkling star!",
+          "x": 904.3081313464183,
+          "baseline": 890.8082,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 461.9128261830115,
+          "new_width": 461.9128261830115,
+          "overshoot": 232.24407989433666,
+          "old_sizes": [
+            23.18129
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7208824940257866
+        },
+        {
+          "text": "Can you find where the star was hidden?",
+          "x": 973.7035178926188,
+          "baseline": 861.2183,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 325.2909030098391,
+          "new_width": 325.2909030098391,
+          "overshoot": 161.00964947634884,
+          "old_sizes": [
+            27.28476
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7246516099129211
+        }
+      ],
+      "visual_review": "inspected final export"
+    },
+    {
+      "month": 8,
+      "lines": [
+        {
+          "text": "Be kind to nature!",
+          "x": 529.1395236739123,
+          "baseline": 349.5756,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 164.81397091536417,
+          "new_width": 164.81397091536417,
+          "overshoot": 49.44901251005027,
+          "old_sizes": [
+            31.97473
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8333145820953145
+        },
+        {
+          "text": "Look around you:",
+          "x": 544.2663566552143,
+          "baseline": 322.0091,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 132.39162610297865,
+          "new_width": 132.39162610297865,
+          "overshoot": 66.12771091359596,
+          "old_sizes": [
+            22.3657
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7224699808441611
+        },
+        {
+          "text": "What can you do today",
+          "x": 524.8023255058902,
+          "baseline": 298.4697,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 173.48844411964012,
+          "new_width": 173.48844411964012,
+          "overshoot": 104.09387632234888,
+          "old_sizes": [
+            21.63761
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.677081357932598
+        },
+        {
+          "text": "to help the environment?",
+          "x": 516.1278718506551,
+          "baseline": 273.0376,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 188.66850494699247,
+          "new_width": 188.66850494699247,
+          "overshoot": 107.32928510825622,
+          "old_sizes": [
+            24.93226
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6905148863479414
+        },
+        {
+          "text": "Maybe pick up some litter,",
+          "x": 513.9593186465835,
+          "baseline": 242.5327,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 188.66875817258574,
+          "new_width": 188.66875817258574,
+          "overshoot": 129.42184956222093,
+          "old_sizes": [
+            21.13392
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6425563965641184
+        },
+        {
+          "text": "water a plant or simply",
+          "x": 522.633684867567,
+          "baseline": 220.7101,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 166.98259099805284,
+          "new_width": 166.98259099805284,
+          "overshoot": 113.35774049365995,
+          "old_sizes": [
+            18.66016
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.64527927876801
+        },
+        {
+          "text": "notice the beauty",
+          "x": 542.1511574761397,
+          "baseline": 199.84,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 127.94772338985274,
+          "new_width": 127.94772338985274,
+          "overshoot": 84.16056390296498,
+          "old_sizes": [
+            18.12364
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6534871194400239
+        },
+        {
+          "text": "around you.",
+          "x": 561.6685702971927,
+          "baseline": 176.057,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 88.9127630107514,
+          "new_width": 88.9127630107514,
+          "overshoot": 47.37894969643094,
+          "old_sizes": [
+            23.36854
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7067352666941576
+        },
+        {
+          "text": "Did you know? Fireflies are not just pretty - they are actually beetles!",
+          "x": 103.62895425539293,
+          "baseline": 98.70318,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 562.1327505483453,
+          "new_width": 562.1327505483453,
+          "overshoot": 293.1954262472349,
+          "old_sizes": [
+            23.34115,
+            18.68019
+          ],
+          "word_count": 2,
+          "horizontal_scale": 0.854376829313201
+        },
+        {
+          "text": "They light up using a special chemical reaction in their bodies.",
+          "x": 303.6046735322859,
+          "baseline": 75.11838,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 407.69782806218154,
+          "new_width": 407.69782806218154,
+          "overshoot": 335.67233768367487,
+          "old_sizes": [
+            22.24581
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7129788104275832
+        },
+        {
+          "text": "Kind People",
+          "x": 1259.8443727989684,
+          "baseline": 93.54675,
+          "font_size": 20,
+          "column": "footer-right",
+          "old_width": 102.15379101867325,
+          "new_width": 102.15379101867325,
+          "overshoot": 32.73018688187926,
+          "old_sizes": [
+            18.21574
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.9845493170596303
+        },
+        {
+          "text": "Make a Brighter World",
+          "x": 1214.729461782331,
+          "baseline": 69.76708,
+          "font_size": 20,
+          "column": "footer-right",
+          "old_width": 185.8926528325635,
+          "new_width": 185.8926528325635,
+          "overshoot": 89.1040322503095,
+          "old_sizes": [
+            22.22098
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.8787758609144899
+        },
+        {
+          "text": "Forest Ranger",
+          "x": 262.4011359113377,
+          "baseline": 360.5504,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 158.3081565896877,
+          "new_width": 158.3081565896877,
+          "overshoot": 7.660904183792979,
+          "old_sizes": [
+            29.39988
+          ],
+          "word_count": 1,
+          "horizontal_scale": 1.0333281526864244
+        },
+        {
+          "text": "Explores the forest",
+          "x": 318.65761251117857,
+          "baseline": 311.2656,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 139.04517418292704,
+          "new_width": 139.04517418292704,
+          "overshoot": 91.76587554082991,
+          "old_sizes": [
+            25.05523
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6526215803436901
+        },
+        {
+          "text": "Finds hidden places",
+          "x": 320.7818366259266,
+          "baseline": 265.8781,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 141.30260936911287,
+          "new_width": 141.30260936911287,
+          "overshoot": 83.38910333806948,
+          "old_sizes": [
+            26.35956
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6812793626084
+        },
+        {
+          "text": "Learns about",
+          "x": 318.60671127101324,
+          "baseline": 220.7085,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 100.11207976307026,
+          "new_width": 100.11207976307026,
+          "overshoot": 53.53211913195739,
+          "old_sizes": [
+            28.94788
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7058825120417179
+        },
+        {
+          "text": "plants and animals",
+          "x": 318.78490864771305,
+          "baseline": 200.7194,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 136.62214637327764,
+          "new_width": 136.62214637327764,
+          "overshoot": 81.49056080904285,
+          "old_sizes": [
+            22.37079
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6785818540778465
+        },
+        {
+          "text": "Helps protect",
+          "x": 318.6487421724179,
+          "baseline": 167.0195,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 100.02802020371183,
+          "new_width": 100.02802020371183,
+          "overshoot": 60.568664879161105,
+          "old_sizes": [
+            21.99619
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6747566956198511
+        },
+        {
+          "text": "nature",
+          "x": 320.95353415635185,
+          "baseline": 143.2841,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 49.87789832529995,
+          "new_width": 49.87789832529995,
+          "overshoot": 28.007184547628242,
+          "old_sizes": [
+            21.06092
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6937707178223972
+        },
+        {
+          "text": "On a warm summer night, the Giggle Dumplings take a",
+          "x": 923.8256307886511,
+          "baseline": 909.8231,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 461.9127242379245,
+          "new_width": 461.9127242379245,
+          "overshoot": 186.47843598307009,
+          "old_sizes": [
+            23.20199
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7717647647867312
+        },
+        {
+          "text": "walk through the forest. Fireflies show them the way",
+          "x": 930.3314346639067,
+          "baseline": 885.2517,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 451.06994732940916,
+          "new_width": 451.06994732940916,
+          "overshoot": 190.62729023965176,
+          "old_sizes": [
+            20.46774
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7615103837099959
+        },
+        {
+          "text": "to a hidden tree stump. Inside, they find what has",
+          "x": 949.8488007669605,
+          "baseline": 858.2069,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 418.54078635843007,
+          "new_width": 418.54078635843007,
+          "overshoot": 183.85479375206728,
+          "old_sizes": [
+            24.86082
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7526934130865668
+        },
+        {
+          "text": "disappeared - star number 8!",
+          "x": 1034.424569475172,
+          "baseline": 831.1117,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 240.7151855549871,
+          "new_width": 240.7151855549871,
+          "overshoot": 105.50138903064834,
+          "old_sizes": [
+            24.36244
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.753212883188336
+        }
+      ],
+      "visual_review": "inspected final export"
+    },
+    {
+      "month": 9,
+      "lines": [
+        {
+          "text": "Be curious and explore!",
+          "x": 524.8023131169282,
+          "baseline": 325.4482,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 182.16284958177675,
+          "new_width": 182.16284958177675,
+          "overshoot": 92.80510621932825,
+          "old_sizes": [
+            26.6403
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7176948545585099
+        },
+        {
+          "text": "This month, look around",
+          "x": 531.3081760566616,
+          "baseline": 291.6712,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 171.31974351462134,
+          "new_width": 171.31974351462134,
+          "overshoot": 108.12998024228477,
+          "old_sizes": [
+            22.16113
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6641494803156689
+        },
+        {
+          "text": "your neighborhood or",
+          "x": 537.813948176105,
+          "baseline": 272.8023,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 158.3081277832182,
+          "new_width": 158.3081277832182,
+          "overshoot": 90.02778381899176,
+          "old_sizes": [
+            18.15842
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6905987565739842
+        },
+        {
+          "text": "on a walk.",
+          "x": 581.0258679645481,
+          "baseline": 247.0065,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 71.884267773852,
+          "new_width": 71.884267773852,
+          "overshoot": 49.755511231672884,
+          "old_sizes": [
+            24.9396
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6402068801698163
+        },
+        {
+          "text": "Can you find something",
+          "x": 535.6453187151966,
+          "baseline": 228.9213,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 166.98255915008315,
+          "new_width": 166.98255915008315,
+          "overshoot": 106.20418118140861,
+          "old_sizes": [
+            18.47786
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6621762542101572
+        },
+        {
+          "text": "new and interesting?",
+          "x": 544.3197277616621,
+          "baseline": 207.3829,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 151.80225912544188,
+          "new_width": 151.80225912544188,
+          "overshoot": 92.97122153754162,
+          "old_sizes": [
+            18.85101
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6718556558515496
+        },
+        {
+          "text": "It could be a special",
+          "x": 546.488354454035,
+          "baseline": 185.804,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 145.29656900131783,
+          "new_width": 145.29656900131783,
+          "overshoot": 100.08022657879269,
+          "old_sizes": [
+            18.76101
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6414812616896569
+        },
+        {
+          "text": "building, a plant, a rock",
+          "x": 539.982590007625,
+          "baseline": 164.3953,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 164.81400831748647,
+          "new_width": 164.81400831748647,
+          "overshoot": 116.73295300848042,
+          "old_sizes": [
+            18.67368
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6341695473100563
+        },
+        {
+          "text": "or a hidden place!",
+          "x": 557.2652081489987,
+          "baseline": 140.3052,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 123.74289186010446,
+          "new_width": 123.74289186010446,
+          "overshoot": 86.9576606260834,
+          "old_sizes": [
+            22.37079
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.636233735191088
+        },
+        {
+          "text": "Many ancient ruins are hundreds or even thousands of years old.",
+          "x": 294.93027183694556,
+          "baseline": 87.56269,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 440.22673281864814,
+          "new_width": 440.22673281864814,
+          "overshoot": 328.080449501794,
+          "old_sizes": [
+            19.32674
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.744877525335371
+        },
+        {
+          "text": "Did you know?",
+          "x": 110.37102172265122,
+          "baseline": 81.9255,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 179.6290826881836,
+          "new_width": 179.6290826881836,
+          "overshoot": -12.913060588736073,
+          "old_sizes": [
+            23.34115
+          ],
+          "word_count": 1,
+          "horizontal_scale": 1.4006920543926087
+        },
+        {
+          "text": "Archaeologists carefully dig and clean to learn more about how people lived long ago.",
+          "x": 303.60466032752174,
+          "baseline": 64.12803,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 555.1630883611067,
+          "new_width": 555.1630883611067,
+          "overshoot": 464.38166302010893,
+          "old_sizes": [
+            21.6413
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7078767399780229
+        },
+        {
+          "text": "Explores ancient",
+          "x": 312.2275081608461,
+          "baseline": 327.091,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 117.20782467795476,
+          "new_width": 117.20782467795476,
+          "overshoot": 77.26068360933809,
+          "old_sizes": [
+            21.68776
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6529342180870454
+        },
+        {
+          "text": "ruins",
+          "x": 310.11042604450876,
+          "baseline": 301.3672,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 39.03488503450944,
+          "new_width": 39.03488503450944,
+          "overshoot": 17.04467297654029,
+          "old_sizes": [
+            24.14379
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7540678568184563
+        },
+        {
+          "text": "Cleans and uncovers",
+          "x": 312.2790632975051,
+          "baseline": 272.4707,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 138.7905835152689,
+          "new_width": 138.7905835152689,
+          "overshoot": 97.65140543500738,
+          "old_sizes": [
+            25.34312
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6359127079856134
+        },
+        {
+          "text": "hidden treasures",
+          "x": 312.2790973536198,
+          "baseline": 249.1315,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 119.27329001173564,
+          "new_width": 119.27329001173564,
+          "overshoot": 77.03389230870638,
+          "old_sizes": [
+            27.28961
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6582170316882575
+        },
+        {
+          "text": "Looks for clues",
+          "x": 312.2790735025843,
+          "baseline": 222.5363,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 108.43025979656011,
+          "new_width": 108.43025979656011,
+          "overshoot": 69.72001644653383,
+          "old_sizes": [
+            24.43266
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6593653249199517
+        },
+        {
+          "text": "about the stars",
+          "x": 312.2790798073888,
+          "baseline": 199.6631,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 110.59877349721387,
+          "new_width": 110.59877349721387,
+          "overshoot": 75.36586738676408,
+          "old_sizes": [
+            26.89179
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6442909651306615
+        },
+        {
+          "text": "Learns about history",
+          "x": 312.2790335769901,
+          "baseline": 172.2594,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 145.29642292009748,
+          "new_width": 145.29642292009748,
+          "overshoot": 99.99418481470917,
+          "old_sizes": [
+            19.70251
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6417060140093709
+        },
+        {
+          "text": "and how people lived",
+          "x": 312.27910173277684,
+          "baseline": 151.0932,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 145.29644997176825,
+          "new_width": 145.29644997176825,
+          "overshoot": 99.36211356414339,
+          "old_sizes": [
+            19.16323
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6433638994463865
+        },
+        {
+          "text": "in the past",
+          "x": 310.11044475,
+          "baseline": 127.0419,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 88.91276212500003,
+          "new_width": 88.91276212500003,
+          "overshoot": 41.202155002071834,
+          "old_sizes": [
+            22.625
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7402852885398268
+        },
+        {
+          "text": "In September, the Giggle Dumplings explore ancient ruins.",
+          "x": 895.6337630018326,
+          "baseline": 920.795,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 464.08162085356673,
+          "new_width": 464.08162085356673,
+          "overshoot": 228.49517472654384,
+          "old_sizes": [
+            23.33757
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7259196272045427
+        },
+        {
+          "text": "They find a mysterious stone circle with twelve star-shaped spaces",
+          "x": 869.6105188152437,
+          "baseline": 894.5406,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 531.3079072146638,
+          "new_width": 531.3079072146638,
+          "overshoot": 272.56612593450757,
+          "old_sizes": [
+            22.69993
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7160121392332754
+        },
+        {
+          "text": "and discover the ninth star!",
+          "x": 1023.5818958166396,
+          "baseline": 864.497,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 219.02921047766336,
+          "new_width": 219.02921047766336,
+          "overshoot": 108.80062377648034,
+          "old_sizes": [
+            29.35346
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7237951519085579
+        }
+      ],
+      "visual_review": "inspected final export"
+    },
+    {
+      "month": 10,
+      "lines": [
+        {
+          "text": "Be creative and kind!",
+          "x": 526.9709460886523,
+          "baseline": 318.9485,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 179.99421000443192,
+          "new_width": 179.99421000443192,
+          "overshoot": 68.34170159777804,
+          "old_sizes": [
+            32.93728
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7852014887687552
+        },
+        {
+          "text": "Try something creative",
+          "x": 531.308131990905,
+          "baseline": 290.4563,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 175.65698224531957,
+          "new_width": 175.65698224531957,
+          "overshoot": 96.49550394252577,
+          "old_sizes": [
+            21.42809
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6992222145924126
+        },
+        {
+          "text": "this month.",
+          "x": 574.6802794272752,
+          "baseline": 262.5513,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 86.74420961148542,
+          "new_width": 86.74420961148542,
+          "overshoot": 45.7265086205588,
+          "old_sizes": [
+            27.08504
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7093861571820491
+        },
+        {
+          "text": "Maybe carve a pumpkin,",
+          "x": 529.1395300273135,
+          "baseline": 243.0321,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 179.9942003380571,
+          "new_width": 179.9942003380571,
+          "overshoot": 105.74723612603128,
+          "old_sizes": [
+            20.43098
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6824131615135971
+        },
+        {
+          "text": "make a drawing",
+          "x": 559.3498554116446,
+          "baseline": 221.5171,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 117.40501487598726,
+          "new_width": 117.40501487598726,
+          "overshoot": 67.78393540025587,
+          "old_sizes": [
+            18.17916
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.686805373246771
+        },
+        {
+          "text": "or help decorate",
+          "x": 557.0870021970582,
+          "baseline": 198.2756,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 124.09917708970636,
+          "new_width": 124.09917708970636,
+          "overshoot": 72.5814858937191,
+          "old_sizes": [
+            21.36945
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6835485153507173
+        },
+        {
+          "text": "something together.",
+          "x": 541.9656073456796,
+          "baseline": 173.709,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 152.17351818948646,
+          "new_width": 152.17351818948646,
+          "overshoot": 84.67068070554123,
+          "old_sizes": [
+            22.49718
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6960467914113558
+        },
+        {
+          "text": "Pumpkins are actually a type of berry!",
+          "x": 301.4360204609293,
+          "baseline": 89.73192,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 279.749964735036,
+          "new_width": 279.749964735036,
+          "overshoot": 183.73953802739504,
+          "old_sizes": [
+            16.38348
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7846455032703388
+        },
+        {
+          "text": "Did you know?",
+          "x": 108.4302534672273,
+          "baseline": 83.22678,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 181.56973607738155,
+          "new_width": 181.56973607738155,
+          "overshoot": -14.853713977934035,
+          "old_sizes": [
+            23.34115
+          ],
+          "word_count": 1,
+          "horizontal_scale": 1.4158246695677263
+        },
+        {
+          "text": "They can be orange, yellow, white, green or even striped.",
+          "x": 303.6046887545815,
+          "baseline": 66.46129,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 403.3603040417895,
+          "new_width": 403.3603040417895,
+          "overshoot": 280.856270543846,
+          "old_sizes": [
+            22.24581
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7663778030689861
+        },
+        {
+          "text": "Carves and decorates",
+          "x": 310.1104477947057,
+          "baseline": 325.1572,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 149.63375870054608,
+          "new_width": 149.63375870054608,
+          "overshoot": 102.95408660332134,
+          "old_sizes": [
+            24.23649
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6417697510236303
+        },
+        {
+          "text": "pumpkins",
+          "x": 311.9872545685499,
+          "baseline": 304.291,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 65.64169267770029,
+          "new_width": 65.64169267770029,
+          "overshoot": 39.42129074771408,
+          "old_sizes": [
+            23.82682
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.676849556482075
+        },
+        {
+          "text": "Uses creativity",
+          "x": 312.2790866583815,
+          "baseline": 277.7526,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 104.09298421668501,
+          "new_width": 104.09298421668501,
+          "overshoot": 73.62635279988962,
+          "old_sizes": [
+            18.18059
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6345252095868353
+        },
+        {
+          "text": "and imagination",
+          "x": 310.1104278457807,
+          "baseline": 254.7529,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 117.10471080088689,
+          "new_width": 117.10471080088689,
+          "overshoot": 64.7229135085054,
+          "old_sizes": [
+            22.24581
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6977126670537909
+        },
+        {
+          "text": "Looks for hidden places",
+          "x": 310.1104652549264,
+          "baseline": 224.7274,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 160.47669464951474,
+          "new_width": 160.47669464951474,
+          "overshoot": 115.84153739468417,
+          "old_sizes": [
+            18.75114
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6291649713116502
+        },
+        {
+          "text": "and small details",
+          "x": 310.11043279360246,
+          "baseline": 197.5747,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 114.93602028808618,
+          "new_width": 114.93602028808618,
+          "overshoot": 83.8131509826321,
+          "old_sizes": [
+            26.80374
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6264882574486724
+        },
+        {
+          "text": "Learns about pumpkins,",
+          "x": 310.1104509076677,
+          "baseline": 172.82,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 160.47673839910806,
+          "new_width": 160.47673839910806,
+          "overshoot": 114.80723950144443,
+          "old_sizes": [
+            18.72955
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6315289442496034
+        },
+        {
+          "text": "plants and the changing",
+          "x": 310.1104685788514,
+          "baseline": 149.6167,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 156.13956609948923,
+          "new_width": 156.13956609948923,
+          "overshoot": 127.13115213255503,
+          "old_sizes": [
+            21.24463
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5971361871198348
+        },
+        {
+          "text": "seasons",
+          "x": 310.1104693843483,
+          "baseline": 126.5861,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 56.38371963236051,
+          "new_width": 56.38371963236051,
+          "overshoot": 30.780921251617414,
+          "old_sizes": [
+            27.36658
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7007699718095782
+        },
+        {
+          "text": "In October, the Giggle Dumplings visit a pumpkin farm.",
+          "x": 917.319762623907,
+          "baseline": 921.1521,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 427.2151355590771,
+          "new_width": 427.2151355590771,
+          "overshoot": 226.95061029727663,
+          "old_sizes": [
+            24.61482
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7074910292800556
+        },
+        {
+          "text": "They discover a tiny door in a huge pumpkin",
+          "x": 958.5232383698012,
+          "baseline": 894.8006,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 344.80812669637726,
+          "new_width": 344.80812669637726,
+          "overshoot": 177.3465694362195,
+          "old_sizes": [
+            23.18129
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7153859574970688
+        },
+        {
+          "text": "and find the tenth star!",
+          "x": 1032.2555715573844,
+          "baseline": 864.001,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 190.83710663232296,
+          "new_width": 190.83710663232296,
+          "overshoot": 93.46786574336767,
+          "old_sizes": [
+            28.92619
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7271775696504154
+        }
+      ],
+      "visual_review": "inspected final export"
+    },
+    {
+      "month": 11,
+      "lines": [
+        {
+          "text": "Be observant and think",
+          "x": 526.9709351114794,
+          "baseline": 321.4498,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 182.16286806122923,
+          "new_width": 182.16286806122923,
+          "overshoot": 90.90895514319067,
+          "old_sizes": [
+            29.41686
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7226783955611628
+        },
+        {
+          "text": "about what happens next!",
+          "x": 513.9593277619249,
+          "baseline": 294.8426,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 203.84880852035144,
+          "new_width": 203.84880852035144,
+          "overshoot": 105.07715833047735,
+          "old_sizes": [
+            26.96057
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7148515596845765
+        },
+        {
+          "text": "Look at the pictures",
+          "x": 546.4883706396754,
+          "baseline": 265.8148,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 145.29658878988266,
+          "new_width": 145.29658878988266,
+          "overshoot": 97.5233007128798,
+          "old_sizes": [
+            19.21875
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6482361810559819
+        },
+        {
+          "text": "and put the storm story",
+          "x": 533.4767700569384,
+          "baseline": 244.4333,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 171.31965258637445,
+          "new_width": 171.31965258637445,
+          "overshoot": 115.45603802136037,
+          "old_sizes": [
+            18.48761
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6471827856419424
+        },
+        {
+          "text": "in the right order.",
+          "x": 557.2453610945728,
+          "baseline": 222.8999,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 125.95118322764085,
+          "new_width": 125.95118322764085,
+          "overshoot": 91.06981124749728,
+          "old_sizes": [
+            18.98403
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6287277205289413
+        },
+        {
+          "text": "What happens first?",
+          "x": 546.4883293371341,
+          "baseline": 200.7729,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 145.29659799884416,
+          "new_width": 145.29659799884416,
+          "overshoot": 97.81058432159787,
+          "old_sizes": [
+            18.75114
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6474701665728844
+        },
+        {
+          "text": "What comes next?",
+          "x": 552.9941665629188,
+          "baseline": 174.9564,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 132.28488167868204,
+          "new_width": 132.28488167868204,
+          "overshoot": 87.78141666385943,
+          "old_sizes": [
+            25.3143
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6512065813707966
+        },
+        {
+          "text": "Can you find the correct",
+          "x": 533.4767389600183,
+          "baseline": 156.7987,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 171.31987127491573,
+          "new_width": 171.31987127491573,
+          "overshoot": 121.91990773060917,
+          "old_sizes": [
+            19.23792
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6329172932946291
+        },
+        {
+          "text": "sequence?",
+          "x": 581.1860044410437,
+          "baseline": 133.7292,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 75.90115575047139,
+          "new_width": 75.90115575047139,
+          "overshoot": 41.25685529925238,
+          "old_sizes": [
+            22.96424
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7018406281079023
+        },
+        {
+          "text": "Did you know? Storms can be very strong and move trees, leaves and even whole branches.",
+          "x": 108.07181357745331,
+          "baseline": 74.3694,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 683.468875269973,
+          "new_width": 683.468875269973,
+          "overshoot": 399.4526716913532,
+          "old_sizes": [
+            23.34115,
+            16.75996
+          ],
+          "word_count": 2,
+          "horizontal_scale": 0.8204745213022304
+        },
+        {
+          "text": "After a storm, animals often find new places to live and new things are discovered in the forest.",
+          "x": 303.6047073286776,
+          "baseline": 53.30667,
+          "font_size": 20,
+          "column": "footer-left",
+          "old_width": 618.052324126401,
+          "new_width": 618.052324126401,
+          "overshoot": 535.0261289122733,
+          "old_sizes": [
+            21.6413
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6968025629539476
+        },
+        {
+          "text": "Reports about",
+          "x": 316.506651618866,
+          "baseline": 327.2839,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 102.14365869616614,
+          "new_width": 102.14365869616614,
+          "overshoot": 65.34805401101622,
+          "old_sizes": [
+            21.48662
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6606633156091363
+        },
+        {
+          "text": "the autumn storm",
+          "x": 314.4476372934744,
+          "baseline": 299.4812,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 130.11637503683983,
+          "new_width": 130.11637503683983,
+          "overshoot": 81.50351446592262,
+          "old_sizes": [
+            27.08504
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6660971547670606
+        },
+        {
+          "text": "Observes the wind",
+          "x": 316.6162856290172,
+          "baseline": 268.2608,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 130.1162972114741,
+          "new_width": 130.1162972114741,
+          "overshoot": 87.9676806890784,
+          "old_sizes": [
+            27.61124
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6463534063166033
+        },
+        {
+          "text": "and the weather",
+          "x": 314.4476857441168,
+          "baseline": 245.1098,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 119.2733042459667,
+          "new_width": 119.2733042459667,
+          "overshoot": 78.29796647226539,
+          "old_sizes": [
+            27.33089
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6540057458593854
+        },
+        {
+          "text": "Looks for clues",
+          "x": 316.5237421814329,
+          "baseline": 217.1248,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 106.44676847284825,
+          "new_width": 106.44676847284825,
+          "overshoot": 71.7035077702457,
+          "old_sizes": [
+            23.17272
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6473036974407868
+        },
+        {
+          "text": "after the storm",
+          "x": 314.2408846181573,
+          "baseline": 192.3255,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 113.1808633535166,
+          "new_width": 113.1808633535166,
+          "overshoot": 74.8235565359862,
+          "old_sizes": [
+            28.36182
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6521793585404729
+        },
+        {
+          "text": "Learns about nature",
+          "x": 314.44770834247777,
+          "baseline": 159.8085,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 143.12784365786308,
+          "new_width": 143.12784365786308,
+          "overshoot": 98.34176960180548,
+          "old_sizes": [
+            25.36608
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6421311645368137
+        },
+        {
+          "text": "and how weather",
+          "x": 314.44770081673727,
+          "baseline": 140.5137,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 121.44180720305138,
+          "new_width": 121.44180720305138,
+          "overshoot": 81.96150771407574,
+          "old_sizes": [
+            21.5873
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6468034105388505
+        },
+        {
+          "text": "can change the forest",
+          "x": 314.39089974950406,
+          "baseline": 120.7288,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 149.74718509126222,
+          "new_width": 149.74718509126222,
+          "overshoot": 113.38430662144498,
+          "old_sizes": [
+            21.6413
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6165211017741762
+        },
+        {
+          "text": "In November, a big storm sweeps through the forest.",
+          "x": 934.6686169271911,
+          "baseline": 922.6395,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 409.8659620316182,
+          "new_width": 409.8659620316182,
+          "overshoot": 223.61470095180732,
+          "old_sizes": [
+            22.59672
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7009234611462858
+        },
+        {
+          "text": "After the wind calms down, the Giggle Dumplings discover a clue",
+          "x": 904.3081553919383,
+          "baseline": 896.6682,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 472.7558755345476,
+          "new_width": 472.7558755345476,
+          "overshoot": 296.4419145207012,
+          "old_sizes": [
+            22.59672
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6658264039720835
+        },
+        {
+          "text": "under an uprooted tree and find the eleventh star!",
+          "x": 954.1860050739979,
+          "baseline": 868.4086,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 375.16872411557574,
+          "new_width": 375.16872411557574,
+          "overshoot": 230.61691124354036,
+          "old_sizes": [
+            25.7016
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6709184911880632
+        }
+      ],
+      "visual_review": "inspected final export"
+    },
+    {
+      "month": 12,
+      "lines": [
+        {
+          "text": "Do one thing",
+          "x": 555.0873333298388,
+          "baseline": 318.6396,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 134.6044572739296,
+          "new_width": 134.6044572739296,
+          "overshoot": 13.609907366954417,
+          "old_sizes": [
+            27.63827
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.9838553485244741
+        },
+        {
+          "text": "that makes",
+          "x": 563.7180762413223,
+          "baseline": 287.8626,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 115.17423278151728,
+          "new_width": 115.17423278151728,
+          "overshoot": 18.330739594173366,
+          "old_sizes": [
+            28.22045
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.9345875535047085
+        },
+        {
+          "text": "someone's day",
+          "x": 550.6555159416505,
+          "baseline": 264.9288,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 143.78040486707664,
+          "new_width": 143.78040486707664,
+          "overshoot": 19.9477719285035,
+          "old_sizes": [
+            25.6617
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.9513457507508946
+        },
+        {
+          "text": "brighter.",
+          "x": 576.6505275661876,
+          "baseline": 240.2281,
+          "font_size": 24,
+          "column": "challenge",
+          "old_width": 95.81532893199005,
+          "new_width": 95.81532893199005,
+          "overshoot": 9.046549521048632,
+          "old_sizes": [
+            22.37079
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.9898729758384817
+        },
+        {
+          "text": "Explores and",
+          "x": 331.7964726863605,
+          "baseline": 328.8884,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 91.08143118692658,
+          "new_width": 91.08143118692658,
+          "overshoot": 58.59812682412317,
+          "old_sizes": [
+            18.97679
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6592186118375604
+        },
+        {
+          "text": "finds the last star",
+          "x": 331.72610426180387,
+          "baseline": 297.2534,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 125.91988500734698,
+          "new_width": 125.91988500734698,
+          "overshoot": 92.42265642911713,
+          "old_sizes": [
+            31.79669
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6247669733094792
+        },
+        {
+          "text": "Uses a map",
+          "x": 330.4645419323729,
+          "baseline": 273.2543,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 86.93133065026956,
+          "new_width": 86.93133065026956,
+          "overshoot": 46.88966382486859,
+          "old_sizes": [
+            19.92395
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.7037431501224948
+        },
+        {
+          "text": "and a key",
+          "x": 331.5205329830718,
+          "baseline": 248.2107,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 69.94732948054144,
+          "new_width": 69.94732948054144,
+          "overshoot": 45.77421748078456,
+          "old_sizes": [
+            23.34115
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.654815594793632
+        },
+        {
+          "text": "Looks for clues",
+          "x": 331.6765225990519,
+          "baseline": 216.3397,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 113.00753565454062,
+          "new_width": 113.00753565454062,
+          "overshoot": 65.14274058855332,
+          "old_sizes": [
+            24.48091
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6871997780422462
+        },
+        {
+          "text": "and hidden paths",
+          "x": 329.56356654825777,
+          "baseline": 196.5233,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 128.07642887865916,
+          "new_width": 128.07642887865916,
+          "overshoot": 71.56335012686574,
+          "old_sizes": [
+            22.37079
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6949990894084672
+        },
+        {
+          "text": "Discovers the",
+          "x": 331.7290944907494,
+          "baseline": 159.3489,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 99.89056760813787,
+          "new_width": 99.89056760813787,
+          "overshoot": 57.8331892979395,
+          "old_sizes": [
+            23.29907
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6861032459423556
+        },
+        {
+          "text": "magical Giggle House",
+          "x": 331.49312589229527,
+          "baseline": 139.7593,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 143.73474108331078,
+          "new_width": 143.73474108331078,
+          "overshoot": 104.11277272884396,
+          "old_sizes": [
+            22.46531
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6282598270951483
+        },
+        {
+          "text": "with all friends",
+          "x": 331.6751567666389,
+          "baseline": 109.4861,
+          "font_size": 24,
+          "column": "job",
+          "old_width": 108.67294503314383,
+          "new_width": 108.67294503314383,
+          "overshoot": 72.63755220442525,
+          "old_sizes": [
+            28.48355
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6493227120305496
+        },
+        {
+          "text": "In December, the Giggle Dumplings find the twelfth and last star.",
+          "x": 954.1860331386591,
+          "baseline": 944.8537,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 444.56376243910006,
+          "new_width": 444.56376243910006,
+          "overshoot": 344.68706629018186,
+          "old_sizes": [
+            16.5693
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6102125270083866
+        },
+        {
+          "text": "All twelve stars open the gate to the magical Giggle House.",
+          "x": 967.1976437292276,
+          "baseline": 922.297,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 405.52886617987315,
+          "new_width": 405.52886617987315,
+          "overshoot": 309.94516696929816,
+          "old_sizes": [
+            21.37151
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.6140305839302675
+        },
+        {
+          "text": "As the night falls, the five friends watch a beautiful silver firework",
+          "x": 952.0174432947169,
+          "baseline": 899.8064,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 444.56381835255524,
+          "new_width": 444.56381835255524,
+          "overshoot": 368.84833634357744,
+          "old_sizes": [
+            18.33875
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5920870501316569
+        },
+        {
+          "text": "light up the sky. Their adventure was just the beginning ...",
+          "x": 980.2093093274759,
+          "baseline": 874.595,
+          "font_size": 24,
+          "column": "story",
+          "old_width": 386.0116857093976,
+          "new_width": 386.0116857093976,
+          "overshoot": 320.55627009170746,
+          "old_sizes": [
+            24.04611
+          ],
+          "word_count": 1,
+          "horizontal_scale": 0.5918458695328889
+        }
+      ],
+      "visual_review": "inspected final export"
+    }
+  ],
+  "visual_review": "all twelve final back pages inspected; user review pending",
+  "user_review": "pending",
+  "print_status": "not_released",
+  "calendar": [
+    {
+      "month": 1,
+      "count": 31,
+      "font_size": 29,
+      "horizontal_offset": 12
+    },
+    {
+      "month": 2,
+      "count": 28,
+      "font_size": 29,
+      "horizontal_offset": 12
+    },
+    {
+      "month": 3,
+      "count": 31,
+      "font_size": 29,
+      "horizontal_offset": 12
+    },
+    {
+      "month": 4,
+      "count": 30,
+      "font_size": 29,
+      "horizontal_offset": 12
+    },
+    {
+      "month": 5,
+      "count": 31,
+      "font_size": 29,
+      "horizontal_offset": 12
+    },
+    {
+      "month": 6,
+      "count": 30,
+      "font_size": 25,
+      "horizontal_offset": 10
+    },
+    {
+      "month": 7,
+      "count": 31,
+      "font_size": 25,
+      "horizontal_offset": 10
+    },
+    {
+      "month": 8,
+      "count": 31,
+      "font_size": 25,
+      "horizontal_offset": 10
+    },
+    {
+      "month": 9,
+      "count": 30,
+      "font_size": 25,
+      "horizontal_offset": 10
+    },
+    {
+      "month": 10,
+      "count": 31,
+      "font_size": 25,
+      "horizontal_offset": 10
+    },
+    {
+      "month": 11,
+      "count": 30,
+      "font_size": 25,
+      "horizontal_offset": 10
+    },
+    {
+      "month": 12,
+      "count": 31,
+      "font_size": 25,
+      "horizontal_offset": 10
+    }
+  ],
+  "verification": {
+    "body_font_size_per_block": "single size; whole-line horizontal fitting, no individual word fitting",
+    "calendar_dates": 365,
+    "unchanged_master_pages": [
+      1,
+      26,
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      14,
+      16,
+      18,
+      20,
+      22,
+      24
+    ],
+    "illustration_changes": "none",
+    "background_note": "Local paper-tone rectangles at previous numerals; short grid-border segments restored. Text erasure recolor experiment rejected; original v31 masks retained."
+  },
+  "output_master": "output/pdf/giggle-dumplings-2027-ARBEITSMASTER-v32.pdf"
+}
